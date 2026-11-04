@@ -1,0 +1,3591 @@
+date,series,index,yoy_pct
+1996-11-01,All items,56.67,
+1996-12-01,All items,56.67,
+1997-01-01,All items,56.39,
+1997-02-01,All items,56.71,
+1997-03-01,All items,56.77,
+1997-04-01,All items,56.88,
+1997-05-01,All items,56.87,
+1997-06-01,All items,57.03,
+1997-07-01,All items,56.93,
+1997-08-01,All items,56.82,
+1997-09-01,All items,57.06,
+1997-10-01,All items,57.18,
+1997-11-01,All items,57.41,1.3
+1997-12-01,All items,57.56,1.4
+1998-01-01,All items,57.17,1.5
+1998-02-01,All items,57.47,1.3
+1998-03-01,All items,57.77,1.7
+1998-04-01,All items,58.08,2.2
+1998-05-01,All items,58.34,2.6
+1998-06-01,All items,58.61,2.7
+1998-07-01,All items,58.47,2.6
+1998-08-01,All items,58.61,3.2
+1998-09-01,All items,58.74,3.0
+1998-10-01,All items,58.77,2.7
+1998-11-01,All items,58.77,2.3
+1998-12-01,All items,58.91,2.4
+1999-01-01,All items,58.51,2.3
+1999-02-01,All items,58.93,2.6
+1999-03-01,All items,59.11,2.3
+1999-04-01,All items,59.41,2.3
+1999-05-01,All items,59.84,2.5
+1999-06-01,All items,60.01,2.4
+1999-07-01,All items,59.77,2.2
+1999-08-01,All items,60.13,2.7
+1999-09-01,All items,60.4,2.8
+1999-10-01,All items,60.56,3.1
+1999-11-01,All items,60.7,3.4
+1999-12-01,All items,61.37,4.2
+2000-01-01,All items,61.17,4.5
+2000-02-01,All items,61.69,4.7
+2000-03-01,All items,62.1,5.1
+2000-04-01,All items,62.48,5.1
+2000-05-01,All items,62.92,5.2
+2000-06-01,All items,63.29,5.5
+2000-07-01,All items,63.26,5.9
+2000-08-01,All items,63.58,5.7
+2000-09-01,All items,63.76,5.6
+2000-10-01,All items,64.12,5.8
+2000-11-01,All items,64.2,5.7
+2000-12-01,All items,64.17,4.5
+2001-01-01,All items,63.52,3.9
+2001-02-01,All items,64.12,3.9
+2001-03-01,All items,64.62,4.0
+2001-04-01,All items,65.09,4.2
+2001-05-01,All items,65.52,4.0
+2001-06-01,All items,65.97,4.3
+2001-07-01,All items,65.78,4.0
+2001-08-01,All items,65.97,3.7
+2001-09-01,All items,66.2,3.9
+2001-10-01,All items,66.5,3.7
+2001-11-01,All items,66.42,3.5
+2001-12-01,All items,66.94,4.3
+2002-01-01,All items,66.84,5.3
+2002-02-01,All items,67.27,5.0
+2002-03-01,All items,67.89,5.1
+2002-04-01,All items,68.42,5.2
+2002-05-01,All items,68.8,5.0
+2002-06-01,All items,68.94,4.5
+2002-07-01,All items,68.57,4.2
+2002-08-01,All items,68.99,4.6
+2002-09-01,All items,69.21,4.5
+2002-10-01,All items,69.53,4.6
+2002-11-01,All items,69.52,4.7
+2002-12-01,All items,70.02,4.5
+2003-01-01,All items,70.11,4.8
+2003-02-01,All items,70.76,5.1
+2003-03-01,All items,71.27,5.0
+2003-04-01,All items,71.63,4.7
+2003-05-01,All items,71.53,4.1
+2003-06-01,All items,71.57,3.8
+2003-07-01,All items,71.31,3.9
+2003-08-01,All items,71.76,3.9
+2003-09-01,All items,71.83,3.8
+2003-10-01,All items,71.78,3.3
+2003-11-01,All items,71.75,3.2
+2003-12-01,All items,72.06,2.9
+2004-01-01,All items,71.62,2.2
+2004-02-01,All items,72.28,2.2
+2004-03-01,All items,72.59,2.0
+2004-04-01,All items,72.87,1.7
+2004-05-01,All items,73.08,2.1
+2004-06-01,All items,73.48,2.6
+2004-07-01,All items,73.27,2.8
+2004-08-01,All items,73.73,2.7
+2004-09-01,All items,73.74,2.7
+2004-10-01,All items,73.75,2.7
+2004-11-01,All items,73.83,3.0
+2004-12-01,All items,73.85,2.5
+2005-01-01,All items,73.16,2.2
+2005-02-01,All items,73.81,2.0
+2005-03-01,All items,74.05,1.9
+2005-04-01,All items,74.54,2.3
+2005-05-01,All items,74.75,2.4
+2005-06-01,All items,75.04,2.1
+2005-07-01,All items,74.98,2.4
+2005-08-01,All items,75.37,2.2
+2005-09-01,All items,75.85,2.8
+2005-10-01,All items,75.81,2.8
+2005-11-01,All items,75.61,2.3
+2005-12-01,All items,75.43,2.1
+2006-01-01,All items,75.0,2.5
+2006-02-01,All items,75.93,2.9
+2006-03-01,All items,76.23,3.0
+2006-04-01,All items,76.67,2.9
+2006-05-01,All items,77.09,3.1
+2006-06-01,All items,77.33,3.1
+2006-07-01,All items,77.26,3.0
+2006-08-01,All items,77.88,3.4
+2006-09-01,All items,77.7,2.5
+2006-10-01,All items,77.57,2.3
+2006-11-01,All items,77.49,2.5
+2006-12-01,All items,77.79,3.2
+2007-01-01,All items,77.31,3.1
+2007-02-01,All items,78.01,2.8
+2007-03-01,All items,78.53,3.0
+2007-04-01,All items,78.87,2.9
+2007-05-01,All items,79.15,2.7
+2007-06-01,All items,79.31,2.5
+2007-07-01,All items,79.17,2.6
+2007-08-01,All items,79.51,2.1
+2007-09-01,All items,79.69,2.5
+2007-10-01,All items,79.76,2.9
+2007-11-01,All items,80.2,3.5
+2007-12-01,All items,80.24,3.2
+2008-01-01,All items,79.72,3.1
+2008-02-01,All items,80.71,3.4
+2008-03-01,All items,81.48,3.8
+2008-04-01,All items,81.55,3.4
+2008-05-01,All items,82.04,3.7
+2008-06-01,All items,82.42,3.9
+2008-07-01,All items,82.01,3.5
+2008-08-01,All items,82.07,3.2
+2008-09-01,All items,82.26,3.2
+2008-10-01,All items,82.0,2.8
+2008-11-01,All items,81.87,2.1
+2008-12-01,All items,81.32,1.3
+2009-01-01,All items,80.65,1.2
+2009-02-01,All items,80.79,0.1
+2009-03-01,All items,80.88,-0.7
+2009-04-01,All items,80.92,-0.8
+2009-05-01,All items,80.65,-1.7
+2009-06-01,All items,80.65,-2.1
+2009-07-01,All items,79.97,-2.5
+2009-08-01,All items,80.13,-2.4
+2009-09-01,All items,79.83,-2.9
+2009-10-01,All items,79.62,-2.9
+2009-11-01,All items,79.6,-2.8
+2009-12-01,All items,79.18,-2.6
+2010-01-01,All items,78.64,-2.5
+2010-02-01,All items,78.79,-2.4
+2010-03-01,All items,78.87,-2.5
+2010-04-01,All items,78.93,-2.4
+2010-05-01,All items,79.13,-1.9
+2010-06-01,All items,79.01,-2.0
+2010-07-01,All items,78.99,-1.1
+2010-08-01,All items,79.15,-1.1
+2010-09-01,All items,78.98,-1.1
+2010-10-01,All items,79.03,-0.7
+2010-11-01,All items,78.87,-0.9
+2010-12-01,All items,79.06,-0.2
+2011-01-01,All items,78.84,0.3
+2011-02-01,All items,79.49,0.9
+2011-03-01,All items,79.86,1.2
+2011-04-01,All items,80.1,1.5
+2011-05-01,All items,80.12,1.2
+2011-06-01,All items,79.93,1.1
+2011-07-01,All items,79.76,0.9
+2011-08-01,All items,79.95,0.9
+2011-09-01,All items,80.01,1.4
+2011-10-01,All items,80.23,1.6
+2011-11-01,All items,80.24,1.8
+2011-12-01,All items,80.2,1.5
+2012-01-01,All items,79.85,1.2
+2012-02-01,All items,80.75,1.5
+2012-03-01,All items,81.61,2.2
+2012-04-01,All items,81.57,1.8
+2012-05-01,All items,81.56,1.8
+2012-06-01,All items,81.43,1.8
+2012-07-01,All items,81.35,2.0
+2012-08-01,All items,82.02,2.6
+2012-09-01,All items,81.96,2.5
+2012-10-01,All items,81.89,2.0
+2012-11-01,All items,81.49,1.5
+2012-12-01,All items,81.55,1.7
+2013-01-01,All items,81.09,1.5
+2013-02-01,All items,81.76,1.2
+2013-03-01,All items,82.05,0.6
+2013-04-01,All items,81.97,0.5
+2013-05-01,All items,81.94,0.4
+2013-06-01,All items,82.02,0.7
+2013-07-01,All items,81.98,0.8
+2013-08-01,All items,82.05,0.1
+2013-09-01,All items,82.0,0.0
+2013-10-01,All items,81.83,-0.1
+2013-11-01,All items,81.73,0.3
+2013-12-01,All items,81.85,0.3
+2014-01-01,All items,81.31,0.3
+2014-02-01,All items,81.83,0.1
+2014-03-01,All items,82.24,0.2
+2014-04-01,All items,82.25,0.3
+2014-05-01,All items,82.24,0.4
+2014-06-01,All items,82.4,0.5
+2014-07-01,All items,82.33,0.4
+2014-08-01,All items,82.57,0.6
+2014-09-01,All items,82.37,0.5
+2014-10-01,All items,82.15,0.4
+2014-11-01,All items,81.9,0.2
+2014-12-01,All items,81.61,-0.3
+2015-01-01,All items,81.0,-0.4
+2015-02-01,All items,81.48,-0.4
+2015-03-01,All items,82.04,-0.2
+2015-04-01,All items,82.0,-0.3
+2015-05-01,All items,82.39,0.2
+2015-06-01,All items,82.69,0.4
+2015-07-01,All items,82.46,0.2
+2015-08-01,All items,82.74,0.2
+2015-09-01,All items,82.35,-0.1
+2015-10-01,All items,82.11,0.0
+2015-11-01,All items,81.83,-0.1
+2015-12-01,All items,81.74,0.2
+2016-01-01,All items,81.02,0.0
+2016-02-01,All items,81.34,-0.2
+2016-03-01,All items,81.61,-0.6
+2016-04-01,All items,81.81,-0.2
+2016-05-01,All items,82.2,-0.2
+2016-06-01,All items,82.78,0.1
+2016-07-01,All items,82.55,0.1
+2016-08-01,All items,82.39,-0.4
+2016-09-01,All items,82.05,-0.3
+2016-10-01,All items,81.76,-0.5
+2016-11-01,All items,81.63,-0.2
+2016-12-01,All items,81.56,-0.2
+2017-01-01,All items,81.13,0.2
+2017-02-01,All items,81.6,0.3
+2017-03-01,All items,82.09,0.6
+2017-04-01,All items,82.4,0.7
+2017-05-01,All items,82.23,0.0
+2017-06-01,All items,82.28,-0.6
+2017-07-01,All items,82.38,-0.2
+2017-08-01,All items,82.71,0.4
+2017-09-01,All items,82.21,0.2
+2017-10-01,All items,82.12,0.5
+2017-11-01,All items,82.07,0.5
+2017-12-01,All items,81.96,0.5
+2018-01-01,All items,81.4,0.3
+2018-02-01,All items,82.12,0.7
+2018-03-01,All items,82.48,0.5
+2018-04-01,All items,82.34,-0.1
+2018-05-01,All items,82.83,0.7
+2018-06-01,All items,82.93,0.7
+2018-07-01,All items,83.26,1.1
+2018-08-01,All items,83.49,0.9
+2018-09-01,All items,83.22,1.2
+2018-10-01,All items,83.09,1.1
+2018-11-01,All items,82.73,0.8
+2018-12-01,All items,82.63,0.8
+2019-01-01,All items,82.08,0.8
+2019-02-01,All items,82.74,0.7
+2019-03-01,All items,83.39,1.1
+2019-04-01,All items,83.72,1.7
+2019-05-01,All items,83.63,1.0
+2019-06-01,All items,83.83,1.2
+2019-07-01,All items,83.62,0.4
+2019-08-01,All items,83.92,0.6
+2019-09-01,All items,83.73,0.6
+2019-10-01,All items,83.56,0.6
+2019-11-01,All items,83.41,0.8
+2019-12-01,All items,83.58,1.1
+2020-01-01,All items,82.98,1.1
+2020-02-01,All items,83.47,0.9
+2020-03-01,All items,83.78,0.5
+2020-04-01,All items,83.45,-0.3
+2020-05-01,All items,82.96,-0.8
+2020-06-01,All items,83.27,-0.7
+2020-07-01,All items,83.18,-0.5
+2020-08-01,All items,83.03,-1.1
+2020-09-01,All items,82.76,-1.2
+2020-10-01,All items,82.3,-1.5
+2020-11-01,All items,82.55,-1.0
+2020-12-01,All items,82.76,-1.0
+2021-01-01,All items,82.88,-0.1
+2021-02-01,All items,83.14,-0.4
+2021-03-01,All items,83.86,0.1
+2021-04-01,All items,84.38,1.1
+2021-05-01,All items,84.53,1.9
+2021-06-01,All items,84.62,1.6
+2021-07-01,All items,84.9,2.1
+2021-08-01,All items,85.48,3.0
+2021-09-01,All items,85.87,3.8
+2021-10-01,All items,86.51,5.1
+2021-11-01,All items,87.03,5.4
+2021-12-01,All items,87.44,5.7
+2022-01-01,All items,87.1,5.0
+2022-02-01,All items,87.92,5.7
+2022-03-01,All items,89.72,6.9
+2022-04-01,All items,90.55,7.3
+2022-05-01,All items,91.47,8.3
+2022-06-01,All items,92.7,9.6
+2022-07-01,All items,93.1,9.6
+2022-08-01,All items,93.24,9.0
+2022-09-01,All items,93.23,8.6
+2022-10-01,All items,94.63,9.4
+2022-11-01,All items,94.82,9.0
+2022-12-01,All items,94.58,8.2
+2023-01-01,All items,93.63,7.5
+2023-02-01,All items,95.03,8.1
+2023-03-01,All items,95.97,7.0
+2023-04-01,All items,96.17,6.3
+2023-05-01,All items,96.43,5.4
+2023-06-01,All items,97.2,4.8
+2023-07-01,All items,97.3,4.6
+2023-08-01,All items,97.82,4.9
+2023-09-01,All items,97.92,5.0
+2023-10-01,All items,98.05,3.6
+2023-11-01,All items,97.14,2.5
+2023-12-01,All items,97.59,3.2
+2024-01-01,All items,96.22,2.7
+2024-02-01,All items,97.22,2.3
+2024-03-01,All items,97.57,1.7
+2024-04-01,All items,97.72,1.6
+2024-05-01,All items,98.28,2.0
+2024-06-01,All items,98.66,1.5
+2024-07-01,All items,98.8,1.5
+2024-08-01,All items,98.9,1.1
+2024-09-01,All items,97.92,0.0
+2024-10-01,All items,98.2,0.2
+2024-11-01,All items,97.67,0.5
+2024-12-01,All items,98.57,1.0
+2025-01-01,All items,97.81,1.7
+2025-02-01,All items,98.64,1.4
+2025-03-01,All items,99.32,1.8
+2025-04-01,All items,99.74,2.0
+2025-05-01,All items,99.7,1.4
+2025-06-01,All items,100.22,1.6
+2025-07-01,All items,100.39,1.6
+2025-08-01,All items,100.74,1.9
+2025-09-01,All items,100.54,2.7
+2025-10-01,All items,100.91,2.8
+2025-11-01,All items,100.73,3.1
+2025-12-01,All items,101.25,2.7
+2026-01-01,All items,100.27,2.5
+2026-02-01,All items,101.09,2.5
+2026-03-01,All items,102.86,3.6
+2026-04-01,All items,103.34,3.6
+2026-05-01,All items,103.18,3.5
+2026-06-01,All items,103.45,3.2
+2026-07-01,All items,103.51,3.1
+2026-08-01,All items,104.15,3.4
+2026-09-01,All items,104.39,3.8
+1996-11-01,All items excl. energy,59.94,
+1996-12-01,All items excl. energy,59.94,
+1997-01-01,All items excl. energy,59.68,
+1997-02-01,All items excl. energy,59.98,
+1997-03-01,All items excl. energy,60.08,
+1997-04-01,All items excl. energy,60.23,
+1997-05-01,All items excl. energy,60.22,
+1997-06-01,All items excl. energy,60.38,
+1997-07-01,All items excl. energy,60.28,
+1997-08-01,All items excl. energy,60.14,
+1997-09-01,All items excl. energy,60.33,
+1997-10-01,All items excl. energy,60.51,
+1997-11-01,All items excl. energy,60.76,1.4
+1997-12-01,All items excl. energy,60.94,1.7
+1998-01-01,All items excl. energy,60.47,1.4
+1998-02-01,All items excl. energy,60.86,1.4
+1998-03-01,All items excl. energy,61.22,1.8
+1998-04-01,All items excl. energy,61.61,2.2
+1998-05-01,All items excl. energy,61.92,2.8
+1998-06-01,All items excl. energy,62.24,3.1
+1998-07-01,All items excl. energy,62.1,3.1
+1998-08-01,All items excl. energy,62.28,3.5
+1998-09-01,All items excl. energy,62.46,3.5
+1998-10-01,All items excl. energy,62.5,3.3
+1998-11-01,All items excl. energy,62.51,2.9
+1998-12-01,All items excl. energy,62.72,2.9
+1999-01-01,All items excl. energy,62.31,3.1
+1999-02-01,All items excl. energy,62.8,3.2
+1999-03-01,All items excl. energy,63.02,3.0
+1999-04-01,All items excl. energy,63.25,2.7
+1999-05-01,All items excl. energy,63.66,2.8
+1999-06-01,All items excl. energy,63.85,2.6
+1999-07-01,All items excl. energy,63.48,2.2
+1999-08-01,All items excl. energy,63.84,2.6
+1999-09-01,All items excl. energy,64.04,2.6
+1999-10-01,All items excl. energy,64.16,2.6
+1999-11-01,All items excl. energy,64.34,3.0
+1999-12-01,All items excl. energy,65.01,3.8
+2000-01-01,All items excl. energy,64.69,3.8
+2000-02-01,All items excl. energy,65.28,4.0
+2000-03-01,All items excl. energy,65.58,4.0
+2000-04-01,All items excl. energy,65.88,4.1
+2000-05-01,All items excl. energy,66.47,4.4
+2000-06-01,All items excl. energy,66.75,4.5
+2000-07-01,All items excl. energy,66.59,4.9
+2000-08-01,All items excl. energy,66.99,4.9
+2000-09-01,All items excl. energy,67.15,4.9
+2000-10-01,All items excl. energy,67.29,5.0
+2000-11-01,All items excl. energy,67.38,4.7
+2000-12-01,All items excl. energy,67.58,3.9
+2001-01-01,All items excl. energy,67.16,3.8
+2001-02-01,All items excl. energy,68.03,4.2
+2001-03-01,All items excl. energy,68.53,4.6
+2001-04-01,All items excl. energy,69.08,4.8
+2001-05-01,All items excl. energy,69.44,4.4
+2001-06-01,All items excl. energy,69.75,4.5
+2001-07-01,All items excl. energy,69.65,4.7
+2001-08-01,All items excl. energy,70.12,4.6
+2001-09-01,All items excl. energy,70.43,4.9
+2001-10-01,All items excl. energy,70.66,5.0
+2001-11-01,All items excl. energy,70.83,5.1
+2001-12-01,All items excl. energy,71.29,5.5
+2002-01-01,All items excl. energy,71.15,6.0
+2002-02-01,All items excl. energy,71.63,5.2
+2002-03-01,All items excl. energy,72.32,5.5
+2002-04-01,All items excl. energy,72.75,5.4
+2002-05-01,All items excl. energy,73.03,5.2
+2002-06-01,All items excl. energy,73.21,4.9
+2002-07-01,All items excl. energy,72.85,4.6
+2002-08-01,All items excl. energy,73.36,4.7
+2002-09-01,All items excl. energy,73.59,4.5
+2002-10-01,All items excl. energy,73.89,4.5
+2002-11-01,All items excl. energy,73.92,4.4
+2002-12-01,All items excl. energy,74.52,4.6
+2003-01-01,All items excl. energy,74.55,4.7
+2003-02-01,All items excl. energy,75.27,5.2
+2003-03-01,All items excl. energy,75.65,4.5
+2003-04-01,All items excl. energy,75.97,4.4
+2003-05-01,All items excl. energy,76.06,4.1
+2003-06-01,All items excl. energy,76.17,4.0
+2003-07-01,All items excl. energy,75.9,4.2
+2003-08-01,All items excl. energy,76.41,4.1
+2003-09-01,All items excl. energy,76.41,3.8
+2003-10-01,All items excl. energy,76.38,3.4
+2003-11-01,All items excl. energy,76.34,3.2
+2003-12-01,All items excl. energy,76.56,2.7
+2004-01-01,All items excl. energy,76.06,2.0
+2004-02-01,All items excl. energy,76.79,2.0
+2004-03-01,All items excl. energy,77.13,2.0
+2004-04-01,All items excl. energy,77.31,1.8
+2004-05-01,All items excl. energy,77.44,1.8
+2004-06-01,All items excl. energy,77.69,2.1
+2004-07-01,All items excl. energy,77.53,2.2
+2004-08-01,All items excl. energy,77.98,2.1
+2004-09-01,All items excl. energy,77.96,2.1
+2004-10-01,All items excl. energy,77.92,2.0
+2004-11-01,All items excl. energy,77.85,2.0
+2004-12-01,All items excl. energy,77.94,1.8
+2005-01-01,All items excl. energy,77.25,1.5
+2005-02-01,All items excl. energy,77.98,1.5
+2005-03-01,All items excl. energy,78.18,1.3
+2005-04-01,All items excl. energy,78.4,1.4
+2005-05-01,All items excl. energy,78.63,1.6
+2005-06-01,All items excl. energy,78.97,1.6
+2005-07-01,All items excl. energy,78.7,1.4
+2005-08-01,All items excl. energy,79.07,1.4
+2005-09-01,All items excl. energy,79.13,1.5
+2005-10-01,All items excl. energy,79.01,1.4
+2005-11-01,All items excl. energy,79.06,1.6
+2005-12-01,All items excl. energy,79.06,1.5
+2006-01-01,All items excl. energy,78.5,1.6
+2006-02-01,All items excl. energy,79.42,1.8
+2006-03-01,All items excl. energy,79.78,2.0
+2006-04-01,All items excl. energy,80.14,2.3
+2006-05-01,All items excl. energy,80.42,2.2
+2006-06-01,All items excl. energy,80.72,2.2
+2006-07-01,All items excl. energy,80.57,2.5
+2006-08-01,All items excl. energy,81.17,2.7
+2006-09-01,All items excl. energy,81.25,2.7
+2006-10-01,All items excl. energy,81.17,2.8
+2006-11-01,All items excl. energy,81.18,2.7
+2006-12-01,All items excl. energy,81.5,3.1
+2007-01-01,All items excl. energy,80.79,2.9
+2007-02-01,All items excl. energy,81.71,2.9
+2007-03-01,All items excl. energy,82.14,3.0
+2007-04-01,All items excl. energy,82.39,2.7
+2007-05-01,All items excl. energy,82.55,2.6
+2007-06-01,All items excl. energy,82.67,2.4
+2007-07-01,All items excl. energy,82.44,2.3
+2007-08-01,All items excl. energy,82.88,2.1
+2007-09-01,All items excl. energy,83.11,2.3
+2007-10-01,All items excl. energy,83.24,2.5
+2007-11-01,All items excl. energy,83.49,2.9
+2007-12-01,All items excl. energy,83.57,2.5
+2008-01-01,All items excl. energy,82.89,2.6
+2008-02-01,All items excl. energy,84.19,3.1
+2008-03-01,All items excl. energy,84.84,3.4
+2008-04-01,All items excl. energy,84.88,3.1
+2008-05-01,All items excl. energy,85.1,3.2
+2008-06-01,All items excl. energy,85.19,3.0
+2008-07-01,All items excl. energy,84.55,2.5
+2008-08-01,All items excl. energy,84.67,2.2
+2008-09-01,All items excl. energy,84.88,2.1
+2008-10-01,All items excl. energy,84.9,2.0
+2008-11-01,All items excl. energy,85.19,2.0
+2008-12-01,All items excl. energy,85.09,1.9
+2009-01-01,All items excl. energy,84.54,2.0
+2009-02-01,All items excl. energy,84.59,0.5
+2009-03-01,All items excl. energy,84.74,-0.2
+2009-04-01,All items excl. energy,84.58,-0.4
+2009-05-01,All items excl. energy,84.45,-0.8
+2009-06-01,All items excl. energy,84.22,-1.2
+2009-07-01,All items excl. energy,83.48,-1.3
+2009-08-01,All items excl. energy,83.53,-1.4
+2009-09-01,All items excl. energy,83.2,-2.0
+2009-10-01,All items excl. energy,83.12,-2.1
+2009-11-01,All items excl. energy,82.92,-2.7
+2009-12-01,All items excl. energy,82.43,-3.2
+2010-01-01,All items excl. energy,81.53,-3.6
+2010-02-01,All items excl. energy,81.79,-3.4
+2010-03-01,All items excl. energy,81.72,-3.6
+2010-04-01,All items excl. energy,81.55,-3.6
+2010-05-01,All items excl. energy,81.61,-3.4
+2010-06-01,All items excl. energy,81.56,-3.1
+2010-07-01,All items excl. energy,81.54,-2.3
+2010-08-01,All items excl. energy,81.74,-2.1
+2010-09-01,All items excl. energy,81.55,-2.0
+2010-10-01,All items excl. energy,81.55,-1.9
+2010-11-01,All items excl. energy,81.37,-1.9
+2010-12-01,All items excl. energy,81.15,-1.5
+2011-01-01,All items excl. energy,80.75,-0.9
+2011-02-01,All items excl. energy,81.4,-0.4
+2011-03-01,All items excl. energy,81.56,-0.1
+2011-04-01,All items excl. energy,81.76,0.3
+2011-05-01,All items excl. energy,81.77,0.2
+2011-06-01,All items excl. energy,81.66,0.1
+2011-07-01,All items excl. energy,81.51,0.0
+2011-08-01,All items excl. energy,81.6,-0.2
+2011-09-01,All items excl. energy,81.61,0.1
+2011-10-01,All items excl. energy,81.7,0.2
+2011-11-01,All items excl. energy,81.69,0.4
+2011-12-01,All items excl. energy,81.6,0.5
+2012-01-01,All items excl. energy,80.92,0.2
+2012-02-01,All items excl. energy,81.82,0.5
+2012-03-01,All items excl. energy,82.61,1.2
+2012-04-01,All items excl. energy,82.34,0.7
+2012-05-01,All items excl. energy,82.35,0.7
+2012-06-01,All items excl. energy,82.46,0.9
+2012-07-01,All items excl. energy,82.46,1.1
+2012-08-01,All items excl. energy,82.9,1.5
+2012-09-01,All items excl. energy,82.6,1.2
+2012-10-01,All items excl. energy,82.43,0.9
+2012-11-01,All items excl. energy,82.19,0.6
+2012-12-01,All items excl. energy,82.37,0.9
+2013-01-01,All items excl. energy,81.91,1.2
+2013-02-01,All items excl. energy,82.55,0.8
+2013-03-01,All items excl. energy,82.88,0.3
+2013-04-01,All items excl. energy,82.81,0.5
+2013-05-01,All items excl. energy,82.98,0.7
+2013-06-01,All items excl. energy,83.1,0.8
+2013-07-01,All items excl. energy,82.98,0.6
+2013-08-01,All items excl. energy,83.01,0.2
+2013-09-01,All items excl. energy,82.84,0.3
+2013-10-01,All items excl. energy,82.81,0.4
+2013-11-01,All items excl. energy,82.79,0.7
+2013-12-01,All items excl. energy,82.87,0.6
+2014-01-01,All items excl. energy,82.3,0.4
+2014-02-01,All items excl. energy,82.9,0.5
+2014-03-01,All items excl. energy,83.34,0.6
+2014-04-01,All items excl. energy,83.37,0.7
+2014-05-01,All items excl. energy,83.32,0.4
+2014-06-01,All items excl. energy,83.48,0.4
+2014-07-01,All items excl. energy,83.31,0.4
+2014-08-01,All items excl. energy,83.64,0.7
+2014-09-01,All items excl. energy,83.45,0.7
+2014-10-01,All items excl. energy,83.27,0.6
+2014-11-01,All items excl. energy,83.19,0.5
+2014-12-01,All items excl. energy,83.16,0.4
+2015-01-01,All items excl. energy,83.02,0.9
+2015-02-01,All items excl. energy,83.53,0.7
+2015-03-01,All items excl. energy,83.88,0.6
+2015-04-01,All items excl. energy,83.81,0.5
+2015-05-01,All items excl. energy,84.05,0.9
+2015-06-01,All items excl. energy,84.38,1.1
+2015-07-01,All items excl. energy,84.16,1.0
+2015-08-01,All items excl. energy,84.68,1.3
+2015-09-01,All items excl. energy,84.46,1.2
+2015-10-01,All items excl. energy,84.35,1.3
+2015-11-01,All items excl. energy,84.09,1.1
+2015-12-01,All items excl. energy,84.06,1.0
+2016-01-01,All items excl. energy,83.51,0.6
+2016-02-01,All items excl. energy,84.06,0.6
+2016-03-01,All items excl. energy,84.34,0.6
+2016-04-01,All items excl. energy,84.41,0.7
+2016-05-01,All items excl. energy,84.73,0.8
+2016-06-01,All items excl. energy,85.2,1.0
+2016-07-01,All items excl. energy,84.99,1.0
+2016-08-01,All items excl. energy,85.05,0.4
+2016-09-01,All items excl. energy,84.58,0.2
+2016-10-01,All items excl. energy,84.16,-0.2
+2016-11-01,All items excl. energy,84.0,-0.1
+2016-12-01,All items excl. energy,83.81,-0.3
+2017-01-01,All items excl. energy,83.18,-0.4
+2017-02-01,All items excl. energy,83.69,-0.4
+2017-03-01,All items excl. energy,84.26,-0.1
+2017-04-01,All items excl. energy,84.63,0.3
+2017-05-01,All items excl. energy,84.51,-0.2
+2017-06-01,All items excl. energy,84.66,-0.7
+2017-07-01,All items excl. energy,84.84,-0.1
+2017-08-01,All items excl. energy,85.2,0.2
+2017-09-01,All items excl. energy,84.53,-0.1
+2017-10-01,All items excl. energy,84.34,0.2
+2017-11-01,All items excl. energy,84.1,0.1
+2017-12-01,All items excl. energy,83.97,0.2
+2018-01-01,All items excl. energy,83.32,0.2
+2018-02-01,All items excl. energy,84.09,0.5
+2018-03-01,All items excl. energy,84.53,0.3
+2018-04-01,All items excl. energy,84.32,-0.4
+2018-05-01,All items excl. energy,84.72,0.2
+2018-06-01,All items excl. energy,84.61,0.0
+2018-07-01,All items excl. energy,84.97,0.1
+2018-08-01,All items excl. energy,85.12,-0.1
+2018-09-01,All items excl. energy,84.78,0.3
+2018-10-01,All items excl. energy,84.57,0.2
+2018-11-01,All items excl. energy,84.21,0.1
+2018-12-01,All items excl. energy,84.3,0.4
+2019-01-01,All items excl. energy,83.96,0.7
+2019-02-01,All items excl. energy,84.65,0.6
+2019-03-01,All items excl. energy,85.26,0.9
+2019-04-01,All items excl. energy,85.45,1.4
+2019-05-01,All items excl. energy,85.22,0.6
+2019-06-01,All items excl. energy,85.5,1.0
+2019-07-01,All items excl. energy,85.38,0.5
+2019-08-01,All items excl. energy,85.71,0.7
+2019-09-01,All items excl. energy,85.5,0.8
+2019-10-01,All items excl. energy,85.22,0.8
+2019-11-01,All items excl. energy,85.11,1.1
+2019-12-01,All items excl. energy,85.27,1.2
+2020-01-01,All items excl. energy,84.51,0.7
+2020-02-01,All items excl. energy,85.18,0.7
+2020-03-01,All items excl. energy,85.68,0.5
+2020-04-01,All items excl. energy,85.67,0.3
+2020-05-01,All items excl. energy,85.31,0.1
+2020-06-01,All items excl. energy,85.57,0.1
+2020-07-01,All items excl. energy,85.36,0.0
+2020-08-01,All items excl. energy,85.19,-0.6
+2020-09-01,All items excl. energy,84.94,-0.6
+2020-10-01,All items excl. energy,84.34,-1.0
+2020-11-01,All items excl. energy,84.6,-0.6
+2020-12-01,All items excl. energy,84.98,-0.4
+2021-01-01,All items excl. energy,84.98,0.5
+2021-02-01,All items excl. energy,85.13,-0.1
+2021-03-01,All items excl. energy,85.66,-0.1
+2021-04-01,All items excl. energy,86.12,0.5
+2021-05-01,All items excl. energy,86.17,1.0
+2021-06-01,All items excl. energy,86.2,0.8
+2021-07-01,All items excl. energy,86.31,1.1
+2021-08-01,All items excl. energy,86.72,1.8
+2021-09-01,All items excl. energy,87.04,2.5
+2021-10-01,All items excl. energy,87.21,3.4
+2021-11-01,All items excl. energy,87.48,3.4
+2021-12-01,All items excl. energy,87.97,3.6
+2022-01-01,All items excl. energy,87.54,3.1
+2022-02-01,All items excl. energy,88.2,3.7
+2022-03-01,All items excl. energy,88.88,3.8
+2022-04-01,All items excl. energy,89.99,4.5
+2022-05-01,All items excl. energy,90.34,4.9
+2022-06-01,All items excl. energy,91.03,5.6
+2022-07-01,All items excl. energy,91.64,6.2
+2022-08-01,All items excl. energy,92.12,6.2
+2022-09-01,All items excl. energy,92.11,5.8
+2022-10-01,All items excl. energy,92.18,5.7
+2022-11-01,All items excl. energy,92.37,5.6
+2022-12-01,All items excl. energy,92.91,5.6
+2023-01-01,All items excl. energy,91.88,4.9
+2023-02-01,All items excl. energy,93.44,5.9
+2023-03-01,All items excl. energy,94.59,6.4
+2023-04-01,All items excl. energy,94.94,5.5
+2023-05-01,All items excl. energy,95.55,5.8
+2023-06-01,All items excl. energy,96.29,5.8
+2023-07-01,All items excl. energy,96.38,5.1
+2023-08-01,All items excl. energy,96.6,4.8
+2023-09-01,All items excl. energy,96.28,4.6
+2023-10-01,All items excl. energy,96.47,4.6
+2023-11-01,All items excl. energy,96.15,4.1
+2023-12-01,All items excl. energy,96.92,4.2
+2024-01-01,All items excl. energy,95.48,3.9
+2024-02-01,All items excl. energy,96.54,3.3
+2024-03-01,All items excl. energy,97.28,2.8
+2024-04-01,All items excl. energy,97.33,2.5
+2024-05-01,All items excl. energy,97.99,2.6
+2024-06-01,All items excl. energy,98.51,2.3
+2024-07-01,All items excl. energy,98.67,2.4
+2024-08-01,All items excl. energy,98.84,2.3
+2024-09-01,All items excl. energy,97.91,1.7
+2024-10-01,All items excl. energy,98.18,1.7
+2024-11-01,All items excl. energy,97.58,1.5
+2024-12-01,All items excl. energy,98.5,1.6
+2025-01-01,All items excl. energy,97.53,2.2
+2025-02-01,All items excl. energy,98.39,1.9
+2025-03-01,All items excl. energy,99.24,2.0
+2025-04-01,All items excl. energy,99.75,2.5
+2025-05-01,All items excl. energy,99.84,1.9
+2025-06-01,All items excl. energy,100.44,2.0
+2025-07-01,All items excl. energy,100.47,1.9
+2025-08-01,All items excl. energy,100.89,2.1
+2025-09-01,All items excl. energy,100.69,2.8
+2025-10-01,All items excl. energy,100.9,2.8
+2025-11-01,All items excl. energy,100.62,3.1
+2025-12-01,All items excl. energy,101.22,2.8
+2026-01-01,All items excl. energy,100.22,2.8
+2026-02-01,All items excl. energy,101.09,2.7
+2026-03-01,All items excl. energy,101.89,2.7
+2026-04-01,All items excl. energy,102.13,2.3
+2026-05-01,All items excl. energy,102.46,2.7
+2026-06-01,All items excl. energy,102.98,2.6
+2026-07-01,All items excl. energy,103.2,2.7
+2026-08-01,All items excl. energy,103.44,2.5
+2026-09-01,All items excl. energy,103.37,2.7
+1996-11-01,Diesel,43.89,
+1996-12-01,Diesel,43.89,
+1997-01-01,Diesel,42.82,
+1997-02-01,Diesel,43.56,
+1997-03-01,Diesel,43.03,
+1997-04-01,Diesel,42.35,
+1997-05-01,Diesel,42.1,
+1997-06-01,Diesel,42.26,
+1997-07-01,Diesel,41.99,
+1997-08-01,Diesel,42.0,
+1997-09-01,Diesel,42.47,
+1997-10-01,Diesel,42.44,
+1997-11-01,Diesel,42.87,-2.3
+1997-12-01,Diesel,42.7,-2.7
+1998-01-01,Diesel,42.3,-1.2
+1998-02-01,Diesel,41.8,-4.0
+1998-03-01,Diesel,41.33,-4.1
+1998-04-01,Diesel,41.11,-2.9
+1998-05-01,Diesel,41.04,-2.6
+1998-06-01,Diesel,40.93,-3.1
+1998-07-01,Diesel,40.68,-3.1
+1998-08-01,Diesel,40.61,-3.3
+1998-09-01,Diesel,40.21,-5.3
+1998-10-01,Diesel,40.26,-5.0
+1998-11-01,Diesel,40.09,-6.5
+1998-12-01,Diesel,39.8,-6.8
+1999-01-01,Diesel,39.05,-7.7
+1999-02-01,Diesel,38.88,-7.0
+1999-03-01,Diesel,38.87,-6.0
+1999-04-01,Diesel,39.97,-2.7
+1999-05-01,Diesel,40.88,-0.4
+1999-06-01,Diesel,40.85,-0.2
+1999-07-01,Diesel,41.34,1.6
+1999-08-01,Diesel,42.47,4.7
+1999-09-01,Diesel,42.71,6.2
+1999-10-01,Diesel,43.15,7.1
+1999-11-01,Diesel,43.07,7.5
+1999-12-01,Diesel,44.59,12.1
+2000-01-01,Diesel,46.17,18.3
+2000-02-01,Diesel,46.4,19.3
+2000-03-01,Diesel,47.8,23.1
+2000-04-01,Diesel,48.72,21.9
+2000-05-01,Diesel,48.03,17.5
+2000-06-01,Diesel,48.39,18.4
+2000-07-01,Diesel,48.88,18.3
+2000-08-01,Diesel,49.18,15.8
+2000-09-01,Diesel,50.53,18.4
+2000-10-01,Diesel,54.1,25.5
+2000-11-01,Diesel,54.6,26.7
+2000-12-01,Diesel,50.12,12.4
+2001-01-01,Diesel,46.77,1.3
+2001-02-01,Diesel,42.73,-8.0
+2001-03-01,Diesel,43.18,-9.6
+2001-04-01,Diesel,43.14,-11.5
+2001-05-01,Diesel,43.02,-10.5
+2001-06-01,Diesel,43.47,-10.1
+2001-07-01,Diesel,44.13,-9.7
+2001-08-01,Diesel,42.86,-12.9
+2001-09-01,Diesel,42.73,-15.4
+2001-10-01,Diesel,43.24,-20.1
+2001-11-01,Diesel,42.29,-22.6
+2001-12-01,Diesel,43.55,-13.1
+2002-01-01,Diesel,43.41,-7.2
+2002-02-01,Diesel,43.35,1.5
+2002-03-01,Diesel,43.61,1.0
+2002-04-01,Diesel,45.25,4.9
+2002-05-01,Diesel,46.41,8.0
+2002-06-01,Diesel,46.24,6.4
+2002-07-01,Diesel,45.69,3.5
+2002-08-01,Diesel,45.42,6.0
+2002-09-01,Diesel,45.3,6.0
+2002-10-01,Diesel,45.67,5.6
+2002-11-01,Diesel,45.82,8.4
+2002-12-01,Diesel,46.37,6.4
+2003-01-01,Diesel,47.21,8.7
+2003-02-01,Diesel,47.49,9.6
+2003-03-01,Diesel,48.97,12.2
+2003-04-01,Diesel,50.87,12.4
+2003-05-01,Diesel,47.8,3.0
+2003-06-01,Diesel,45.72,-1.3
+2003-07-01,Diesel,45.0,-1.4
+2003-08-01,Diesel,44.83,-1.3
+2003-09-01,Diesel,45.54,0.5
+2003-10-01,Diesel,45.25,-1.0
+2003-11-01,Diesel,45.24,-1.3
+2003-12-01,Diesel,47.7,3.0
+2004-01-01,Diesel,47.72,1.1
+2004-02-01,Diesel,47.83,0.6
+2004-03-01,Diesel,47.59,-2.8
+2004-04-01,Diesel,48.63,-4.4
+2004-05-01,Diesel,49.91,4.4
+2004-06-01,Diesel,52.93,15.8
+2004-07-01,Diesel,52.33,16.2
+2004-08-01,Diesel,53.05,18.4
+2004-09-01,Diesel,53.94,18.4
+2004-10-01,Diesel,54.18,19.8
+2004-11-01,Diesel,56.91,25.8
+2004-12-01,Diesel,55.51,16.3
+2005-01-01,Diesel,54.31,13.7
+2005-02-01,Diesel,53.69,12.3
+2005-03-01,Diesel,54.14,13.8
+2005-04-01,Diesel,57.48,18.3
+2005-05-01,Diesel,58.07,16.4
+2005-06-01,Diesel,57.73,9.1
+2005-07-01,Diesel,60.3,15.3
+2005-08-01,Diesel,61.01,15.0
+2005-09-01,Diesel,65.58,21.6
+2005-10-01,Diesel,64.85,19.6
+2005-11-01,Diesel,63.27,11.1
+2005-12-01,Diesel,60.46,8.9
+2006-01-01,Diesel,60.57,11.5
+2006-02-01,Diesel,61.57,14.7
+2006-03-01,Diesel,61.78,14.1
+2006-04-01,Diesel,63.15,9.9
+2006-05-01,Diesel,65.09,12.0
+2006-06-01,Diesel,64.22,11.2
+2006-07-01,Diesel,64.31,6.6
+2006-08-01,Diesel,65.28,7.0
+2006-09-01,Diesel,63.72,-2.8
+2006-10-01,Diesel,60.2,-7.2
+2006-11-01,Diesel,59.25,-6.3
+2006-12-01,Diesel,59.59,-1.4
+2007-01-01,Diesel,59.37,-1.9
+2007-02-01,Diesel,58.54,-5.0
+2007-03-01,Diesel,59.88,-3.1
+2007-04-01,Diesel,61.4,-2.8
+2007-05-01,Diesel,62.06,-4.6
+2007-06-01,Diesel,62.23,-3.1
+2007-07-01,Diesel,62.76,-2.5
+2007-08-01,Diesel,62.79,-3.8
+2007-09-01,Diesel,62.85,-1.4
+2007-10-01,Diesel,63.22,5.1
+2007-11-01,Diesel,68.19,15.1
+2007-12-01,Diesel,68.58,15.0
+2008-01-01,Diesel,68.92,16.1
+2008-02-01,Diesel,67.37,15.2
+2008-03-01,Diesel,70.26,17.3
+2008-04-01,Diesel,71.4,16.3
+2008-05-01,Diesel,76.42,23.1
+2008-06-01,Diesel,81.86,31.6
+2008-07-01,Diesel,82.75,31.9
+2008-08-01,Diesel,78.84,25.5
+2008-09-01,Diesel,76.02,20.9
+2008-10-01,Diesel,72.11,14.1
+2008-11-01,Diesel,65.15,-4.5
+2008-12-01,Diesel,58.86,-14.1
+2009-01-01,Diesel,55.65,-19.2
+2009-02-01,Diesel,56.07,-16.8
+2009-03-01,Diesel,54.37,-22.6
+2009-04-01,Diesel,57.87,-19.0
+2009-05-01,Diesel,58.43,-23.5
+2009-06-01,Diesel,59.77,-27.0
+2009-07-01,Diesel,60.0,-27.5
+2009-08-01,Diesel,60.72,-23.0
+2009-09-01,Diesel,61.45,-19.2
+2009-10-01,Diesel,60.64,-16.0
+2009-11-01,Diesel,62.75,-3.7
+2009-12-01,Diesel,62.66,6.4
+2010-01-01,Diesel,66.72,19.9
+2010-02-01,Diesel,66.66,18.8
+2010-03-01,Diesel,68.28,25.6
+2010-04-01,Diesel,71.56,23.7
+2010-05-01,Diesel,72.67,24.3
+2010-06-01,Diesel,71.82,20.2
+2010-07-01,Diesel,71.87,19.7
+2010-08-01,Diesel,71.81,18.4
+2010-09-01,Diesel,71.85,17.0
+2010-10-01,Diesel,71.9,18.6
+2010-11-01,Diesel,72.23,15.1
+2010-12-01,Diesel,76.73,22.4
+2011-01-01,Diesel,78.53,17.7
+2011-02-01,Diesel,79.86,19.8
+2011-03-01,Diesel,83.58,22.4
+2011-04-01,Diesel,84.54,18.1
+2011-05-01,Diesel,84.17,15.8
+2011-06-01,Diesel,82.51,14.8
+2011-07-01,Diesel,81.72,13.8
+2011-08-01,Diesel,82.74,15.2
+2011-09-01,Diesel,82.56,14.9
+2011-10-01,Diesel,82.49,14.7
+2011-11-01,Diesel,83.34,15.4
+2011-12-01,Diesel,85.4,11.3
+2012-01-01,Diesel,88.31,12.4
+2012-02-01,Diesel,89.71,12.3
+2012-03-01,Diesel,91.32,9.2
+2012-04-01,Diesel,92.41,9.3
+2012-05-01,Diesel,91.26,8.5
+2012-06-01,Diesel,88.59,7.4
+2012-07-01,Diesel,86.88,6.2
+2012-08-01,Diesel,90.4,9.2
+2012-09-01,Diesel,93.1,12.8
+2012-10-01,Diesel,91.66,11.1
+2012-11-01,Diesel,90.04,8.0
+2012-12-01,Diesel,89.22,4.5
+2013-01-01,Diesel,88.15,-0.2
+2013-02-01,Diesel,89.08,-0.6
+2013-03-01,Diesel,89.45,-2.0
+2013-04-01,Diesel,88.99,-3.7
+2013-05-01,Diesel,86.05,-5.7
+2013-06-01,Diesel,85.38,-3.6
+2013-07-01,Diesel,85.75,-1.3
+2013-08-01,Diesel,86.52,-4.4
+2013-09-01,Diesel,88.01,-5.5
+2013-10-01,Diesel,86.29,-5.9
+2013-11-01,Diesel,85.15,-5.4
+2013-12-01,Diesel,85.69,-4.0
+2014-01-01,Diesel,85.25,-3.3
+2014-02-01,Diesel,84.93,-4.7
+2014-03-01,Diesel,85.14,-4.8
+2014-04-01,Diesel,84.87,-4.6
+2014-05-01,Diesel,84.99,-1.2
+2014-06-01,Diesel,84.81,-0.7
+2014-07-01,Diesel,85.48,-0.3
+2014-08-01,Diesel,84.6,-2.2
+2014-09-01,Diesel,84.06,-4.5
+2014-10-01,Diesel,82.66,-4.1
+2014-11-01,Diesel,80.45,-5.6
+2014-12-01,Diesel,77.44,-9.6
+2015-01-01,Diesel,71.17,-16.5
+2015-02-01,Diesel,71.05,-16.4
+2015-03-01,Diesel,75.07,-11.9
+2015-04-01,Diesel,75.34,-11.2
+2015-05-01,Diesel,77.15,-9.3
+2015-06-01,Diesel,77.27,-8.8
+2015-07-01,Diesel,76.18,-10.8
+2015-08-01,Diesel,73.74,-12.8
+2015-09-01,Diesel,70.48,-16.2
+2015-10-01,Diesel,68.99,-16.6
+2015-11-01,Diesel,69.27,-13.9
+2015-12-01,Diesel,68.64,-11.4
+2016-01-01,Diesel,64.92,-8.8
+2016-02-01,Diesel,61.03,-14.1
+2016-03-01,Diesel,61.77,-17.7
+2016-04-01,Diesel,64.05,-15.0
+2016-05-01,Diesel,65.21,-15.5
+2016-06-01,Diesel,67.77,-12.3
+2016-07-01,Diesel,67.17,-11.9
+2016-08-01,Diesel,65.75,-10.9
+2016-09-01,Diesel,67.2,-4.7
+2016-10-01,Diesel,68.65,-0.5
+2016-11-01,Diesel,69.65,0.5
+2016-12-01,Diesel,70.9,3.3
+2017-01-01,Diesel,73.33,12.9
+2017-02-01,Diesel,73.34,20.2
+2017-03-01,Diesel,73.31,18.6
+2017-04-01,Diesel,72.89,13.8
+2017-05-01,Diesel,72.06,10.5
+2017-06-01,Diesel,70.62,4.2
+2017-07-01,Diesel,69.19,3.0
+2017-08-01,Diesel,69.27,5.4
+2017-09-01,Diesel,70.79,5.4
+2017-10-01,Diesel,71.38,4.0
+2017-11-01,Diesel,73.3,5.2
+2017-12-01,Diesel,73.43,3.6
+2018-01-01,Diesel,73.58,0.4
+2018-02-01,Diesel,73.54,0.2
+2018-03-01,Diesel,72.94,-0.5
+2018-04-01,Diesel,73.55,1.0
+2018-05-01,Diesel,75.85,5.3
+2018-06-01,Diesel,79.26,12.3
+2018-07-01,Diesel,79.04,14.2
+2018-08-01,Diesel,78.68,13.6
+2018-09-01,Diesel,79.21,11.8
+2018-10-01,Diesel,81.51,14.2
+2018-11-01,Diesel,81.48,11.1
+2018-12-01,Diesel,79.14,7.7
+2019-01-01,Diesel,74.51,1.3
+2019-02-01,Diesel,75.24,2.4
+2019-03-01,Diesel,76.99,5.6
+2019-04-01,Diesel,78.49,6.6
+2019-05-01,Diesel,79.71,5.1
+2019-06-01,Diesel,79.12,-0.2
+2019-07-01,Diesel,76.56,-3.1
+2019-08-01,Diesel,77.02,-2.1
+2019-09-01,Diesel,76.96,-2.9
+2019-10-01,Diesel,78.41,-3.8
+2019-11-01,Diesel,77.98,-4.3
+2019-12-01,Diesel,78.59,-0.6
+2020-01-01,Diesel,80.28,7.7
+2020-02-01,Diesel,78.97,4.9
+2020-03-01,Diesel,76.99,0.0
+2020-04-01,Diesel,73.39,-6.5
+2020-05-01,Diesel,71.76,-10.0
+2020-06-01,Diesel,72.05,-8.9
+2020-07-01,Diesel,73.51,-4.0
+2020-08-01,Diesel,73.73,-4.3
+2020-09-01,Diesel,72.95,-5.2
+2020-10-01,Diesel,72.36,-7.7
+2020-11-01,Diesel,72.69,-6.7
+2020-12-01,Diesel,68.74,-12.6
+2021-01-01,Diesel,70.62,-12.1
+2021-02-01,Diesel,72.79,-7.8
+2021-03-01,Diesel,77.52,0.7
+2021-04-01,Diesel,78.57,7.1
+2021-05-01,Diesel,79.35,10.6
+2021-06-01,Diesel,80.82,12.1
+2021-07-01,Diesel,83.17,13.1
+2021-08-01,Diesel,83.33,13.0
+2021-09-01,Diesel,84.3,15.6
+2021-10-01,Diesel,90.69,25.4
+2021-11-01,Diesel,93.9,29.2
+2021-12-01,Diesel,93.35,35.8
+2022-01-01,Diesel,93.26,32.1
+2022-02-01,Diesel,96.47,32.5
+2022-03-01,Diesel,113.18,46.0
+2022-04-01,Diesel,110.02,40.1
+2022-05-01,Diesel,112.27,41.5
+2022-06-01,Diesel,121.77,50.7
+2022-07-01,Diesel,120.49,45.0
+2022-08-01,Diesel,112.17,34.6
+2022-09-01,Diesel,111.68,32.5
+2022-10-01,Diesel,113.46,25.1
+2022-11-01,Diesel,117.14,24.7
+2022-12-01,Diesel,100.46,7.7
+2023-01-01,Diesel,99.17,6.3
+2023-02-01,Diesel,98.48,2.1
+2023-03-01,Diesel,95.63,-15.5
+2023-04-01,Diesel,91.99,-16.4
+2023-05-01,Diesel,86.6,-22.8
+2023-06-01,Diesel,88.23,-27.5
+2023-07-01,Diesel,89.52,-25.7
+2023-08-01,Diesel,95.45,-14.9
+2023-09-01,Diesel,105.36,-5.7
+2023-10-01,Diesel,108.2,-4.6
+2023-11-01,Diesel,104.76,-10.6
+2023-12-01,Diesel,99.84,-0.7
+2024-01-01,Diesel,98.34,-0.8
+2024-02-01,Diesel,100.35,1.8
+2024-03-01,Diesel,101.16,5.7
+2024-04-01,Diesel,103.4,12.4
+2024-05-01,Diesel,101.77,17.5
+2024-06-01,Diesel,99.59,12.9
+2024-07-01,Diesel,100.23,12.0
+2024-08-01,Diesel,99.29,4.0
+2024-09-01,Diesel,96.61,-8.3
+2024-10-01,Diesel,95.25,-12.0
+2024-11-01,Diesel,97.61,-6.8
+2024-12-01,Diesel,99.68,-0.1
+2025-01-01,Diesel,102.07,3.8
+2025-02-01,Diesel,104.06,3.7
+2025-03-01,Diesel,102.41,1.3
+2025-04-01,Diesel,99.97,-3.3
+2025-05-01,Diesel,96.51,-5.2
+2025-06-01,Diesel,96.01,-3.6
+2025-07-01,Diesel,99.01,-1.2
+2025-08-01,Diesel,98.86,-0.4
+2025-09-01,Diesel,98.27,1.7
+2025-10-01,Diesel,99.4,4.4
+2025-11-01,Diesel,101.5,4.0
+2025-12-01,Diesel,101.92,2.3
+2026-01-01,Diesel,100.25,-1.8
+2026-02-01,Diesel,101.05,-2.9
+2026-03-01,Diesel,119.27,16.5
+2026-04-01,Diesel,126.03,26.0
+2026-05-01,Diesel,115.85,20.1
+2026-06-01,Diesel,109.44,14.0
+2026-07-01,Diesel,102.48,3.5
+2026-08-01,Diesel,113.69,15.0
+2026-09-01,Diesel,119.85,22.0
+1996-11-01,Electricity,25.51,
+1996-12-01,Electricity,25.51,
+1997-01-01,Electricity,25.51,
+1997-02-01,Electricity,25.51,
+1997-03-01,Electricity,25.51,
+1997-04-01,Electricity,25.51,
+1997-05-01,Electricity,25.78,
+1997-06-01,Electricity,25.78,
+1997-07-01,Electricity,25.78,
+1997-08-01,Electricity,26.05,
+1997-09-01,Electricity,26.05,
+1997-10-01,Electricity,26.05,
+1997-11-01,Electricity,26.05,2.3
+1997-12-01,Electricity,26.05,2.3
+1998-01-01,Electricity,26.05,2.3
+1998-02-01,Electricity,26.05,2.3
+1998-03-01,Electricity,26.05,2.3
+1998-04-01,Electricity,26.05,2.3
+1998-05-01,Electricity,26.05,1.1
+1998-06-01,Electricity,26.05,1.1
+1998-07-01,Electricity,26.05,1.1
+1998-08-01,Electricity,26.05,0.0
+1998-09-01,Electricity,26.05,0.0
+1998-10-01,Electricity,26.05,0.0
+1998-11-01,Electricity,26.05,0.0
+1998-12-01,Electricity,26.05,0.0
+1999-01-01,Electricity,26.05,0.0
+1999-02-01,Electricity,26.05,0.0
+1999-03-01,Electricity,26.05,0.0
+1999-04-01,Electricity,26.05,0.0
+1999-05-01,Electricity,26.05,0.0
+1999-06-01,Electricity,26.05,0.0
+1999-07-01,Electricity,26.05,0.0
+1999-08-01,Electricity,26.05,0.0
+1999-09-01,Electricity,26.05,0.0
+1999-10-01,Electricity,26.05,0.0
+1999-11-01,Electricity,26.05,0.0
+1999-12-01,Electricity,26.05,0.0
+2000-01-01,Electricity,26.05,0.0
+2000-02-01,Electricity,26.05,0.0
+2000-03-01,Electricity,26.05,0.0
+2000-04-01,Electricity,26.05,0.0
+2000-05-01,Electricity,26.05,0.0
+2000-06-01,Electricity,26.05,0.0
+2000-07-01,Electricity,26.05,0.0
+2000-08-01,Electricity,26.05,0.0
+2000-09-01,Electricity,26.05,0.0
+2000-10-01,Electricity,26.05,0.0
+2000-11-01,Electricity,26.05,0.0
+2000-12-01,Electricity,26.05,0.0
+2001-01-01,Electricity,26.05,0.0
+2001-02-01,Electricity,26.05,0.0
+2001-03-01,Electricity,26.05,0.0
+2001-04-01,Electricity,26.05,0.0
+2001-05-01,Electricity,26.05,0.0
+2001-06-01,Electricity,26.05,0.0
+2001-07-01,Electricity,26.05,0.0
+2001-08-01,Electricity,26.05,0.0
+2001-09-01,Electricity,26.05,0.0
+2001-10-01,Electricity,26.05,0.0
+2001-11-01,Electricity,26.05,0.0
+2001-12-01,Electricity,27.21,4.4
+2002-01-01,Electricity,28.42,9.1
+2002-02-01,Electricity,28.42,9.1
+2002-03-01,Electricity,28.42,9.1
+2002-04-01,Electricity,28.42,9.1
+2002-05-01,Electricity,28.42,9.1
+2002-06-01,Electricity,28.42,9.1
+2002-07-01,Electricity,28.42,9.1
+2002-08-01,Electricity,28.42,9.1
+2002-09-01,Electricity,28.42,9.1
+2002-10-01,Electricity,28.42,9.1
+2002-11-01,Electricity,28.42,9.1
+2002-12-01,Electricity,28.42,4.4
+2003-01-01,Electricity,28.42,0.0
+2003-02-01,Electricity,28.42,0.0
+2003-03-01,Electricity,30.28,6.5
+2003-04-01,Electricity,32.31,13.6
+2003-05-01,Electricity,32.31,13.6
+2003-06-01,Electricity,32.31,13.6
+2003-07-01,Electricity,32.31,13.6
+2003-08-01,Electricity,32.31,13.6
+2003-09-01,Electricity,32.31,13.6
+2003-10-01,Electricity,32.31,13.6
+2003-11-01,Electricity,32.31,13.6
+2003-12-01,Electricity,32.31,13.6
+2004-01-01,Electricity,32.31,13.6
+2004-02-01,Electricity,32.31,13.6
+2004-03-01,Electricity,33.11,9.3
+2004-04-01,Electricity,33.95,5.2
+2004-05-01,Electricity,33.95,5.2
+2004-06-01,Electricity,33.95,5.2
+2004-07-01,Electricity,33.95,5.2
+2004-08-01,Electricity,33.95,5.2
+2004-09-01,Electricity,33.95,5.2
+2004-10-01,Electricity,33.95,5.2
+2004-11-01,Electricity,33.95,5.2
+2004-12-01,Electricity,35.48,9.8
+2005-01-01,Electricity,37.07,14.8
+2005-02-01,Electricity,37.07,14.8
+2005-03-01,Electricity,37.07,12.0
+2005-04-01,Electricity,38.56,13.6
+2005-05-01,Electricity,38.56,13.6
+2005-06-01,Electricity,38.56,13.6
+2005-07-01,Electricity,38.56,13.6
+2005-08-01,Electricity,38.56,13.6
+2005-09-01,Electricity,38.56,13.6
+2005-10-01,Electricity,38.56,13.6
+2005-11-01,Electricity,38.56,13.6
+2005-12-01,Electricity,38.56,8.8
+2006-01-01,Electricity,39.77,7.3
+2006-02-01,Electricity,39.77,7.3
+2006-03-01,Electricity,39.77,7.3
+2006-04-01,Electricity,39.77,3.1
+2006-05-01,Electricity,39.77,3.1
+2006-06-01,Electricity,39.77,3.1
+2006-07-01,Electricity,39.77,3.1
+2006-08-01,Electricity,39.77,3.1
+2006-09-01,Electricity,39.77,3.1
+2006-10-01,Electricity,39.77,3.1
+2006-11-01,Electricity,39.77,3.1
+2006-12-01,Electricity,39.77,3.1
+2007-01-01,Electricity,44.78,12.6
+2007-02-01,Electricity,44.78,12.6
+2007-03-01,Electricity,44.78,12.6
+2007-04-01,Electricity,44.78,12.6
+2007-05-01,Electricity,44.78,12.6
+2007-06-01,Electricity,44.78,12.6
+2007-07-01,Electricity,44.78,12.6
+2007-08-01,Electricity,44.78,12.6
+2007-09-01,Electricity,44.78,12.6
+2007-10-01,Electricity,44.78,12.6
+2007-11-01,Electricity,42.36,6.5
+2007-12-01,Electricity,42.36,6.5
+2008-01-01,Electricity,42.36,-5.4
+2008-02-01,Electricity,42.36,-5.4
+2008-03-01,Electricity,42.36,-5.4
+2008-04-01,Electricity,42.36,-5.4
+2008-05-01,Electricity,42.36,-5.4
+2008-06-01,Electricity,42.36,-5.4
+2008-07-01,Electricity,42.36,-5.4
+2008-08-01,Electricity,49.77,11.2
+2008-09-01,Electricity,49.77,11.2
+2008-10-01,Electricity,49.77,11.2
+2008-11-01,Electricity,49.77,17.5
+2008-12-01,Electricity,49.77,17.5
+2009-01-01,Electricity,49.47,16.7
+2009-02-01,Electricity,49.47,16.7
+2009-03-01,Electricity,49.47,16.7
+2009-04-01,Electricity,49.47,16.7
+2009-05-01,Electricity,44.32,4.6
+2009-06-01,Electricity,44.32,4.6
+2009-07-01,Electricity,44.32,4.6
+2009-08-01,Electricity,44.32,-11.0
+2009-09-01,Electricity,44.32,-11.0
+2009-10-01,Electricity,44.32,-11.0
+2009-11-01,Electricity,44.32,-11.0
+2009-12-01,Electricity,44.32,-11.0
+2010-01-01,Electricity,44.32,-10.4
+2010-02-01,Electricity,44.32,-10.4
+2010-03-01,Electricity,44.32,-10.4
+2010-04-01,Electricity,44.32,-10.4
+2010-05-01,Electricity,43.74,-1.3
+2010-06-01,Electricity,43.74,-1.3
+2010-07-01,Electricity,43.74,-1.3
+2010-08-01,Electricity,43.74,-1.3
+2010-09-01,Electricity,43.74,-1.3
+2010-10-01,Electricity,45.75,3.2
+2010-11-01,Electricity,45.75,3.2
+2010-12-01,Electricity,45.75,3.2
+2011-01-01,Electricity,45.75,3.2
+2011-02-01,Electricity,45.75,3.2
+2011-03-01,Electricity,45.75,3.2
+2011-04-01,Electricity,45.75,3.2
+2011-05-01,Electricity,45.77,4.6
+2011-06-01,Electricity,45.77,4.6
+2011-07-01,Electricity,45.77,4.6
+2011-08-01,Electricity,47.19,7.9
+2011-09-01,Electricity,47.96,9.6
+2011-10-01,Electricity,51.02,11.4
+2011-11-01,Electricity,51.02,11.4
+2011-12-01,Electricity,51.02,11.4
+2012-01-01,Electricity,51.02,11.4
+2012-02-01,Electricity,51.02,11.4
+2012-03-01,Electricity,51.02,11.4
+2012-04-01,Electricity,51.44,12.5
+2012-05-01,Electricity,52.39,14.5
+2012-06-01,Electricity,52.39,14.5
+2012-07-01,Electricity,52.39,14.5
+2012-08-01,Electricity,52.39,11.0
+2012-09-01,Electricity,52.39,9.2
+2012-10-01,Electricity,55.44,8.7
+2012-11-01,Electricity,55.44,8.7
+2012-12-01,Electricity,55.44,8.7
+2013-01-01,Electricity,55.44,8.7
+2013-02-01,Electricity,55.44,8.7
+2013-03-01,Electricity,55.44,8.7
+2013-04-01,Electricity,55.44,7.7
+2013-05-01,Electricity,55.44,5.8
+2013-06-01,Electricity,55.44,5.8
+2013-07-01,Electricity,55.44,5.8
+2013-08-01,Electricity,55.44,5.8
+2013-09-01,Electricity,55.44,5.8
+2013-10-01,Electricity,55.81,0.7
+2013-11-01,Electricity,56.74,2.4
+2013-12-01,Electricity,56.74,2.4
+2014-01-01,Electricity,57.24,3.2
+2014-02-01,Electricity,57.24,3.2
+2014-03-01,Electricity,57.51,3.7
+2014-04-01,Electricity,57.51,3.7
+2014-05-01,Electricity,57.51,3.7
+2014-06-01,Electricity,57.51,3.7
+2014-07-01,Electricity,57.51,3.7
+2014-08-01,Electricity,57.51,3.7
+2014-09-01,Electricity,57.51,3.7
+2014-10-01,Electricity,58.83,5.4
+2014-11-01,Electricity,58.14,2.4
+2014-12-01,Electricity,58.14,2.4
+2015-01-01,Electricity,58.14,1.6
+2015-02-01,Electricity,58.14,1.6
+2015-03-01,Electricity,57.93,0.7
+2015-04-01,Electricity,57.68,0.3
+2015-05-01,Electricity,57.68,0.3
+2015-06-01,Electricity,57.68,0.3
+2015-07-01,Electricity,57.68,0.3
+2015-08-01,Electricity,57.68,0.3
+2015-09-01,Electricity,57.68,0.3
+2015-10-01,Electricity,57.25,-2.6
+2015-11-01,Electricity,56.61,-2.6
+2015-12-01,Electricity,56.61,-2.6
+2016-01-01,Electricity,56.38,-3.1
+2016-02-01,Electricity,56.38,-3.1
+2016-03-01,Electricity,56.38,-2.7
+2016-04-01,Electricity,56.38,-2.3
+2016-05-01,Electricity,56.38,-2.3
+2016-06-01,Electricity,56.38,-2.3
+2016-07-01,Electricity,56.38,-2.3
+2016-08-01,Electricity,54.2,-6.1
+2016-09-01,Electricity,54.2,-6.1
+2016-10-01,Electricity,54.47,-4.9
+2016-11-01,Electricity,54.47,-3.9
+2016-12-01,Electricity,54.47,-3.9
+2017-01-01,Electricity,54.47,-3.4
+2017-02-01,Electricity,54.47,-3.4
+2017-03-01,Electricity,54.47,-3.4
+2017-04-01,Electricity,54.47,-3.4
+2017-05-01,Electricity,54.47,-3.4
+2017-06-01,Electricity,54.47,-3.4
+2017-07-01,Electricity,54.47,-3.4
+2017-08-01,Electricity,54.47,0.5
+2017-09-01,Electricity,54.47,0.5
+2017-10-01,Electricity,55.78,2.4
+2017-11-01,Electricity,56.86,4.4
+2017-12-01,Electricity,57.08,4.9
+2018-01-01,Electricity,57.08,4.9
+2018-02-01,Electricity,58.17,6.9
+2018-03-01,Electricity,58.17,6.9
+2018-04-01,Electricity,58.17,6.9
+2018-05-01,Electricity,58.17,6.9
+2018-06-01,Electricity,58.17,6.9
+2018-07-01,Electricity,58.71,7.8
+2018-08-01,Electricity,61.65,13.2
+2018-09-01,Electricity,61.65,13.2
+2018-10-01,Electricity,58.57,5.1
+2018-11-01,Electricity,58.57,3.0
+2018-12-01,Electricity,59.14,3.5
+2019-01-01,Electricity,59.4,4.0
+2019-02-01,Electricity,59.4,2.1
+2019-03-01,Electricity,59.89,2.9
+2019-04-01,Electricity,61.18,5.1
+2019-05-01,Electricity,61.18,5.1
+2019-06-01,Electricity,61.18,5.1
+2019-07-01,Electricity,61.18,4.2
+2019-08-01,Electricity,61.18,-0.7
+2019-09-01,Electricity,61.18,-0.7
+2019-10-01,Electricity,61.01,4.1
+2019-11-01,Electricity,61.01,4.1
+2019-12-01,Electricity,61.01,3.2
+2020-01-01,Electricity,61.01,2.7
+2020-02-01,Electricity,61.01,2.7
+2020-03-01,Electricity,61.01,1.9
+2020-04-01,Electricity,60.28,-1.5
+2020-05-01,Electricity,59.66,-2.5
+2020-06-01,Electricity,59.53,-2.7
+2020-07-01,Electricity,59.53,-2.7
+2020-08-01,Electricity,59.53,-2.7
+2020-09-01,Electricity,59.53,-2.7
+2020-10-01,Electricity,63.35,3.9
+2020-11-01,Electricity,63.35,3.9
+2020-12-01,Electricity,63.35,3.9
+2021-01-01,Electricity,63.35,3.9
+2021-02-01,Electricity,63.35,3.9
+2021-03-01,Electricity,63.35,3.9
+2021-04-01,Electricity,65.24,8.2
+2021-05-01,Electricity,65.24,9.4
+2021-06-01,Electricity,65.24,9.6
+2021-07-01,Electricity,66.25,11.3
+2021-08-01,Electricity,70.76,18.9
+2021-09-01,Electricity,71.74,20.5
+2021-10-01,Electricity,73.13,15.3
+2021-11-01,Electricity,76.6,20.9
+2021-12-01,Electricity,77.56,22.3
+2022-01-01,Electricity,77.56,22.3
+2022-02-01,Electricity,77.56,22.3
+2022-03-01,Electricity,77.56,22.3
+2022-04-01,Electricity,83.41,27.9
+2022-05-01,Electricity,91.97,41.0
+2022-06-01,Electricity,91.97,41.0
+2022-07-01,Electricity,92.69,39.9
+2022-08-01,Electricity,97.74,38.2
+2022-09-01,Electricity,97.74,36.3
+2022-10-01,Electricity,125.2,71.3
+2022-11-01,Electricity,125.2,63.4
+2022-12-01,Electricity,126.19,62.7
+2023-01-01,Electricity,126.19,62.7
+2023-02-01,Electricity,126.19,62.7
+2023-03-01,Electricity,126.19,62.7
+2023-04-01,Electricity,126.19,51.3
+2023-05-01,Electricity,123.8,34.6
+2023-06-01,Electricity,123.8,34.6
+2023-07-01,Electricity,122.24,31.9
+2023-08-01,Electricity,122.24,25.1
+2023-09-01,Electricity,120.7,23.5
+2023-10-01,Electricity,118.59,-5.3
+2023-11-01,Electricity,107.01,-14.5
+2023-12-01,Electricity,107.01,-15.2
+2024-01-01,Electricity,107.01,-15.2
+2024-02-01,Electricity,105.56,-16.3
+2024-03-01,Electricity,98.66,-21.8
+2024-04-01,Electricity,98.18,-22.2
+2024-05-01,Electricity,98.18,-20.7
+2024-06-01,Electricity,98.18,-20.7
+2024-07-01,Electricity,97.11,-20.6
+2024-08-01,Electricity,97.11,-20.6
+2024-09-01,Electricity,97.11,-19.6
+2024-10-01,Electricity,99.45,-16.1
+2024-11-01,Electricity,98.17,-8.3
+2024-12-01,Electricity,98.17,-8.3
+2025-01-01,Electricity,98.17,-8.3
+2025-02-01,Electricity,98.17,-7.0
+2025-03-01,Electricity,98.17,-0.5
+2025-04-01,Electricity,99.44,1.3
+2025-05-01,Electricity,99.44,1.3
+2025-06-01,Electricity,99.44,1.3
+2025-07-01,Electricity,99.44,2.4
+2025-08-01,Electricity,99.44,2.4
+2025-09-01,Electricity,99.44,2.4
+2025-10-01,Electricity,103.08,3.6
+2025-11-01,Electricity,103.08,5.0
+2025-12-01,Electricity,102.68,4.6
+2026-01-01,Electricity,102.68,4.6
+2026-02-01,Electricity,102.68,4.6
+2026-03-01,Electricity,102.68,4.6
+2026-04-01,Electricity,102.68,3.3
+2026-05-01,Electricity,102.68,3.3
+2026-06-01,Electricity,103.61,4.2
+2026-07-01,Electricity,107.48,8.1
+2026-08-01,Electricity,107.48,8.1
+2026-09-01,Electricity,107.48,8.1
+1996-11-01,Energy,32.17,
+1996-12-01,Energy,32.17,
+1997-01-01,Energy,31.83,
+1997-02-01,Energy,32.22,
+1997-03-01,Energy,32.04,
+1997-04-01,Energy,31.9,
+1997-05-01,Energy,31.93,
+1997-06-01,Energy,32.1,
+1997-07-01,Energy,31.99,
+1997-08-01,Energy,32.05,
+1997-09-01,Energy,32.52,
+1997-10-01,Energy,32.32,
+1997-11-01,Energy,32.39,0.6
+1997-12-01,Energy,32.37,0.6
+1998-01-01,Energy,32.43,1.8
+1998-02-01,Energy,32.28,0.2
+1998-03-01,Energy,32.18,0.4
+1998-04-01,Energy,32.04,0.4
+1998-05-01,Energy,32.03,0.4
+1998-06-01,Energy,31.98,-0.4
+1998-07-01,Energy,31.89,-0.4
+1998-08-01,Energy,31.84,-0.6
+1998-09-01,Energy,31.67,-2.6
+1998-10-01,Energy,31.64,-2.0
+1998-11-01,Energy,31.59,-2.4
+1998-12-01,Energy,31.37,-3.0
+1999-01-01,Energy,31.03,-4.4
+1999-02-01,Energy,31.06,-3.8
+1999-03-01,Energy,31.01,-3.6
+1999-04-01,Energy,31.63,-1.2
+1999-05-01,Energy,32.09,0.2
+1999-06-01,Energy,32.12,0.4
+1999-07-01,Energy,32.56,2.2
+1999-08-01,Energy,32.95,3.5
+1999-09-01,Energy,33.52,6.0
+1999-10-01,Energy,33.82,6.8
+1999-11-01,Energy,33.79,7.0
+1999-12-01,Energy,34.36,9.3
+2000-01-01,Energy,34.79,12.2
+2000-02-01,Energy,34.87,12.1
+2000-03-01,Energy,35.77,15.3
+2000-04-01,Energy,36.55,15.4
+2000-05-01,Energy,36.13,12.6
+2000-06-01,Energy,36.92,15.0
+2000-07-01,Energy,37.53,15.2
+2000-08-01,Energy,37.42,13.6
+2000-09-01,Energy,37.71,12.4
+2000-10-01,Energy,39.15,15.8
+2000-11-01,Energy,39.12,15.8
+2000-12-01,Energy,37.93,10.4
+2001-01-01,Energy,36.22,4.1
+2001-02-01,Energy,35.31,1.3
+2001-03-01,Energy,35.74,0.0
+2001-04-01,Energy,35.71,-2.3
+2001-05-01,Energy,36.47,0.9
+2001-06-01,Energy,37.58,1.8
+2001-07-01,Energy,36.97,-1.4
+2001-08-01,Energy,35.68,-4.7
+2001-09-01,Energy,35.5,-5.9
+2001-10-01,Energy,36.1,-7.8
+2001-11-01,Energy,34.74,-11.3
+2001-12-01,Energy,35.49,-6.3
+2002-01-01,Energy,35.73,-1.4
+2002-02-01,Energy,35.77,1.3
+2002-03-01,Energy,35.89,0.4
+2002-04-01,Energy,37.07,3.8
+2002-05-01,Energy,38.14,4.6
+2002-06-01,Energy,37.95,1.0
+2002-07-01,Energy,37.62,1.8
+2002-08-01,Energy,37.41,4.7
+2002-09-01,Energy,37.52,5.7
+2002-10-01,Energy,37.95,5.2
+2002-11-01,Energy,37.68,8.6
+2002-12-01,Energy,37.53,5.7
+2003-01-01,Energy,37.98,6.4
+2003-02-01,Energy,38.13,6.5
+2003-03-01,Energy,39.52,10.1
+2003-04-01,Energy,40.12,8.2
+2003-05-01,Energy,38.76,1.5
+2003-06-01,Energy,38.3,0.9
+2003-07-01,Energy,38.12,1.2
+2003-08-01,Energy,38.18,2.1
+2003-09-01,Energy,38.69,3.1
+2003-10-01,Energy,38.51,1.4
+2003-11-01,Energy,38.53,2.2
+2003-12-01,Energy,39.47,5.2
+2004-01-01,Energy,39.46,3.9
+2004-02-01,Energy,39.61,3.9
+2004-03-01,Energy,39.7,0.5
+2004-04-01,Energy,40.61,1.3
+2004-05-01,Energy,41.43,6.9
+2004-06-01,Energy,42.81,11.9
+2004-07-01,Energy,42.29,10.9
+2004-08-01,Energy,42.78,12.1
+2004-09-01,Energy,42.99,11.1
+2004-10-01,Energy,43.35,12.7
+2004-11-01,Energy,44.43,15.2
+2004-12-01,Energy,44.01,11.5
+2005-01-01,Energy,43.32,9.7
+2005-02-01,Energy,43.41,9.7
+2005-03-01,Energy,43.88,10.5
+2005-04-01,Energy,46.18,13.6
+2005-05-01,Energy,46.28,11.8
+2005-06-01,Energy,46.26,7.9
+2005-07-01,Energy,47.65,12.8
+2005-08-01,Energy,48.15,12.6
+2005-09-01,Energy,51.41,19.7
+2005-10-01,Energy,52.0,19.9
+2005-11-01,Energy,50.09,12.7
+2005-12-01,Energy,48.62,10.5
+2006-01-01,Energy,49.13,13.5
+2006-02-01,Energy,50.08,15.3
+2006-03-01,Energy,49.98,13.9
+2006-04-01,Energy,50.94,10.3
+2006-05-01,Energy,52.33,13.1
+2006-06-01,Energy,52.14,12.8
+2006-07-01,Energy,52.6,10.4
+2006-08-01,Energy,53.36,10.8
+2006-09-01,Energy,51.44,0.0
+2006-10-01,Energy,50.93,-2.1
+2006-11-01,Energy,50.22,0.3
+2006-12-01,Energy,50.44,3.7
+2007-01-01,Energy,51.49,4.8
+2007-02-01,Energy,50.7,1.3
+2007-03-01,Energy,51.76,3.5
+2007-04-01,Energy,52.73,3.6
+2007-05-01,Energy,53.77,2.7
+2007-06-01,Energy,54.16,3.9
+2007-07-01,Energy,54.59,3.8
+2007-08-01,Energy,54.27,1.7
+2007-09-01,Energy,54.08,5.2
+2007-10-01,Energy,53.85,5.7
+2007-11-01,Energy,55.43,10.5
+2007-12-01,Energy,55.21,9.4
+2008-01-01,Energy,55.78,8.3
+2008-02-01,Energy,54.7,7.8
+2008-03-01,Energy,56.2,8.5
+2008-04-01,Energy,56.52,7.2
+2008-05-01,Energy,58.72,9.2
+2008-06-01,Energy,61.01,12.6
+2008-07-01,Energy,62.14,13.8
+2008-08-01,Energy,61.74,13.8
+2008-09-01,Energy,61.8,14.2
+2008-10-01,Energy,59.78,11.0
+2008-11-01,Energy,56.84,2.5
+2008-12-01,Energy,53.4,-3.3
+2009-01-01,Energy,51.99,-6.8
+2009-02-01,Energy,52.67,-3.7
+2009-03-01,Energy,52.36,-6.8
+2009-04-01,Energy,53.74,-4.8
+2009-05-01,Energy,52.57,-10.4
+2009-06-01,Energy,54.06,-11.4
+2009-07-01,Energy,53.8,-13.5
+2009-08-01,Energy,54.69,-11.5
+2009-09-01,Energy,54.58,-11.7
+2009-10-01,Energy,53.53,-10.4
+2009-11-01,Energy,54.71,-3.7
+2009-12-01,Energy,54.69,2.4
+2010-01-01,Energy,56.6,8.8
+2010-02-01,Energy,56.0,6.3
+2010-03-01,Energy,57.07,9.1
+2010-04-01,Energy,58.64,9.1
+2010-05-01,Energy,59.75,13.6
+2010-06-01,Energy,59.2,9.6
+2010-07-01,Energy,59.1,9.9
+2010-08-01,Energy,59.02,8.0
+2010-09-01,Energy,58.94,8.1
+2010-10-01,Energy,59.32,10.8
+2010-11-01,Energy,59.33,8.4
+2010-12-01,Energy,62.21,13.8
+2011-01-01,Energy,63.15,11.6
+2011-02-01,Energy,63.76,13.9
+2011-03-01,Energy,65.52,14.8
+2011-04-01,Energy,65.98,12.5
+2011-05-01,Energy,66.1,10.7
+2011-06-01,Energy,65.41,10.4
+2011-07-01,Energy,65.05,10.1
+2011-08-01,Energy,65.86,11.6
+2011-09-01,Energy,66.27,12.3
+2011-10-01,Energy,67.31,13.5
+2011-11-01,Energy,67.46,13.7
+2011-12-01,Energy,67.74,8.9
+2012-01-01,Energy,69.33,9.8
+2012-02-01,Energy,70.16,10.0
+2012-03-01,Energy,71.45,9.0
+2012-04-01,Energy,72.69,10.1
+2012-05-01,Energy,72.54,9.7
+2012-06-01,Energy,71.06,8.6
+2012-07-01,Energy,70.49,8.3
+2012-08-01,Energy,72.46,10.0
+2012-09-01,Energy,73.8,11.4
+2012-10-01,Energy,74.34,10.4
+2012-11-01,Energy,72.96,8.1
+2012-12-01,Energy,72.42,6.9
+2013-01-01,Energy,71.93,3.8
+2013-02-01,Energy,72.73,3.7
+2013-03-01,Energy,72.78,1.8
+2013-04-01,Energy,72.6,-0.1
+2013-05-01,Energy,71.26,-1.8
+2013-06-01,Energy,71.12,0.1
+2013-07-01,Energy,71.56,1.6
+2013-08-01,Energy,71.89,-0.7
+2013-09-01,Energy,72.68,-1.5
+2013-10-01,Energy,71.63,-3.6
+2013-11-01,Energy,70.95,-2.8
+2013-12-01,Energy,71.31,-1.5
+2014-01-01,Energy,71.05,-1.2
+2014-02-01,Energy,70.95,-2.5
+2014-03-01,Energy,71.08,-2.3
+2014-04-01,Energy,71.0,-2.2
+2014-05-01,Energy,71.32,0.1
+2014-06-01,Energy,71.42,0.4
+2014-07-01,Energy,72.09,0.7
+2014-08-01,Energy,71.68,-0.4
+2014-09-01,Energy,71.44,-1.7
+2014-10-01,Energy,70.95,-1.0
+2014-11-01,Energy,69.53,-2.0
+2014-12-01,Energy,67.39,-5.6
+2015-01-01,Energy,63.63,-10.4
+2015-02-01,Energy,63.92,-9.9
+2015-03-01,Energy,65.86,-7.3
+2015-04-01,Energy,66.09,-7.0
+2015-05-01,Energy,67.49,-5.4
+2015-06-01,Energy,67.55,-5.4
+2015-07-01,Energy,67.24,-6.8
+2015-08-01,Energy,65.87,-8.1
+2015-09-01,Energy,64.31,-10.0
+2015-10-01,Energy,63.22,-10.9
+2015-11-01,Energy,62.82,-9.6
+2015-12-01,Energy,62.27,-7.5
+2016-01-01,Energy,60.25,-5.3
+2016-02-01,Energy,58.87,-7.9
+2016-03-01,Energy,59.02,-10.4
+2016-04-01,Energy,60.27,-8.8
+2016-05-01,Energy,61.18,-9.3
+2016-06-01,Energy,62.56,-7.4
+2016-07-01,Energy,62.16,-7.5
+2016-08-01,Energy,60.35,-8.4
+2016-09-01,Energy,60.98,-5.2
+2016-10-01,Energy,61.68,-2.4
+2016-11-01,Energy,61.82,-1.6
+2016-12-01,Energy,62.71,0.6
+2017-01-01,Energy,63.92,6.0
+2017-02-01,Energy,63.94,8.6
+2017-03-01,Energy,63.8,8.0
+2017-04-01,Energy,63.7,5.7
+2017-05-01,Energy,63.05,3.1
+2017-06-01,Energy,62.37,-0.3
+2017-07-01,Energy,61.78,-0.6
+2017-08-01,Energy,61.89,2.6
+2017-09-01,Energy,62.78,3.0
+2017-10-01,Energy,63.42,2.7
+2017-11-01,Energy,64.95,5.0
+2017-12-01,Energy,65.04,3.7
+2018-01-01,Energy,65.21,2.0
+2018-02-01,Energy,65.42,2.3
+2018-03-01,Energy,65.21,2.2
+2018-04-01,Energy,65.61,3.0
+2018-05-01,Energy,66.88,6.1
+2018-06-01,Energy,68.66,10.1
+2018-07-01,Energy,68.8,11.4
+2018-08-01,Energy,69.71,12.6
+2018-09-01,Energy,70.05,11.5
+2018-10-01,Energy,70.57,11.3
+2018-11-01,Energy,70.18,8.0
+2018-12-01,Energy,68.56,5.4
+2019-01-01,Energy,66.22,1.5
+2019-02-01,Energy,66.55,1.8
+2019-03-01,Energy,67.65,3.7
+2019-04-01,Energy,69.11,5.4
+2019-05-01,Energy,70.22,5.0
+2019-06-01,Energy,69.74,1.6
+2019-07-01,Energy,68.68,-0.2
+2019-08-01,Energy,68.76,-1.4
+2019-09-01,Energy,68.82,-1.8
+2019-10-01,Energy,69.53,-1.5
+2019-11-01,Energy,69.09,-1.5
+2019-12-01,Energy,69.35,1.2
+2020-01-01,Energy,70.15,6.0
+2020-02-01,Energy,69.02,3.7
+2020-03-01,Energy,67.52,-0.2
+2020-04-01,Energy,64.17,-7.1
+2020-05-01,Energy,62.5,-11.0
+2020-06-01,Energy,63.27,-9.3
+2020-07-01,Energy,64.26,-6.4
+2020-08-01,Energy,64.37,-6.3
+2020-09-01,Energy,63.92,-7.1
+2020-10-01,Energy,64.78,-6.8
+2020-11-01,Energy,64.86,-6.1
+2020-12-01,Energy,63.54,-8.4
+2021-01-01,Energy,64.64,-7.9
+2021-02-01,Energy,65.89,-4.6
+2021-03-01,Energy,68.27,1.2
+2021-04-01,Energy,69.38,8.1
+2021-05-01,Energy,70.32,12.6
+2021-06-01,Energy,70.93,12.1
+2021-07-01,Energy,72.68,13.2
+2021-08-01,Energy,74.69,16.1
+2021-09-01,Energy,75.66,18.4
+2021-10-01,Energy,80.34,24.1
+2021-11-01,Energy,83.06,28.0
+2021-12-01,Energy,82.73,30.2
+2022-01-01,Energy,83.34,29.0
+2022-02-01,Energy,85.61,30.0
+2022-03-01,Energy,98.2,43.8
+2022-04-01,Energy,96.45,39.0
+2022-05-01,Energy,102.85,46.2
+2022-06-01,Energy,109.3,54.1
+2022-07-01,Energy,107.6,48.0
+2022-08-01,Energy,104.49,39.9
+2022-09-01,Energy,104.46,38.1
+2022-10-01,Energy,118.69,47.7
+2022-11-01,Energy,118.84,43.1
+2022-12-01,Energy,111.1,34.4
+2023-01-01,Energy,110.97,33.2
+2023-02-01,Energy,110.69,29.2
+2023-03-01,Energy,109.59,11.6
+2023-04-01,Energy,108.17,12.2
+2023-05-01,Energy,104.83,1.9
+2023-06-01,Energy,105.95,-3.1
+2023-07-01,Energy,106.19,-1.3
+2023-08-01,Energy,109.83,5.1
+2023-09-01,Energy,114.13,9.2
+2023-10-01,Energy,113.66,-4.2
+2023-11-01,Energy,106.72,-10.2
+2023-12-01,Energy,103.95,-6.4
+2024-01-01,Energy,103.14,-7.1
+2024-02-01,Energy,103.68,-6.3
+2024-03-01,Energy,100.38,-8.4
+2024-04-01,Energy,101.36,-6.3
+2024-05-01,Energy,101.05,-3.6
+2024-06-01,Energy,100.01,-5.6
+2024-07-01,Energy,100.04,-5.8
+2024-08-01,Energy,99.44,-9.5
+2024-09-01,Energy,98.06,-14.1
+2024-10-01,Energy,98.35,-13.4
+2024-11-01,Energy,98.53,-7.7
+2024-12-01,Energy,99.15,-4.6
+2025-01-01,Energy,100.37,-2.6
+2025-02-01,Energy,101.03,-2.6
+2025-03-01,Energy,100.02,-0.4
+2025-04-01,Energy,99.67,-1.7
+2025-05-01,Energy,98.36,-2.6
+2025-06-01,Energy,98.17,-1.8
+2025-07-01,Energy,99.66,-0.4
+2025-08-01,Energy,99.36,-0.1
+2025-09-01,Energy,99.07,1.1
+2025-10-01,Energy,101.03,2.7
+2025-11-01,Energy,101.74,3.3
+2025-12-01,Energy,101.5,2.4
+2026-01-01,Energy,100.67,0.3
+2026-02-01,Energy,101.09,0.1
+2026-03-01,Energy,112.28,12.3
+2026-04-01,Energy,114.96,15.3
+2026-05-01,Energy,110.09,11.9
+2026-06-01,Energy,107.97,10.0
+2026-07-01,Energy,106.49,6.8
+2026-08-01,Energy,111.05,11.8
+2026-09-01,Energy,114.25,15.3
+1996-11-01,Food,68.78,
+1996-12-01,Food,68.78,
+1997-01-01,Food,69.3,
+1997-02-01,Food,69.15,
+1997-03-01,Food,69.29,
+1997-04-01,Food,69.61,
+1997-05-01,Food,69.79,
+1997-06-01,Food,70.34,
+1997-07-01,Food,71.04,
+1997-08-01,Food,70.5,
+1997-09-01,Food,70.47,
+1997-10-01,Food,70.22,
+1997-11-01,Food,70.47,2.4
+1997-12-01,Food,70.86,3.0
+1998-01-01,Food,70.81,2.1
+1998-02-01,Food,71.01,2.6
+1998-03-01,Food,71.42,3.1
+1998-04-01,Food,72.44,4.1
+1998-05-01,Food,73.33,5.1
+1998-06-01,Food,74.03,5.2
+1998-07-01,Food,74.48,4.9
+1998-08-01,Food,73.99,4.9
+1998-09-01,Food,73.6,4.5
+1998-10-01,Food,73.37,4.6
+1998-11-01,Food,73.11,3.8
+1998-12-01,Food,73.84,4.1
+1999-01-01,Food,74.07,4.6
+1999-02-01,Food,74.49,5.0
+1999-03-01,Food,74.65,4.6
+1999-04-01,Food,75.0,3.6
+1999-05-01,Food,75.37,2.8
+1999-06-01,Food,75.87,2.6
+1999-07-01,Food,75.48,1.3
+1999-08-01,Food,75.7,2.3
+1999-09-01,Food,75.28,2.2
+1999-10-01,Food,75.1,2.4
+1999-11-01,Food,75.4,3.1
+1999-12-01,Food,75.57,2.3
+2000-01-01,Food,75.63,2.1
+2000-02-01,Food,75.86,1.9
+2000-03-01,Food,75.97,1.7
+2000-04-01,Food,76.11,1.5
+2000-05-01,Food,77.19,2.4
+2000-06-01,Food,77.58,2.3
+2000-07-01,Food,78.17,3.5
+2000-08-01,Food,78.59,3.8
+2000-09-01,Food,78.54,4.4
+2000-10-01,Food,78.52,4.5
+2000-11-01,Food,78.7,4.5
+2000-12-01,Food,79.23,4.9
+2001-01-01,Food,79.3,4.9
+2001-02-01,Food,79.96,5.3
+2001-03-01,Food,80.99,6.6
+2001-04-01,Food,82.19,7.9
+2001-05-01,Food,82.61,7.0
+2001-06-01,Food,83.25,7.2
+2001-07-01,Food,83.43,6.7
+2001-08-01,Food,83.79,6.7
+2001-09-01,Food,83.85,6.7
+2001-10-01,Food,83.65,6.6
+2001-11-01,Food,83.72,6.4
+2001-12-01,Food,84.02,6.0
+2002-01-01,Food,84.21,6.1
+2002-02-01,Food,84.27,5.4
+2002-03-01,Food,84.37,4.2
+2002-04-01,Food,84.79,3.2
+2002-05-01,Food,85.27,3.2
+2002-06-01,Food,85.56,2.8
+2002-07-01,Food,85.78,2.9
+2002-08-01,Food,85.94,2.5
+2002-09-01,Food,86.04,2.6
+2002-10-01,Food,86.16,3.0
+2002-11-01,Food,86.22,3.0
+2002-12-01,Food,86.36,2.8
+2003-01-01,Food,86.19,2.4
+2003-02-01,Food,86.39,2.6
+2003-03-01,Food,86.62,2.7
+2003-04-01,Food,86.64,2.2
+2003-05-01,Food,86.58,1.5
+2003-06-01,Food,86.86,1.5
+2003-07-01,Food,87.13,1.5
+2003-08-01,Food,87.04,1.3
+2003-09-01,Food,86.64,0.7
+2003-10-01,Food,86.6,0.5
+2003-11-01,Food,86.54,0.3
+2003-12-01,Food,86.43,0.1
+2004-01-01,Food,86.46,0.3
+2004-02-01,Food,86.36,-0.1
+2004-03-01,Food,86.29,-0.4
+2004-04-01,Food,86.07,-0.7
+2004-05-01,Food,86.42,-0.2
+2004-06-01,Food,86.85,0.0
+2004-07-01,Food,86.49,-0.7
+2004-08-01,Food,86.55,-0.6
+2004-09-01,Food,86.36,-0.3
+2004-10-01,Food,86.31,-0.3
+2004-11-01,Food,86.22,-0.3
+2004-12-01,Food,86.55,0.1
+2005-01-01,Food,86.25,-0.2
+2005-02-01,Food,86.35,0.0
+2005-03-01,Food,85.72,-0.6
+2005-04-01,Food,85.58,-0.6
+2005-05-01,Food,85.55,-1.0
+2005-06-01,Food,85.68,-1.4
+2005-07-01,Food,85.91,-0.7
+2005-08-01,Food,85.88,-0.7
+2005-09-01,Food,85.92,-0.5
+2005-10-01,Food,85.73,-0.7
+2005-11-01,Food,85.54,-0.8
+2005-12-01,Food,85.67,-1.0
+2006-01-01,Food,85.61,-0.7
+2006-02-01,Food,86.31,0.0
+2006-03-01,Food,86.73,1.1
+2006-04-01,Food,87.12,1.8
+2006-05-01,Food,87.82,2.6
+2006-06-01,Food,87.17,1.8
+2006-07-01,Food,87.17,1.5
+2006-08-01,Food,87.2,1.5
+2006-09-01,Food,87.4,1.7
+2006-10-01,Food,87.12,1.6
+2006-11-01,Food,86.99,1.7
+2006-12-01,Food,87.2,1.8
+2007-01-01,Food,87.21,1.8
+2007-02-01,Food,87.31,1.1
+2007-03-01,Food,87.5,0.9
+2007-04-01,Food,88.5,1.6
+2007-05-01,Food,89.03,1.4
+2007-06-01,Food,89.41,2.6
+2007-07-01,Food,89.49,2.7
+2007-08-01,Food,89.55,2.7
+2007-09-01,Food,89.75,2.7
+2007-10-01,Food,90.95,4.4
+2007-11-01,Food,91.96,5.7
+2007-12-01,Food,92.69,6.3
+2008-01-01,Food,93.03,6.6
+2008-02-01,Food,94.72,8.5
+2008-03-01,Food,95.59,9.3
+2008-04-01,Food,95.63,8.1
+2008-05-01,Food,96.0,7.9
+2008-06-01,Food,95.9,7.2
+2008-07-01,Food,95.62,6.8
+2008-08-01,Food,95.34,6.5
+2008-09-01,Food,95.22,6.2
+2008-10-01,Food,95.11,4.7
+2008-11-01,Food,95.62,3.9
+2008-12-01,Food,95.62,3.2
+2009-01-01,Food,95.86,3.1
+2009-02-01,Food,95.49,0.8
+2009-03-01,Food,95.03,-0.5
+2009-04-01,Food,94.01,-1.7
+2009-05-01,Food,93.66,-2.4
+2009-06-01,Food,92.75,-3.3
+2009-07-01,Food,91.59,-4.2
+2009-08-01,Food,90.72,-4.8
+2009-09-01,Food,89.48,-6.1
+2009-10-01,Food,89.02,-6.4
+2009-11-01,Food,88.3,-7.6
+2009-12-01,Food,87.87,-8.1
+2010-01-01,Food,87.99,-8.2
+2010-02-01,Food,87.83,-8.0
+2010-03-01,Food,87.63,-7.8
+2010-04-01,Food,87.4,-7.1
+2010-05-01,Food,87.74,-6.4
+2010-06-01,Food,87.79,-5.3
+2010-07-01,Food,88.12,-3.8
+2010-08-01,Food,87.85,-3.1
+2010-09-01,Food,87.66,-2.0
+2010-10-01,Food,87.85,-1.3
+2010-11-01,Food,87.68,-0.8
+2010-12-01,Food,87.96,0.1
+2011-01-01,Food,88.25,0.3
+2011-02-01,Food,88.9,1.3
+2011-03-01,Food,89.01,1.6
+2011-04-01,Food,88.63,1.4
+2011-05-01,Food,88.57,1.0
+2011-06-01,Food,88.39,0.7
+2011-07-01,Food,89.03,1.0
+2011-08-01,Food,89.08,1.4
+2011-09-01,Food,88.87,1.4
+2011-10-01,Food,88.99,1.3
+2011-11-01,Food,89.0,1.6
+2011-12-01,Food,89.0,1.2
+2012-01-01,Food,88.54,0.4
+2012-02-01,Food,88.76,-0.2
+2012-03-01,Food,88.66,-0.4
+2012-04-01,Food,89.13,0.6
+2012-05-01,Food,89.14,0.6
+2012-06-01,Food,89.09,0.8
+2012-07-01,Food,89.17,0.2
+2012-08-01,Food,89.41,0.4
+2012-09-01,Food,89.58,0.9
+2012-10-01,Food,89.88,1.0
+2012-11-01,Food,89.86,1.0
+2012-12-01,Food,90.45,1.6
+2013-01-01,Food,90.68,2.3
+2013-02-01,Food,90.52,1.9
+2013-03-01,Food,90.12,1.7
+2013-04-01,Food,90.5,1.6
+2013-05-01,Food,90.49,1.6
+2013-06-01,Food,90.57,1.6
+2013-07-01,Food,90.98,2.0
+2013-08-01,Food,90.41,1.1
+2013-09-01,Food,89.77,0.2
+2013-10-01,Food,89.92,0.0
+2013-11-01,Food,89.6,-0.3
+2013-12-01,Food,89.42,-1.1
+2014-01-01,Food,89.16,-1.6
+2014-02-01,Food,89.03,-1.6
+2014-03-01,Food,88.78,-1.5
+2014-04-01,Food,88.67,-2.0
+2014-05-01,Food,88.8,-1.8
+2014-06-01,Food,88.5,-2.3
+2014-07-01,Food,88.17,-3.1
+2014-08-01,Food,88.09,-2.6
+2014-09-01,Food,87.72,-2.3
+2014-10-01,Food,87.52,-2.6
+2014-11-01,Food,87.28,-2.6
+2014-12-01,Food,87.11,-2.6
+2015-01-01,Food,87.05,-2.4
+2015-02-01,Food,86.43,-2.9
+2015-03-01,Food,86.32,-2.7
+2015-04-01,Food,86.48,-2.4
+2015-05-01,Food,86.59,-2.5
+2015-06-01,Food,86.49,-2.2
+2015-07-01,Food,86.11,-2.4
+2015-08-01,Food,86.09,-2.3
+2015-09-01,Food,85.82,-2.2
+2015-10-01,Food,86.32,-1.4
+2015-11-01,Food,86.2,-1.3
+2015-12-01,Food,86.23,-1.0
+2016-01-01,Food,86.26,-0.9
+2016-02-01,Food,85.62,-0.9
+2016-03-01,Food,85.9,-0.5
+2016-04-01,Food,85.65,-1.0
+2016-05-01,Food,85.65,-1.1
+2016-06-01,Food,85.59,-1.1
+2016-07-01,Food,85.19,-1.0
+2016-08-01,Food,85.22,-1.0
+2016-09-01,Food,84.84,-1.1
+2016-10-01,Food,84.48,-2.2
+2016-11-01,Food,84.15,-2.3
+2016-12-01,Food,83.81,-2.8
+2017-01-01,Food,84.13,-2.5
+2017-02-01,Food,83.36,-2.7
+2017-03-01,Food,83.65,-2.6
+2017-04-01,Food,83.34,-2.7
+2017-05-01,Food,83.78,-2.2
+2017-06-01,Food,83.22,-2.7
+2017-07-01,Food,83.47,-2.0
+2017-08-01,Food,83.78,-1.7
+2017-09-01,Food,83.11,-2.0
+2017-10-01,Food,83.43,-1.2
+2017-11-01,Food,83.11,-1.2
+2017-12-01,Food,82.58,-1.5
+2018-01-01,Food,82.68,-1.6
+2018-02-01,Food,81.86,-1.8
+2018-03-01,Food,82.14,-1.9
+2018-04-01,Food,81.61,-2.1
+2018-05-01,Food,81.86,-2.3
+2018-06-01,Food,81.46,-2.1
+2018-07-01,Food,81.74,-2.1
+2018-08-01,Food,81.61,-2.6
+2018-09-01,Food,81.32,-2.2
+2018-10-01,Food,81.65,-2.1
+2018-11-01,Food,81.5,-2.0
+2018-12-01,Food,81.34,-1.5
+2019-01-01,Food,81.43,-1.6
+2019-02-01,Food,81.29,-0.6
+2019-03-01,Food,81.59,-0.6
+2019-04-01,Food,81.56,0.0
+2019-05-01,Food,81.7,-0.2
+2019-06-01,Food,81.36,-0.2
+2019-07-01,Food,81.31,-0.5
+2019-08-01,Food,81.37,-0.3
+2019-09-01,Food,80.59,-1.0
+2019-10-01,Food,80.67,-1.3
+2019-11-01,Food,80.6,-1.1
+2019-12-01,Food,80.62,-0.8
+2020-01-01,Food,80.54,-1.1
+2020-02-01,Food,80.49,-1.1
+2020-03-01,Food,80.32,-1.6
+2020-04-01,Food,80.53,-1.3
+2020-05-01,Food,80.63,-1.3
+2020-06-01,Food,80.16,-1.5
+2020-07-01,Food,80.29,-1.3
+2020-08-01,Food,79.92,-1.7
+2020-09-01,Food,79.45,-1.4
+2020-10-01,Food,79.44,-1.5
+2020-11-01,Food,79.46,-1.5
+2020-12-01,Food,79.39,-1.5
+2021-01-01,Food,78.82,-2.1
+2021-02-01,Food,78.92,-1.9
+2021-03-01,Food,79.64,-0.9
+2021-04-01,Food,79.95,-0.8
+2021-05-01,Food,79.81,-1.1
+2021-06-01,Food,79.91,-0.2
+2021-07-01,Food,80.28,0.0
+2021-08-01,Food,80.02,0.1
+2021-09-01,Food,79.81,0.4
+2021-10-01,Food,80.11,0.9
+2021-11-01,Food,80.23,1.0
+2021-12-01,Food,80.59,1.4
+2022-01-01,Food,80.57,2.2
+2022-02-01,Food,81.3,3.1
+2022-03-01,Food,82.02,3.0
+2022-04-01,Food,82.69,3.5
+2022-05-01,Food,83.28,4.4
+2022-06-01,Food,85.21,6.6
+2022-07-01,Food,86.49,7.7
+2022-08-01,Food,87.04,8.7
+2022-09-01,Food,87.64,9.8
+2022-10-01,Food,88.54,10.6
+2022-11-01,Food,89.17,11.2
+2022-12-01,Food,90.12,11.9
+2023-01-01,Food,90.81,12.8
+2023-02-01,Food,91.91,13.1
+2023-03-01,Food,92.8,13.2
+2023-04-01,Food,93.49,13.0
+2023-05-01,Food,93.83,12.6
+2023-06-01,Food,93.95,10.2
+2023-07-01,Food,94.11,8.8
+2023-08-01,Food,94.16,8.2
+2023-09-01,Food,94.53,7.9
+2023-10-01,Food,94.81,7.0
+2023-11-01,Food,95.13,6.7
+2023-12-01,Food,95.16,5.6
+2024-01-01,Food,94.97,4.6
+2024-02-01,Food,95.63,4.0
+2024-03-01,Food,95.52,2.9
+2024-04-01,Food,96.15,2.9
+2024-05-01,Food,96.26,2.6
+2024-06-01,Food,96.15,2.4
+2024-07-01,Food,96.11,2.1
+2024-08-01,Food,96.14,2.0
+2024-09-01,Food,96.3,1.8
+2024-10-01,Food,96.77,2.1
+2024-11-01,Food,96.95,1.9
+2024-12-01,Food,97.05,2.0
+2025-01-01,Food,97.46,2.6
+2025-02-01,Food,97.98,2.4
+2025-03-01,Food,98.69,3.3
+2025-04-01,Food,99.3,3.2
+2025-05-01,Food,100.13,4.0
+2025-06-01,Food,100.45,4.4
+2025-07-01,Food,100.62,4.7
+2025-08-01,Food,101.03,5.1
+2025-09-01,Food,100.9,4.8
+2025-10-01,Food,101.18,4.5
+2025-11-01,Food,101.19,4.4
+2025-12-01,Food,101.08,4.2
+2026-01-01,Food,101.2,3.8
+2026-02-01,Food,101.26,3.4
+2026-03-01,Food,100.97,2.3
+2026-04-01,Food,101.37,2.1
+2026-05-01,Food,101.44,1.3
+2026-06-01,Food,101.07,0.7
+2026-07-01,Food,101.26,0.7
+2026-08-01,Food,101.2,0.2
+2026-09-01,Food,101.21,0.3
+1996-11-01,Home heating oil,32.57,
+1996-12-01,Home heating oil,32.57,
+1997-01-01,Home heating oil,30.79,
+1997-02-01,Home heating oil,30.92,
+1997-03-01,Home heating oil,28.97,
+1997-04-01,Home heating oil,27.99,
+1997-05-01,Home heating oil,27.92,
+1997-06-01,Home heating oil,28.4,
+1997-07-01,Home heating oil,27.51,
+1997-08-01,Home heating oil,27.79,
+1997-09-01,Home heating oil,28.38,
+1997-10-01,Home heating oil,27.71,
+1997-11-01,Home heating oil,29.11,-10.6
+1997-12-01,Home heating oil,29.02,-11.0
+1998-01-01,Home heating oil,28.46,-7.5
+1998-02-01,Home heating oil,27.53,-10.9
+1998-03-01,Home heating oil,27.19,-6.2
+1998-04-01,Home heating oil,26.55,-5.2
+1998-05-01,Home heating oil,26.55,-5.0
+1998-06-01,Home heating oil,26.09,-8.2
+1998-07-01,Home heating oil,25.68,-6.7
+1998-08-01,Home heating oil,24.93,-10.2
+1998-09-01,Home heating oil,24.07,-15.2
+1998-10-01,Home heating oil,24.81,-10.5
+1998-11-01,Home heating oil,24.75,-15.0
+1998-12-01,Home heating oil,23.72,-18.0
+1999-01-01,Home heating oil,22.93,-19.3
+1999-02-01,Home heating oil,23.47,-14.7
+1999-03-01,Home heating oil,23.38,-14.1
+1999-04-01,Home heating oil,25.27,-4.7
+1999-05-01,Home heating oil,26.4,-0.5
+1999-06-01,Home heating oil,25.89,-0.8
+1999-07-01,Home heating oil,28.78,12.1
+1999-08-01,Home heating oil,28.75,15.4
+1999-09-01,Home heating oil,29.93,24.2
+1999-10-01,Home heating oil,30.9,24.5
+1999-11-01,Home heating oil,30.48,23.3
+1999-12-01,Home heating oil,34.12,43.7
+2000-01-01,Home heating oil,35.02,52.4
+2000-02-01,Home heating oil,35.21,49.9
+2000-03-01,Home heating oil,37.79,61.8
+2000-04-01,Home heating oil,37.41,47.9
+2000-05-01,Home heating oil,36.41,37.8
+2000-06-01,Home heating oil,38.11,47.3
+2000-07-01,Home heating oil,38.62,34.3
+2000-08-01,Home heating oil,40.18,39.5
+2000-09-01,Home heating oil,43.89,46.7
+2000-10-01,Home heating oil,49.76,61.0
+2000-11-01,Home heating oil,49.68,62.9
+2000-12-01,Home heating oil,49.29,44.4
+2001-01-01,Home heating oil,44.26,26.5
+2001-02-01,Home heating oil,39.21,11.5
+2001-03-01,Home heating oil,40.66,7.5
+2001-04-01,Home heating oil,39.42,5.5
+2001-05-01,Home heating oil,40.48,11.3
+2001-06-01,Home heating oil,41.92,9.9
+2001-07-01,Home heating oil,42.83,10.8
+2001-08-01,Home heating oil,40.93,2.0
+2001-09-01,Home heating oil,40.29,-8.1
+2001-10-01,Home heating oil,40.92,-17.8
+2001-11-01,Home heating oil,37.67,-24.2
+2001-12-01,Home heating oil,35.68,-27.7
+2002-01-01,Home heating oil,34.63,-21.8
+2002-02-01,Home heating oil,34.78,-11.3
+2002-03-01,Home heating oil,34.69,-14.7
+2002-04-01,Home heating oil,37.13,-5.9
+2002-05-01,Home heating oil,38.11,-5.9
+2002-06-01,Home heating oil,37.7,-10.0
+2002-07-01,Home heating oil,37.05,-13.4
+2002-08-01,Home heating oil,36.71,-10.3
+2002-09-01,Home heating oil,37.5,-6.9
+2002-10-01,Home heating oil,39.76,-2.8
+2002-11-01,Home heating oil,37.47,-0.5
+2002-12-01,Home heating oil,38.13,6.9
+2003-01-01,Home heating oil,40.16,16.1
+2003-02-01,Home heating oil,40.46,16.2
+2003-03-01,Home heating oil,43.95,26.7
+2003-04-01,Home heating oil,44.13,18.9
+2003-05-01,Home heating oil,36.57,-4.0
+2003-06-01,Home heating oil,34.94,-7.4
+2003-07-01,Home heating oil,35.21,-5.0
+2003-08-01,Home heating oil,35.69,-2.9
+2003-09-01,Home heating oil,37.04,-1.2
+2003-10-01,Home heating oil,36.07,-9.3
+2003-11-01,Home heating oil,37.03,-1.1
+2003-12-01,Home heating oil,37.53,-1.6
+2004-01-01,Home heating oil,37.32,-7.1
+2004-02-01,Home heating oil,37.69,-6.9
+2004-03-01,Home heating oil,36.93,-16.0
+2004-04-01,Home heating oil,38.38,-13.0
+2004-05-01,Home heating oil,40.56,10.8
+2004-06-01,Home heating oil,43.45,24.4
+2004-07-01,Home heating oil,42.2,19.9
+2004-08-01,Home heating oil,43.83,22.8
+2004-09-01,Home heating oil,46.2,24.6
+2004-10-01,Home heating oil,47.88,32.7
+2004-11-01,Home heating oil,51.6,39.3
+2004-12-01,Home heating oil,47.79,27.3
+2005-01-01,Home heating oil,44.58,19.5
+2005-02-01,Home heating oil,45.03,19.5
+2005-03-01,Home heating oil,46.33,25.4
+2005-04-01,Home heating oil,53.96,40.5
+2005-05-01,Home heating oil,51.93,28.1
+2005-06-01,Home heating oil,52.94,21.8
+2005-07-01,Home heating oil,57.76,36.8
+2005-08-01,Home heating oil,57.06,30.2
+2005-09-01,Home heating oil,63.75,38.0
+2005-10-01,Home heating oil,64.84,35.5
+2005-11-01,Home heating oil,60.86,17.9
+2005-12-01,Home heating oil,56.71,18.7
+2006-01-01,Home heating oil,57.0,27.7
+2006-02-01,Home heating oil,60.01,33.4
+2006-03-01,Home heating oil,59.87,29.3
+2006-04-01,Home heating oil,61.07,13.3
+2006-05-01,Home heating oil,63.95,23.1
+2006-06-01,Home heating oil,62.55,18.1
+2006-07-01,Home heating oil,63.8,10.4
+2006-08-01,Home heating oil,64.52,13.1
+2006-09-01,Home heating oil,62.93,-1.2
+2006-10-01,Home heating oil,56.85,-12.3
+2006-11-01,Home heating oil,55.25,-9.2
+2006-12-01,Home heating oil,56.17,-0.9
+2007-01-01,Home heating oil,53.97,-5.2
+2007-02-01,Home heating oil,53.92,-10.1
+2007-03-01,Home heating oil,55.23,-7.7
+2007-04-01,Home heating oil,56.68,-7.2
+2007-05-01,Home heating oil,56.75,-11.2
+2007-06-01,Home heating oil,57.89,-7.4
+2007-07-01,Home heating oil,59.87,-6.1
+2007-08-01,Home heating oil,60.17,-6.8
+2007-09-01,Home heating oil,60.14,-4.4
+2007-10-01,Home heating oil,61.66,8.5
+2007-11-01,Home heating oil,69.11,25.0
+2007-12-01,Home heating oil,68.29,21.6
+2008-01-01,Home heating oil,71.39,32.2
+2008-02-01,Home heating oil,67.51,25.2
+2008-03-01,Home heating oil,73.38,32.8
+2008-04-01,Home heating oil,74.2,30.8
+2008-05-01,Home heating oil,83.62,47.3
+2008-06-01,Home heating oil,90.34,56.0
+2008-07-01,Home heating oil,92.74,54.8
+2008-08-01,Home heating oil,84.21,40.0
+2008-09-01,Home heating oil,80.71,34.2
+2008-10-01,Home heating oil,71.86,16.5
+2008-11-01,Home heating oil,64.5,-6.6
+2008-12-01,Home heating oil,53.6,-21.5
+2009-01-01,Home heating oil,50.76,-28.9
+2009-02-01,Home heating oil,48.04,-28.8
+2009-03-01,Home heating oil,44.32,-39.6
+2009-04-01,Home heating oil,48.17,-35.1
+2009-05-01,Home heating oil,48.21,-42.3
+2009-06-01,Home heating oil,51.41,-43.1
+2009-07-01,Home heating oil,50.0,-46.0
+2009-08-01,Home heating oil,54.7,-35.0
+2009-09-01,Home heating oil,52.63,-34.8
+2009-10-01,Home heating oil,52.48,-27.0
+2009-11-01,Home heating oil,56.11,-13.0
+2009-12-01,Home heating oil,56.38,5.2
+2010-01-01,Home heating oil,60.43,19.0
+2010-02-01,Home heating oil,58.2,21.1
+2010-03-01,Home heating oil,60.98,37.5
+2010-04-01,Home heating oil,65.94,36.8
+2010-05-01,Home heating oil,71.58,48.4
+2010-06-01,Home heating oil,69.77,35.6
+2010-07-01,Home heating oil,69.07,38.1
+2010-08-01,Home heating oil,69.37,26.7
+2010-09-01,Home heating oil,69.29,31.7
+2010-10-01,Home heating oil,68.46,30.5
+2010-11-01,Home heating oil,68.03,21.2
+2010-12-01,Home heating oil,75.49,33.9
+2011-01-01,Home heating oil,77.78,28.7
+2011-02-01,Home heating oil,79.9,37.3
+2011-03-01,Home heating oil,85.57,40.4
+2011-04-01,Home heating oil,87.69,33.0
+2011-05-01,Home heating oil,84.36,17.8
+2011-06-01,Home heating oil,83.27,19.4
+2011-07-01,Home heating oil,82.94,20.0
+2011-08-01,Home heating oil,82.76,19.4
+2011-09-01,Home heating oil,84.17,21.5
+2011-10-01,Home heating oil,82.4,20.3
+2011-11-01,Home heating oil,84.88,24.8
+2011-12-01,Home heating oil,86.93,15.2
+2012-01-01,Home heating oil,89.53,15.1
+2012-02-01,Home heating oil,90.2,12.9
+2012-03-01,Home heating oil,92.66,8.3
+2012-04-01,Home heating oil,93.01,6.0
+2012-05-01,Home heating oil,92.78,10.0
+2012-06-01,Home heating oil,88.05,5.8
+2012-07-01,Home heating oil,88.51,6.7
+2012-08-01,Home heating oil,94.82,14.5
+2012-09-01,Home heating oil,96.2,14.3
+2012-10-01,Home heating oil,93.41,13.4
+2012-11-01,Home heating oil,92.11,8.5
+2012-12-01,Home heating oil,90.84,4.5
+2013-01-01,Home heating oil,90.62,1.2
+2013-02-01,Home heating oil,93.92,4.1
+2013-03-01,Home heating oil,91.27,-1.5
+2013-04-01,Home heating oil,89.66,-3.6
+2013-05-01,Home heating oil,85.61,-7.7
+2013-06-01,Home heating oil,85.67,-2.7
+2013-07-01,Home heating oil,88.57,0.1
+2013-08-01,Home heating oil,87.61,-7.6
+2013-09-01,Home heating oil,91.01,-5.4
+2013-10-01,Home heating oil,87.71,-6.2
+2013-11-01,Home heating oil,86.04,-6.6
+2013-12-01,Home heating oil,88.19,-2.9
+2014-01-01,Home heating oil,86.12,-5.0
+2014-02-01,Home heating oil,86.4,-8.0
+2014-03-01,Home heating oil,85.65,-6.2
+2014-04-01,Home heating oil,84.05,-6.3
+2014-05-01,Home heating oil,84.13,-1.8
+2014-06-01,Home heating oil,83.95,-2.0
+2014-07-01,Home heating oil,85.46,-3.5
+2014-08-01,Home heating oil,85.13,-2.9
+2014-09-01,Home heating oil,84.96,-6.6
+2014-10-01,Home heating oil,81.75,-6.8
+2014-11-01,Home heating oil,79.87,-7.2
+2014-12-01,Home heating oil,72.79,-17.5
+2015-01-01,Home heating oil,63.4,-26.4
+2015-02-01,Home heating oil,67.61,-21.7
+2015-03-01,Home heating oil,70.64,-17.5
+2015-04-01,Home heating oil,68.86,-18.0
+2015-05-01,Home heating oil,72.81,-13.5
+2015-06-01,Home heating oil,71.66,-14.7
+2015-07-01,Home heating oil,69.22,-19.0
+2015-08-01,Home heating oil,63.72,-25.1
+2015-09-01,Home heating oil,62.89,-26.0
+2015-10-01,Home heating oil,62.61,-23.4
+2015-11-01,Home heating oil,61.71,-22.8
+2015-12-01,Home heating oil,59.03,-18.9
+2016-01-01,Home heating oil,51.36,-19.0
+2016-02-01,Home heating oil,49.34,-27.0
+2016-03-01,Home heating oil,51.38,-27.3
+2016-04-01,Home heating oil,52.28,-24.1
+2016-05-01,Home heating oil,55.6,-23.6
+2016-06-01,Home heating oil,59.95,-16.3
+2016-07-01,Home heating oil,59.3,-14.3
+2016-08-01,Home heating oil,55.43,-13.0
+2016-09-01,Home heating oil,59.22,-5.8
+2016-10-01,Home heating oil,61.75,-1.4
+2016-11-01,Home heating oil,60.49,-1.9
+2016-12-01,Home heating oil,65.29,10.7
+2017-01-01,Home heating oil,67.61,31.7
+2017-02-01,Home heating oil,66.29,34.3
+2017-03-01,Home heating oil,64.57,25.8
+2017-04-01,Home heating oil,65.16,24.7
+2017-05-01,Home heating oil,61.27,10.2
+2017-06-01,Home heating oil,59.45,-0.9
+2017-07-01,Home heating oil,59.41,0.2
+2017-08-01,Home heating oil,60.46,9.1
+2017-09-01,Home heating oil,62.25,5.1
+2017-10-01,Home heating oil,64.08,3.8
+2017-11-01,Home heating oil,68.19,12.7
+2017-12-01,Home heating oil,68.1,4.3
+2018-01-01,Home heating oil,69.78,3.1
+2018-02-01,Home heating oil,68.76,3.7
+2018-03-01,Home heating oil,69.61,7.8
+2018-04-01,Home heating oil,70.39,8.0
+2018-05-01,Home heating oil,73.86,20.5
+2018-06-01,Home heating oil,76.96,29.5
+2018-07-01,Home heating oil,76.86,29.3
+2018-08-01,Home heating oil,76.11,25.8
+2018-09-01,Home heating oil,77.41,24.3
+2018-10-01,Home heating oil,83.23,30.0
+2018-11-01,Home heating oil,79.81,17.1
+2018-12-01,Home heating oil,73.0,7.2
+2019-01-01,Home heating oil,69.15,-0.9
+2019-02-01,Home heating oil,70.95,3.2
+2019-03-01,Home heating oil,73.45,5.5
+2019-04-01,Home heating oil,73.92,5.0
+2019-05-01,Home heating oil,75.73,2.5
+2019-06-01,Home heating oil,72.03,-6.4
+2019-07-01,Home heating oil,72.12,-6.1
+2019-08-01,Home heating oil,71.19,-6.4
+2019-09-01,Home heating oil,72.27,-6.7
+2019-10-01,Home heating oil,75.94,-8.7
+2019-11-01,Home heating oil,73.32,-8.1
+2019-12-01,Home heating oil,73.33,0.5
+2020-01-01,Home heating oil,74.7,8.0
+2020-02-01,Home heating oil,69.04,-2.7
+2020-03-01,Home heating oil,62.67,-14.7
+2020-04-01,Home heating oil,50.5,-31.7
+2020-05-01,Home heating oil,44.08,-41.8
+2020-06-01,Home heating oil,49.52,-31.2
+2020-07-01,Home heating oil,52.4,-27.3
+2020-08-01,Home heating oil,52.16,-26.8
+2020-09-01,Home heating oil,50.52,-30.1
+2020-10-01,Home heating oil,49.64,-34.7
+2020-11-01,Home heating oil,49.96,-31.9
+2020-12-01,Home heating oil,53.93,-26.4
+2021-01-01,Home heating oil,57.29,-23.3
+2021-02-01,Home heating oil,61.49,-10.9
+2021-03-01,Home heating oil,66.15,5.6
+2021-04-01,Home heating oil,64.84,28.4
+2021-05-01,Home heating oil,68.88,56.3
+2021-06-01,Home heating oil,69.95,41.3
+2021-07-01,Home heating oil,73.17,39.6
+2021-08-01,Home heating oil,72.69,39.3
+2021-09-01,Home heating oil,73.68,45.9
+2021-10-01,Home heating oil,84.81,70.9
+2021-11-01,Home heating oil,85.58,71.3
+2021-12-01,Home heating oil,82.42,52.9
+2022-01-01,Home heating oil,86.05,50.1
+2022-02-01,Home heating oil,94.56,53.8
+2022-03-01,Home heating oil,149.82,126.4
+2022-04-01,Home heating oil,123.26,90.1
+2022-05-01,Home heating oil,139.45,102.4
+2022-06-01,Home heating oil,150.6,115.3
+2022-07-01,Home heating oil,140.44,91.9
+2022-08-01,Home heating oil,125.59,72.9
+2022-09-01,Home heating oil,135.35,83.7
+2022-10-01,Home heating oil,140.34,65.4
+2022-11-01,Home heating oil,134.49,57.2
+2022-12-01,Home heating oil,115.29,39.8
+2023-01-01,Home heating oil,116.63,35.5
+2023-02-01,Home heating oil,110.84,17.2
+2023-03-01,Home heating oil,106.28,-29.1
+2023-04-01,Home heating oil,100.78,-18.3
+2023-05-01,Home heating oil,91.99,-34.0
+2023-06-01,Home heating oil,93.73,-37.8
+2023-07-01,Home heating oil,96.54,-31.2
+2023-08-01,Home heating oil,109.36,-12.9
+2023-09-01,Home heating oil,119.02,-12.0
+2023-10-01,Home heating oil,118.12,-15.8
+2023-11-01,Home heating oil,111.75,-16.9
+2023-12-01,Home heating oil,106.46,-7.6
+2024-01-01,Home heating oil,104.71,-10.2
+2024-02-01,Home heating oil,111.19,0.3
+2024-03-01,Home heating oil,107.55,1.2
+2024-04-01,Home heating oil,109.0,8.1
+2024-05-01,Home heating oil,105.84,15.0
+2024-06-01,Home heating oil,102.41,9.3
+2024-07-01,Home heating oil,107.43,11.2
+2024-08-01,Home heating oil,103.12,-5.7
+2024-09-01,Home heating oil,97.99,-17.7
+2024-10-01,Home heating oil,99.78,-15.5
+2024-11-01,Home heating oil,99.42,-11.1
+2024-12-01,Home heating oil,99.77,-6.3
+2025-01-01,Home heating oil,106.37,1.6
+2025-02-01,Home heating oil,107.05,-3.7
+2025-03-01,Home heating oil,101.87,-5.3
+2025-04-01,Home heating oil,98.81,-9.4
+2025-05-01,Home heating oil,94.08,-11.1
+2025-06-01,Home heating oil,93.19,-9.0
+2025-07-01,Home heating oil,101.69,-5.3
+2025-08-01,Home heating oil,99.16,-3.9
+2025-09-01,Home heating oil,96.87,-1.1
+2025-10-01,Home heating oil,98.19,-1.6
+2025-11-01,Home heating oil,101.99,2.6
+2025-12-01,Home heating oil,100.73,0.9
+2026-01-01,Home heating oil,97.99,-7.9
+2026-02-01,Home heating oil,99.3,-7.3
+2026-03-01,Home heating oil,166.4,63.3
+2026-04-01,Home heating oil,178.22,80.4
+2026-05-01,Home heating oil,150.65,60.1
+2026-06-01,Home heating oil,138.51,48.6
+2026-07-01,Home heating oil,130.08,27.9
+2026-08-01,Home heating oil,143.28,44.5
+2026-09-01,Home heating oil,153.63,58.5
+1996-11-01,Natural gas,23.32,
+1996-12-01,Natural gas,23.32,
+1997-01-01,Natural gas,23.32,
+1997-02-01,Natural gas,23.32,
+1997-03-01,Natural gas,23.32,
+1997-04-01,Natural gas,23.32,
+1997-05-01,Natural gas,23.32,
+1997-06-01,Natural gas,23.32,
+1997-07-01,Natural gas,23.32,
+1997-08-01,Natural gas,23.32,
+1997-09-01,Natural gas,23.32,
+1997-10-01,Natural gas,23.32,
+1997-11-01,Natural gas,23.32,0.0
+1997-12-01,Natural gas,23.32,0.0
+1998-01-01,Natural gas,23.32,0.0
+1998-02-01,Natural gas,23.32,0.0
+1998-03-01,Natural gas,23.32,0.0
+1998-04-01,Natural gas,23.32,0.0
+1998-05-01,Natural gas,23.32,0.0
+1998-06-01,Natural gas,23.32,0.0
+1998-07-01,Natural gas,23.32,0.0
+1998-08-01,Natural gas,23.32,0.0
+1998-09-01,Natural gas,23.32,0.0
+1998-10-01,Natural gas,23.32,0.0
+1998-11-01,Natural gas,23.32,0.0
+1998-12-01,Natural gas,23.32,0.0
+1999-01-01,Natural gas,23.32,0.0
+1999-02-01,Natural gas,23.32,0.0
+1999-03-01,Natural gas,23.32,0.0
+1999-04-01,Natural gas,23.32,0.0
+1999-05-01,Natural gas,23.32,0.0
+1999-06-01,Natural gas,23.32,0.0
+1999-07-01,Natural gas,23.32,0.0
+1999-08-01,Natural gas,23.32,0.0
+1999-09-01,Natural gas,23.32,0.0
+1999-10-01,Natural gas,23.32,0.0
+1999-11-01,Natural gas,23.32,0.0
+1999-12-01,Natural gas,23.32,0.0
+2000-01-01,Natural gas,23.32,0.0
+2000-02-01,Natural gas,23.32,0.0
+2000-03-01,Natural gas,23.32,0.0
+2000-04-01,Natural gas,23.32,0.0
+2000-05-01,Natural gas,23.32,0.0
+2000-06-01,Natural gas,23.32,0.0
+2000-07-01,Natural gas,23.32,0.0
+2000-08-01,Natural gas,23.32,0.0
+2000-09-01,Natural gas,23.32,0.0
+2000-10-01,Natural gas,23.32,0.0
+2000-11-01,Natural gas,23.32,0.0
+2000-12-01,Natural gas,23.32,0.0
+2001-01-01,Natural gas,23.32,0.0
+2001-02-01,Natural gas,23.32,0.0
+2001-03-01,Natural gas,23.32,0.0
+2001-04-01,Natural gas,23.32,0.0
+2001-05-01,Natural gas,23.32,0.0
+2001-06-01,Natural gas,23.32,0.0
+2001-07-01,Natural gas,23.32,0.0
+2001-08-01,Natural gas,23.32,0.0
+2001-09-01,Natural gas,23.32,0.0
+2001-10-01,Natural gas,23.32,0.0
+2001-11-01,Natural gas,23.32,0.0
+2001-12-01,Natural gas,23.32,0.0
+2002-01-01,Natural gas,23.32,0.0
+2002-02-01,Natural gas,23.32,0.0
+2002-03-01,Natural gas,23.32,0.0
+2002-04-01,Natural gas,23.32,0.0
+2002-05-01,Natural gas,23.32,0.0
+2002-06-01,Natural gas,23.32,0.0
+2002-07-01,Natural gas,23.32,0.0
+2002-08-01,Natural gas,23.32,0.0
+2002-09-01,Natural gas,23.32,0.0
+2002-10-01,Natural gas,23.32,0.0
+2002-11-01,Natural gas,23.32,0.0
+2002-12-01,Natural gas,23.32,0.0
+2003-01-01,Natural gas,23.32,0.0
+2003-02-01,Natural gas,23.32,0.0
+2003-03-01,Natural gas,23.32,0.0
+2003-04-01,Natural gas,23.32,0.0
+2003-05-01,Natural gas,23.32,0.0
+2003-06-01,Natural gas,25.68,10.0
+2003-07-01,Natural gas,25.68,10.0
+2003-08-01,Natural gas,25.68,10.0
+2003-09-01,Natural gas,25.68,10.0
+2003-10-01,Natural gas,25.68,10.0
+2003-11-01,Natural gas,25.68,10.0
+2003-12-01,Natural gas,25.68,10.0
+2004-01-01,Natural gas,25.68,10.0
+2004-02-01,Natural gas,25.68,10.0
+2004-03-01,Natural gas,25.68,10.0
+2004-04-01,Natural gas,25.68,10.0
+2004-05-01,Natural gas,25.68,10.0
+2004-06-01,Natural gas,25.68,0.0
+2004-07-01,Natural gas,25.68,0.0
+2004-08-01,Natural gas,25.68,0.0
+2004-09-01,Natural gas,25.68,0.0
+2004-10-01,Natural gas,25.68,0.0
+2004-11-01,Natural gas,25.68,0.0
+2004-12-01,Natural gas,28.48,11.0
+2005-01-01,Natural gas,28.48,11.0
+2005-02-01,Natural gas,28.48,11.0
+2005-03-01,Natural gas,28.48,11.0
+2005-04-01,Natural gas,28.48,11.0
+2005-05-01,Natural gas,28.48,11.0
+2005-06-01,Natural gas,28.48,11.0
+2005-07-01,Natural gas,28.48,11.0
+2005-08-01,Natural gas,28.48,11.0
+2005-09-01,Natural gas,28.48,11.0
+2005-10-01,Natural gas,35.67,39.0
+2005-11-01,Natural gas,35.67,39.0
+2005-12-01,Natural gas,35.67,25.1
+2006-01-01,Natural gas,35.67,25.1
+2006-02-01,Natural gas,35.67,25.1
+2006-03-01,Natural gas,35.67,25.1
+2006-04-01,Natural gas,35.67,25.1
+2006-05-01,Natural gas,35.67,25.1
+2006-06-01,Natural gas,35.67,25.1
+2006-07-01,Natural gas,35.67,25.1
+2006-08-01,Natural gas,35.67,25.1
+2006-09-01,Natural gas,35.67,25.1
+2006-10-01,Natural gas,47.72,33.9
+2006-11-01,Natural gas,47.72,33.9
+2006-12-01,Natural gas,47.72,33.9
+2007-01-01,Natural gas,47.72,33.9
+2007-02-01,Natural gas,42.95,20.5
+2007-03-01,Natural gas,42.95,20.5
+2007-04-01,Natural gas,42.95,20.5
+2007-05-01,Natural gas,42.95,20.5
+2007-06-01,Natural gas,42.95,20.5
+2007-07-01,Natural gas,42.95,20.5
+2007-08-01,Natural gas,42.95,20.5
+2007-09-01,Natural gas,42.95,20.5
+2007-10-01,Natural gas,39.35,-17.6
+2007-11-01,Natural gas,39.35,-17.6
+2007-12-01,Natural gas,39.35,-17.6
+2008-01-01,Natural gas,39.35,-17.6
+2008-02-01,Natural gas,39.35,-8.4
+2008-03-01,Natural gas,39.35,-8.4
+2008-04-01,Natural gas,39.35,-8.4
+2008-05-01,Natural gas,39.35,-8.4
+2008-06-01,Natural gas,39.35,-8.4
+2008-07-01,Natural gas,39.35,-8.4
+2008-08-01,Natural gas,39.35,-8.4
+2008-09-01,Natural gas,47.32,10.2
+2008-10-01,Natural gas,47.32,20.4
+2008-11-01,Natural gas,47.32,20.4
+2008-12-01,Natural gas,47.32,20.4
+2009-01-01,Natural gas,47.32,20.4
+2009-02-01,Natural gas,47.32,20.4
+2009-03-01,Natural gas,47.32,20.4
+2009-04-01,Natural gas,47.32,20.4
+2009-05-01,Natural gas,41.94,6.7
+2009-06-01,Natural gas,41.94,6.7
+2009-07-01,Natural gas,41.94,6.7
+2009-08-01,Natural gas,41.94,6.7
+2009-09-01,Natural gas,41.94,-11.3
+2009-10-01,Natural gas,38.05,-19.6
+2009-11-01,Natural gas,38.05,-19.6
+2009-12-01,Natural gas,38.05,-19.6
+2010-01-01,Natural gas,38.05,-19.6
+2010-02-01,Natural gas,35.28,-25.4
+2010-03-01,Natural gas,35.28,-25.4
+2010-04-01,Natural gas,35.28,-25.4
+2010-05-01,Natural gas,37.52,-10.5
+2010-06-01,Natural gas,37.52,-10.5
+2010-07-01,Natural gas,37.52,-10.5
+2010-08-01,Natural gas,37.52,-10.5
+2010-09-01,Natural gas,37.52,-10.5
+2010-10-01,Natural gas,37.52,-1.3
+2010-11-01,Natural gas,37.52,-1.3
+2010-12-01,Natural gas,37.52,-1.3
+2011-01-01,Natural gas,37.52,-1.3
+2011-02-01,Natural gas,37.52,6.3
+2011-03-01,Natural gas,37.52,6.3
+2011-04-01,Natural gas,37.52,6.3
+2011-05-01,Natural gas,37.52,0.0
+2011-06-01,Natural gas,37.52,0.0
+2011-07-01,Natural gas,37.52,0.0
+2011-08-01,Natural gas,37.52,0.0
+2011-09-01,Natural gas,37.52,0.0
+2011-10-01,Natural gas,45.18,20.4
+2011-11-01,Natural gas,45.18,20.4
+2011-12-01,Natural gas,45.18,20.4
+2012-01-01,Natural gas,45.18,20.4
+2012-02-01,Natural gas,45.18,20.4
+2012-03-01,Natural gas,45.18,20.4
+2012-04-01,Natural gas,45.18,20.4
+2012-05-01,Natural gas,45.94,22.4
+2012-06-01,Natural gas,45.94,22.4
+2012-07-01,Natural gas,45.94,22.4
+2012-08-01,Natural gas,45.94,22.4
+2012-09-01,Natural gas,45.94,22.4
+2012-10-01,Natural gas,49.59,9.7
+2012-11-01,Natural gas,49.59,9.7
+2012-12-01,Natural gas,49.59,9.7
+2013-01-01,Natural gas,49.59,9.7
+2013-02-01,Natural gas,49.59,9.7
+2013-03-01,Natural gas,49.59,9.7
+2013-04-01,Natural gas,49.59,9.7
+2013-05-01,Natural gas,49.59,7.9
+2013-06-01,Natural gas,49.59,7.9
+2013-07-01,Natural gas,49.59,7.9
+2013-08-01,Natural gas,49.59,7.9
+2013-09-01,Natural gas,49.59,7.9
+2013-10-01,Natural gas,50.54,1.9
+2013-11-01,Natural gas,50.54,1.9
+2013-12-01,Natural gas,50.54,1.9
+2014-01-01,Natural gas,50.54,1.9
+2014-02-01,Natural gas,50.54,1.9
+2014-03-01,Natural gas,50.54,1.9
+2014-04-01,Natural gas,51.04,2.9
+2014-05-01,Natural gas,51.04,2.9
+2014-06-01,Natural gas,51.04,2.9
+2014-07-01,Natural gas,51.04,2.9
+2014-08-01,Natural gas,51.04,2.9
+2014-09-01,Natural gas,51.04,2.9
+2014-10-01,Natural gas,51.04,1.0
+2014-11-01,Natural gas,51.04,1.0
+2014-12-01,Natural gas,51.04,1.0
+2015-01-01,Natural gas,51.04,1.0
+2015-02-01,Natural gas,51.04,1.0
+2015-03-01,Natural gas,51.04,1.0
+2015-04-01,Natural gas,49.48,-3.0
+2015-05-01,Natural gas,49.48,-3.0
+2015-06-01,Natural gas,49.48,-3.0
+2015-07-01,Natural gas,49.48,-3.0
+2015-08-01,Natural gas,49.48,-3.0
+2015-09-01,Natural gas,49.48,-3.0
+2015-10-01,Natural gas,48.9,-4.1
+2015-11-01,Natural gas,48.9,-4.1
+2015-12-01,Natural gas,48.9,-4.1
+2016-01-01,Natural gas,48.69,-4.6
+2016-02-01,Natural gas,48.63,-4.7
+2016-03-01,Natural gas,48.63,-4.7
+2016-04-01,Natural gas,48.63,-1.7
+2016-05-01,Natural gas,48.63,-1.7
+2016-06-01,Natural gas,48.63,-1.7
+2016-07-01,Natural gas,48.63,-1.7
+2016-08-01,Natural gas,48.27,-2.4
+2016-09-01,Natural gas,48.27,-2.4
+2016-10-01,Natural gas,47.29,-3.4
+2016-11-01,Natural gas,47.29,-3.4
+2016-12-01,Natural gas,47.29,-3.4
+2017-01-01,Natural gas,47.23,-3.0
+2017-02-01,Natural gas,47.23,-2.9
+2017-03-01,Natural gas,47.23,-2.9
+2017-04-01,Natural gas,47.23,-2.9
+2017-05-01,Natural gas,47.23,-2.9
+2017-06-01,Natural gas,47.23,-2.9
+2017-07-01,Natural gas,47.23,-2.9
+2017-08-01,Natural gas,47.23,-2.2
+2017-09-01,Natural gas,47.23,-2.2
+2017-10-01,Natural gas,47.23,-0.1
+2017-11-01,Natural gas,48.09,1.7
+2017-12-01,Natural gas,48.17,1.9
+2018-01-01,Natural gas,48.17,2.0
+2018-02-01,Natural gas,48.17,2.0
+2018-03-01,Natural gas,48.17,2.0
+2018-04-01,Natural gas,48.17,2.0
+2018-05-01,Natural gas,48.17,2.0
+2018-06-01,Natural gas,48.17,2.0
+2018-07-01,Natural gas,49.0,3.7
+2018-08-01,Natural gas,51.76,9.6
+2018-09-01,Natural gas,51.76,9.6
+2018-10-01,Natural gas,51.76,9.6
+2018-11-01,Natural gas,52.09,8.4
+2018-12-01,Natural gas,52.6,9.2
+2019-01-01,Natural gas,52.84,9.7
+2019-02-01,Natural gas,52.84,9.7
+2019-03-01,Natural gas,53.44,10.9
+2019-04-01,Natural gas,53.86,11.8
+2019-05-01,Natural gas,53.86,11.8
+2019-06-01,Natural gas,53.86,11.8
+2019-07-01,Natural gas,53.86,9.9
+2019-08-01,Natural gas,53.86,4.0
+2019-09-01,Natural gas,53.86,4.0
+2019-10-01,Natural gas,52.87,2.1
+2019-11-01,Natural gas,52.87,1.4
+2019-12-01,Natural gas,52.87,0.5
+2020-01-01,Natural gas,52.87,0.0
+2020-02-01,Natural gas,52.87,0.0
+2020-03-01,Natural gas,52.87,-1.1
+2020-04-01,Natural gas,51.93,-3.6
+2020-05-01,Natural gas,50.45,-6.3
+2020-06-01,Natural gas,50.0,-7.1
+2020-07-01,Natural gas,50.0,-7.1
+2020-08-01,Natural gas,50.0,-7.1
+2020-09-01,Natural gas,50.0,-7.1
+2020-10-01,Natural gas,50.0,-5.4
+2020-11-01,Natural gas,49.74,-5.9
+2020-12-01,Natural gas,49.74,-5.9
+2021-01-01,Natural gas,49.74,-5.9
+2021-02-01,Natural gas,49.74,-5.9
+2021-03-01,Natural gas,49.74,-5.9
+2021-04-01,Natural gas,50.49,-2.7
+2021-05-01,Natural gas,51.58,2.2
+2021-06-01,Natural gas,51.58,3.1
+2021-07-01,Natural gas,52.44,4.9
+2021-08-01,Natural gas,56.32,12.6
+2021-09-01,Natural gas,57.5,14.9
+2021-10-01,Natural gas,61.98,23.9
+2021-11-01,Natural gas,63.62,28.0
+2021-12-01,Natural gas,64.36,29.4
+2022-01-01,Natural gas,64.36,29.4
+2022-02-01,Natural gas,64.36,29.4
+2022-03-01,Natural gas,64.36,29.4
+2022-04-01,Natural gas,77.62,53.6
+2022-05-01,Natural gas,83.07,61.1
+2022-06-01,Natural gas,83.07,61.1
+2022-07-01,Natural gas,84.06,60.3
+2022-08-01,Natural gas,89.89,59.6
+2022-09-01,Natural gas,89.89,56.4
+2022-10-01,Natural gas,123.63,99.5
+2022-11-01,Natural gas,123.63,94.2
+2022-12-01,Natural gas,123.63,92.1
+2023-01-01,Natural gas,123.63,92.1
+2023-02-01,Natural gas,123.63,92.1
+2023-03-01,Natural gas,123.63,92.1
+2023-04-01,Natural gas,123.63,59.3
+2023-05-01,Natural gas,124.7,50.1
+2023-06-01,Natural gas,124.7,50.1
+2023-07-01,Natural gas,124.7,48.3
+2023-08-01,Natural gas,124.7,38.7
+2023-09-01,Natural gas,124.7,38.7
+2023-10-01,Natural gas,122.32,-1.0
+2023-11-01,Natural gas,107.73,-12.8
+2023-12-01,Natural gas,107.73,-12.8
+2024-01-01,Natural gas,107.73,-12.8
+2024-02-01,Natural gas,106.48,-13.9
+2024-03-01,Natural gas,100.31,-18.9
+2024-04-01,Natural gas,99.15,-19.8
+2024-05-01,Natural gas,100.23,-19.6
+2024-06-01,Natural gas,100.23,-19.6
+2024-07-01,Natural gas,99.3,-20.4
+2024-08-01,Natural gas,99.3,-20.4
+2024-09-01,Natural gas,99.3,-20.4
+2024-10-01,Natural gas,99.3,-18.8
+2024-11-01,Natural gas,98.7,-8.4
+2024-12-01,Natural gas,98.7,-8.4
+2025-01-01,Natural gas,98.7,-8.4
+2025-02-01,Natural gas,98.7,-7.3
+2025-03-01,Natural gas,98.7,-1.6
+2025-04-01,Natural gas,99.7,0.6
+2025-05-01,Natural gas,100.76,0.5
+2025-06-01,Natural gas,100.76,0.5
+2025-07-01,Natural gas,100.76,1.5
+2025-08-01,Natural gas,100.76,1.5
+2025-09-01,Natural gas,100.76,1.5
+2025-10-01,Natural gas,100.76,1.5
+2025-11-01,Natural gas,99.84,1.2
+2025-12-01,Natural gas,99.84,1.2
+2026-01-01,Natural gas,99.84,1.1
+2026-02-01,Natural gas,99.84,1.1
+2026-03-01,Natural gas,99.84,1.1
+2026-04-01,Natural gas,99.84,0.1
+2026-05-01,Natural gas,99.84,-1.0
+2026-06-01,Natural gas,100.72,-0.1
+2026-07-01,Natural gas,102.41,1.6
+2026-08-01,Natural gas,103.03,2.2
+2026-09-01,Natural gas,103.03,2.2
+1996-11-01,Petrol,41.97,
+1996-12-01,Petrol,41.97,
+1997-01-01,Petrol,41.37,
+1997-02-01,Petrol,42.47,
+1997-03-01,Petrol,42.55,
+1997-04-01,Petrol,42.5,
+1997-05-01,Petrol,42.39,
+1997-06-01,Petrol,42.81,
+1997-07-01,Petrol,42.74,
+1997-08-01,Petrol,42.6,
+1997-09-01,Petrol,43.86,
+1997-10-01,Petrol,43.24,
+1997-11-01,Petrol,42.94,2.2
+1997-12-01,Petrol,42.96,2.4
+1998-01-01,Petrol,42.96,3.9
+1998-02-01,Petrol,42.84,0.9
+1998-03-01,Petrol,42.69,0.4
+1998-04-01,Petrol,42.42,-0.2
+1998-05-01,Petrol,42.37,0.0
+1998-06-01,Petrol,42.37,-1.1
+1998-07-01,Petrol,42.25,-1.3
+1998-08-01,Petrol,42.31,-0.7
+1998-09-01,Petrol,42.1,-4.1
+1998-10-01,Petrol,41.68,-3.6
+1998-11-01,Petrol,41.55,-3.3
+1998-12-01,Petrol,41.18,-4.2
+1999-01-01,Petrol,40.25,-6.3
+1999-02-01,Petrol,40.23,-6.2
+1999-03-01,Petrol,40.08,-6.2
+1999-04-01,Petrol,41.31,-2.7
+1999-05-01,Petrol,42.3,-0.2
+1999-06-01,Petrol,42.55,0.4
+1999-07-01,Petrol,43.08,2.0
+1999-08-01,Petrol,44.11,4.2
+1999-09-01,Petrol,45.49,8.1
+1999-10-01,Petrol,45.56,9.3
+1999-11-01,Petrol,45.58,9.7
+1999-12-01,Petrol,46.08,11.9
+2000-01-01,Petrol,46.83,16.2
+2000-02-01,Petrol,46.95,16.8
+2000-03-01,Petrol,48.9,22.1
+2000-04-01,Petrol,51.34,24.3
+2000-05-01,Petrol,50.37,19.1
+2000-06-01,Petrol,52.41,23.2
+2000-07-01,Petrol,54.0,25.3
+2000-08-01,Petrol,53.08,20.5
+2000-09-01,Petrol,52.66,15.7
+2000-10-01,Petrol,53.98,18.4
+2000-11-01,Petrol,53.81,18.1
+2000-12-01,Petrol,50.77,10.1
+2001-01-01,Petrol,46.92,0.2
+2001-02-01,Petrol,46.14,-1.8
+2001-03-01,Petrol,47.04,-3.8
+2001-04-01,Petrol,47.14,-8.2
+2001-05-01,Petrol,49.34,-2.0
+2001-06-01,Petrol,52.45,0.1
+2001-07-01,Petrol,50.11,-7.2
+2001-08-01,Petrol,46.67,-12.2
+2001-09-01,Petrol,46.23,-12.1
+2001-10-01,Petrol,47.34,-12.2
+2001-11-01,Petrol,44.01,-18.2
+2001-12-01,Petrol,45.77,-9.8
+2002-01-01,Petrol,45.76,-2.3
+2002-02-01,Petrol,45.85,-0.5
+2002-03-01,Petrol,46.23,-1.7
+2002-04-01,Petrol,48.76,3.5
+2002-05-01,Petrol,51.56,4.4
+2002-06-01,Petrol,51.14,-2.5
+2002-07-01,Petrol,50.37,0.6
+2002-08-01,Petrol,49.88,7.0
+2002-09-01,Petrol,49.96,8.1
+2002-10-01,Petrol,50.27,6.2
+2002-11-01,Petrol,50.14,14.0
+2002-12-01,Petrol,49.34,7.8
+2003-01-01,Petrol,49.83,8.8
+2003-02-01,Petrol,50.12,9.3
+2003-03-01,Petrol,51.37,11.1
+2003-04-01,Petrol,51.0,4.6
+2003-05-01,Petrol,49.86,-3.3
+2003-06-01,Petrol,48.49,-5.2
+2003-07-01,Petrol,47.98,-4.8
+2003-08-01,Petrol,48.02,-3.7
+2003-09-01,Petrol,49.04,-1.9
+2003-10-01,Petrol,48.71,-3.2
+2003-11-01,Petrol,48.44,-3.4
+2003-12-01,Petrol,50.8,2.8
+2004-01-01,Petrol,50.78,1.9
+2004-02-01,Petrol,51.11,1.9
+2004-03-01,Petrol,51.0,-0.8
+2004-04-01,Petrol,52.35,2.6
+2004-05-01,Petrol,53.92,8.1
+2004-06-01,Petrol,56.71,16.8
+2004-07-01,Petrol,55.47,15.6
+2004-08-01,Petrol,56.29,17.2
+2004-09-01,Petrol,55.98,14.1
+2004-10-01,Petrol,55.75,14.5
+2004-11-01,Petrol,57.34,18.3
+2004-12-01,Petrol,55.18,8.7
+2005-01-01,Petrol,52.78,4.0
+2005-02-01,Petrol,53.02,3.8
+2005-03-01,Petrol,53.96,5.8
+2005-04-01,Petrol,56.6,8.2
+2005-05-01,Petrol,57.49,6.6
+2005-06-01,Petrol,57.12,0.8
+2005-07-01,Petrol,59.38,7.2
+2005-08-01,Petrol,61.05,8.4
+2005-09-01,Petrol,68.1,21.7
+2005-10-01,Petrol,66.54,19.4
+2005-11-01,Petrol,62.18,8.5
+2005-12-01,Petrol,59.5,7.7
+2006-01-01,Petrol,59.74,13.1
+2006-02-01,Petrol,61.5,16.0
+2006-03-01,Petrol,61.21,13.4
+2006-04-01,Petrol,63.51,12.2
+2006-05-01,Petrol,66.53,15.8
+2006-06-01,Petrol,66.55,16.5
+2006-07-01,Petrol,67.12,13.0
+2006-08-01,Petrol,69.06,13.1
+2006-09-01,Petrol,63.88,-6.2
+2006-10-01,Petrol,59.77,-10.2
+2006-11-01,Petrol,58.26,-6.4
+2006-12-01,Petrol,58.56,-1.6
+2007-01-01,Petrol,58.48,-2.1
+2007-02-01,Petrol,57.79,-6.1
+2007-03-01,Petrol,60.23,-1.5
+2007-04-01,Petrol,62.32,-2.0
+2007-05-01,Petrol,65.29,-1.9
+2007-06-01,Petrol,66.07,-0.7
+2007-07-01,Petrol,66.45,-0.9
+2007-08-01,Petrol,65.36,-5.4
+2007-09-01,Petrol,64.76,1.3
+2007-10-01,Petrol,64.28,7.5
+2007-11-01,Petrol,67.44,15.8
+2007-12-01,Petrol,66.89,14.2
+2008-01-01,Petrol,67.38,15.2
+2008-02-01,Petrol,65.63,13.6
+2008-03-01,Petrol,67.71,12.4
+2008-04-01,Petrol,68.11,9.4
+2008-05-01,Petrol,70.64,8.1
+2008-06-01,Petrol,74.16,12.2
+2008-07-01,Petrol,75.54,13.7
+2008-08-01,Petrol,72.17,10.5
+2008-09-01,Petrol,71.56,10.4
+2008-10-01,Petrol,68.01,5.8
+2008-11-01,Petrol,63.0,-6.6
+2008-12-01,Petrol,57.39,-14.2
+2009-01-01,Petrol,54.94,-18.4
+2009-02-01,Petrol,57.74,-12.0
+2009-03-01,Petrol,58.36,-13.8
+2009-04-01,Petrol,60.5,-11.2
+2009-05-01,Petrol,62.45,-11.6
+2009-06-01,Petrol,65.65,-11.5
+2009-07-01,Petrol,65.25,-13.7
+2009-08-01,Petrol,66.37,-8.0
+2009-09-01,Petrol,66.48,-7.1
+2009-10-01,Petrol,65.11,-4.3
+2009-11-01,Petrol,67.09,6.5
+2009-12-01,Petrol,66.96,16.7
+2010-01-01,Petrol,70.63,28.4
+2010-02-01,Petrol,70.37,21.8
+2010-03-01,Petrol,72.39,24.0
+2010-04-01,Petrol,74.81,23.7
+2010-05-01,Petrol,75.93,21.5
+2010-06-01,Petrol,74.99,14.2
+2010-07-01,Petrol,74.94,14.9
+2010-08-01,Petrol,74.61,12.4
+2010-09-01,Petrol,74.37,11.8
+2010-10-01,Petrol,74.03,13.7
+2010-11-01,Petrol,74.12,10.4
+2010-12-01,Petrol,79.43,18.6
+2011-01-01,Petrol,81.07,14.9
+2011-02-01,Petrol,81.93,16.5
+2011-03-01,Petrol,84.57,16.9
+2011-04-01,Petrol,85.15,13.8
+2011-05-01,Petrol,86.54,14.0
+2011-06-01,Petrol,85.19,13.7
+2011-07-01,Petrol,84.37,12.6
+2011-08-01,Petrol,85.55,14.6
+2011-09-01,Petrol,85.8,15.4
+2011-10-01,Petrol,84.72,14.4
+2011-11-01,Petrol,84.24,13.6
+2011-12-01,Petrol,83.96,5.8
+2012-01-01,Petrol,87.23,7.6
+2012-02-01,Petrol,89.26,8.9
+2012-03-01,Petrol,92.15,8.9
+2012-04-01,Petrol,95.37,12.1
+2012-05-01,Petrol,94.17,8.8
+2012-06-01,Petrol,91.76,7.7
+2012-07-01,Petrol,90.44,7.2
+2012-08-01,Petrol,93.59,9.5
+2012-09-01,Petrol,96.5,12.5
+2012-10-01,Petrol,95.22,12.5
+2012-11-01,Petrol,91.67,8.9
+2012-12-01,Petrol,90.58,7.9
+2013-01-01,Petrol,89.55,2.7
+2013-02-01,Petrol,90.75,1.7
+2013-03-01,Petrol,91.51,-0.7
+2013-04-01,Petrol,91.62,-4.0
+2013-05-01,Petrol,89.33,-5.1
+2013-06-01,Petrol,89.12,-2.9
+2013-07-01,Petrol,89.51,-1.0
+2013-08-01,Petrol,90.51,-3.3
+2013-09-01,Petrol,91.34,-5.3
+2013-10-01,Petrol,88.87,-6.7
+2013-11-01,Petrol,86.83,-5.3
+2013-12-01,Petrol,87.11,-3.9
+2014-01-01,Petrol,86.65,-3.3
+2014-02-01,Petrol,86.35,-4.9
+2014-03-01,Petrol,86.63,-5.4
+2014-04-01,Petrol,86.83,-5.2
+2014-05-01,Petrol,87.37,-2.2
+2014-06-01,Petrol,87.81,-1.5
+2014-07-01,Petrol,89.29,-0.3
+2014-08-01,Petrol,88.42,-2.3
+2014-09-01,Petrol,87.86,-3.8
+2014-10-01,Petrol,86.55,-2.6
+2014-11-01,Petrol,84.11,-3.1
+2014-12-01,Petrol,80.58,-7.5
+2015-01-01,Petrol,73.7,-14.9
+2015-02-01,Petrol,73.35,-15.0
+2015-03-01,Petrol,77.28,-10.8
+2015-04-01,Petrol,79.29,-8.7
+2015-05-01,Petrol,81.94,-6.2
+2015-06-01,Petrol,82.46,-6.1
+2015-07-01,Petrol,82.72,-7.3
+2015-08-01,Petrol,81.06,-8.4
+2015-09-01,Petrol,77.52,-11.8
+2015-10-01,Petrol,75.2,-13.1
+2015-11-01,Petrol,74.65,-11.3
+2015-12-01,Petrol,73.98,-8.2
+2016-01-01,Petrol,71.39,-3.2
+2016-02-01,Petrol,69.12,-5.7
+2016-03-01,Petrol,68.7,-11.2
+2016-04-01,Petrol,71.67,-9.6
+2016-05-01,Petrol,73.27,-10.6
+2016-06-01,Petrol,75.49,-8.4
+2016-07-01,Petrol,74.59,-9.9
+2016-08-01,Petrol,72.58,-10.5
+2016-09-01,Petrol,72.96,-5.9
+2016-10-01,Petrol,74.0,-1.6
+2016-11-01,Petrol,74.37,-0.4
+2016-12-01,Petrol,75.4,2.0
+2017-01-01,Petrol,77.78,8.9
+2017-02-01,Petrol,78.36,13.4
+2017-03-01,Petrol,78.43,14.3
+2017-04-01,Petrol,78.16,9.0
+2017-05-01,Petrol,77.54,5.8
+2017-06-01,Petrol,76.55,1.3
+2017-07-01,Petrol,75.27,0.9
+2017-08-01,Petrol,75.25,3.8
+2017-09-01,Petrol,77.11,5.8
+2017-10-01,Petrol,76.97,4.0
+2017-11-01,Petrol,78.62,5.8
+2017-12-01,Petrol,78.59,4.2
+2018-01-01,Petrol,78.5,1.0
+2018-02-01,Petrol,78.51,0.2
+2018-03-01,Petrol,77.85,-0.8
+2018-04-01,Petrol,78.69,0.7
+2018-05-01,Petrol,80.67,4.0
+2018-06-01,Petrol,83.9,9.7
+2018-07-01,Petrol,83.72,11.3
+2018-08-01,Petrol,83.63,11.2
+2018-09-01,Petrol,84.1,9.1
+2018-10-01,Petrol,85.29,10.8
+2018-11-01,Petrol,84.77,7.8
+2018-12-01,Petrol,81.64,3.9
+2019-01-01,Petrol,76.6,-2.5
+2019-02-01,Petrol,76.7,-2.4
+2019-03-01,Petrol,78.07,0.3
+2019-04-01,Petrol,81.04,3.0
+2019-05-01,Petrol,84.2,4.4
+2019-06-01,Petrol,84.0,0.1
+2019-07-01,Petrol,81.69,-2.4
+2019-08-01,Petrol,81.93,-2.0
+2019-09-01,Petrol,81.86,-2.7
+2019-10-01,Petrol,82.91,-2.8
+2019-11-01,Petrol,82.33,-2.8
+2019-12-01,Petrol,82.91,1.5
+2020-01-01,Petrol,84.25,9.9
+2020-02-01,Petrol,83.28,8.6
+2020-03-01,Petrol,81.54,4.5
+2020-04-01,Petrol,77.27,-4.6
+2020-05-01,Petrol,75.98,-9.8
+2020-06-01,Petrol,76.77,-8.6
+2020-07-01,Petrol,78.39,-4.1
+2020-08-01,Petrol,78.79,-3.9
+2020-09-01,Petrol,78.24,-4.5
+2020-10-01,Petrol,78.07,-5.8
+2020-11-01,Petrol,78.13,-5.1
+2020-12-01,Petrol,73.58,-11.3
+2021-01-01,Petrol,75.38,-10.5
+2021-02-01,Petrol,77.19,-7.3
+2021-03-01,Petrol,81.94,0.5
+2021-04-01,Petrol,83.77,8.4
+2021-05-01,Petrol,84.62,11.4
+2021-06-01,Petrol,85.61,11.6
+2021-07-01,Petrol,88.11,12.4
+2021-08-01,Petrol,88.64,12.5
+2021-09-01,Petrol,89.63,14.6
+2021-10-01,Petrol,94.9,21.5
+2021-11-01,Petrol,98.43,26.0
+2021-12-01,Petrol,96.96,31.8
+2022-01-01,Petrol,97.62,29.5
+2022-02-01,Petrol,100.61,30.3
+2022-03-01,Petrol,110.87,35.3
+2022-04-01,Petrol,103.74,23.9
+2022-05-01,Petrol,106.57,26.0
+2022-06-01,Petrol,123.04,43.7
+2022-07-01,Petrol,119.39,35.5
+2022-08-01,Petrol,109.46,23.5
+2022-09-01,Petrol,103.2,15.1
+2022-10-01,Petrol,103.0,8.6
+2022-11-01,Petrol,103.88,5.5
+2022-12-01,Petrol,91.4,-5.8
+2023-01-01,Petrol,91.41,-6.3
+2023-02-01,Petrol,93.71,-6.9
+2023-03-01,Petrol,93.54,-15.6
+2023-04-01,Petrol,93.6,-9.7
+2023-05-01,Petrol,91.01,-14.7
+2023-06-01,Petrol,93.57,-24.0
+2023-07-01,Petrol,93.92,-21.3
+2023-08-01,Petrol,97.81,-10.7
+2023-09-01,Petrol,104.79,1.6
+2023-10-01,Petrol,106.05,2.9
+2023-11-01,Petrol,103.02,-0.8
+2023-12-01,Petrol,98.08,7.3
+2024-01-01,Petrol,96.61,5.6
+2024-02-01,Petrol,98.31,4.9
+2024-03-01,Petrol,99.36,6.2
+2024-04-01,Petrol,103.5,10.5
+2024-05-01,Petrol,104.29,14.6
+2024-06-01,Petrol,102.31,9.4
+2024-07-01,Petrol,102.23,8.9
+2024-08-01,Petrol,101.86,4.1
+2024-09-01,Petrol,99.37,-5.2
+2024-10-01,Petrol,97.39,-8.1
+2024-11-01,Petrol,99.24,-3.7
+2024-12-01,Petrol,100.4,2.4
+2025-01-01,Petrol,102.17,5.8
+2025-02-01,Petrol,103.72,5.5
+2025-03-01,Petrol,102.06,2.7
+2025-04-01,Petrol,100.16,-3.2
+2025-05-01,Petrol,97.41,-6.6
+2025-06-01,Petrol,97.18,-5.0
+2025-07-01,Petrol,98.78,-3.4
+2025-08-01,Petrol,98.42,-3.4
+2025-09-01,Petrol,98.44,-0.9
+2025-10-01,Petrol,99.94,2.6
+2025-11-01,Petrol,101.01,1.8
+2025-12-01,Petrol,100.72,0.3
+2026-01-01,Petrol,99.46,-2.6
+2026-02-01,Petrol,100.1,-3.5
+2026-03-01,Petrol,107.9,5.7
+2026-04-01,Petrol,109.34,9.1
+2026-05-01,Petrol,107.17,10.1
+2026-06-01,Petrol,106.02,9.1
+2026-07-01,Petrol,101.7,2.9
+2026-08-01,Petrol,107.23,8.9
+2026-09-01,Petrol,112.34,14.1
+1996-11-01,Solid fuels,29.14,
+1996-12-01,Solid fuels,29.14,
+1997-01-01,Solid fuels,29.21,
+1997-02-01,Solid fuels,29.23,
+1997-03-01,Solid fuels,29.23,
+1997-04-01,Solid fuels,29.26,
+1997-05-01,Solid fuels,29.26,
+1997-06-01,Solid fuels,29.26,
+1997-07-01,Solid fuels,29.28,
+1997-08-01,Solid fuels,29.29,
+1997-09-01,Solid fuels,29.29,
+1997-10-01,Solid fuels,29.67,
+1997-11-01,Solid fuels,29.7,1.8
+1997-12-01,Solid fuels,29.69,1.8
+1998-01-01,Solid fuels,30.5,4.5
+1998-02-01,Solid fuels,30.5,4.5
+1998-03-01,Solid fuels,30.51,4.5
+1998-04-01,Solid fuels,30.57,4.5
+1998-05-01,Solid fuels,30.57,4.5
+1998-06-01,Solid fuels,30.57,4.5
+1998-07-01,Solid fuels,30.55,4.3
+1998-08-01,Solid fuels,30.55,4.3
+1998-09-01,Solid fuels,30.55,4.3
+1998-10-01,Solid fuels,30.73,3.5
+1998-11-01,Solid fuels,30.75,3.5
+1998-12-01,Solid fuels,30.75,3.5
+1999-01-01,Solid fuels,31.13,1.9
+1999-02-01,Solid fuels,31.12,1.9
+1999-03-01,Solid fuels,31.11,1.9
+1999-04-01,Solid fuels,31.23,2.1
+1999-05-01,Solid fuels,31.23,2.1
+1999-06-01,Solid fuels,31.23,2.1
+1999-07-01,Solid fuels,31.23,2.4
+1999-08-01,Solid fuels,31.23,2.4
+1999-09-01,Solid fuels,31.24,2.4
+1999-10-01,Solid fuels,32.2,4.7
+1999-11-01,Solid fuels,32.19,4.7
+1999-12-01,Solid fuels,32.17,4.7
+2000-01-01,Solid fuels,32.44,4.2
+2000-02-01,Solid fuels,32.44,4.2
+2000-03-01,Solid fuels,32.44,4.2
+2000-04-01,Solid fuels,32.51,4.0
+2000-05-01,Solid fuels,32.52,4.0
+2000-06-01,Solid fuels,32.54,4.2
+2000-07-01,Solid fuels,32.83,5.0
+2000-08-01,Solid fuels,32.84,5.0
+2000-09-01,Solid fuels,32.85,5.0
+2000-10-01,Solid fuels,34.72,8.0
+2000-11-01,Solid fuels,34.7,7.8
+2000-12-01,Solid fuels,34.72,8.0
+2001-01-01,Solid fuels,35.3,8.9
+2001-02-01,Solid fuels,35.29,8.7
+2001-03-01,Solid fuels,35.3,8.9
+2001-04-01,Solid fuels,35.58,9.5
+2001-05-01,Solid fuels,35.58,9.5
+2001-06-01,Solid fuels,35.58,9.3
+2001-07-01,Solid fuels,35.52,8.2
+2001-08-01,Solid fuels,35.54,8.2
+2001-09-01,Solid fuels,35.59,8.4
+2001-10-01,Solid fuels,36.74,5.9
+2001-11-01,Solid fuels,36.74,6.1
+2001-12-01,Solid fuels,36.74,5.9
+2002-01-01,Solid fuels,36.95,4.6
+2002-02-01,Solid fuels,36.96,4.8
+2002-03-01,Solid fuels,36.94,4.6
+2002-04-01,Solid fuels,36.99,3.9
+2002-05-01,Solid fuels,37.0,4.1
+2002-06-01,Solid fuels,37.01,4.1
+2002-07-01,Solid fuels,37.1,4.4
+2002-08-01,Solid fuels,37.19,4.6
+2002-09-01,Solid fuels,37.23,4.6
+2002-10-01,Solid fuels,37.86,3.0
+2002-11-01,Solid fuels,37.88,3.0
+2002-12-01,Solid fuels,37.89,3.0
+2003-01-01,Solid fuels,38.14,3.2
+2003-02-01,Solid fuels,38.19,3.4
+2003-03-01,Solid fuels,38.19,3.4
+2003-04-01,Solid fuels,38.26,3.6
+2003-05-01,Solid fuels,38.28,3.4
+2003-06-01,Solid fuels,38.26,3.4
+2003-07-01,Solid fuels,38.29,3.2
+2003-08-01,Solid fuels,38.29,3.0
+2003-09-01,Solid fuels,38.3,2.8
+2003-10-01,Solid fuels,38.73,2.3
+2003-11-01,Solid fuels,38.72,2.3
+2003-12-01,Solid fuels,38.65,2.1
+2004-01-01,Solid fuels,38.77,1.7
+2004-02-01,Solid fuels,38.75,1.4
+2004-03-01,Solid fuels,38.75,1.4
+2004-04-01,Solid fuels,38.91,1.7
+2004-05-01,Solid fuels,38.93,1.7
+2004-06-01,Solid fuels,38.93,1.7
+2004-07-01,Solid fuels,39.36,2.7
+2004-08-01,Solid fuels,39.35,2.7
+2004-09-01,Solid fuels,39.42,2.9
+2004-10-01,Solid fuels,41.76,7.8
+2004-11-01,Solid fuels,41.77,7.8
+2004-12-01,Solid fuels,41.79,8.0
+2005-01-01,Solid fuels,42.2,8.8
+2005-02-01,Solid fuels,42.22,9.0
+2005-03-01,Solid fuels,42.23,9.0
+2005-04-01,Solid fuels,42.31,8.6
+2005-05-01,Solid fuels,42.33,8.8
+2005-06-01,Solid fuels,42.34,8.8
+2005-07-01,Solid fuels,42.34,7.7
+2005-08-01,Solid fuels,42.33,7.7
+2005-09-01,Solid fuels,42.36,7.5
+2005-10-01,Solid fuels,43.99,5.3
+2005-11-01,Solid fuels,44.15,5.7
+2005-12-01,Solid fuels,44.12,5.7
+2006-01-01,Solid fuels,44.6,5.6
+2006-02-01,Solid fuels,44.61,5.8
+2006-03-01,Solid fuels,44.62,5.8
+2006-04-01,Solid fuels,44.66,5.6
+2006-05-01,Solid fuels,44.66,5.4
+2006-06-01,Solid fuels,44.67,5.4
+2006-07-01,Solid fuels,45.99,8.7
+2006-08-01,Solid fuels,46.0,8.7
+2006-09-01,Solid fuels,46.03,8.7
+2006-10-01,Solid fuels,48.74,10.7
+2006-11-01,Solid fuels,48.73,10.4
+2006-12-01,Solid fuels,48.72,10.4
+2007-01-01,Solid fuels,49.2,10.3
+2007-02-01,Solid fuels,49.17,10.1
+2007-03-01,Solid fuels,49.33,10.4
+2007-04-01,Solid fuels,49.35,10.6
+2007-05-01,Solid fuels,49.38,10.6
+2007-06-01,Solid fuels,49.4,10.6
+2007-07-01,Solid fuels,50.08,8.8
+2007-08-01,Solid fuels,50.09,8.8
+2007-09-01,Solid fuels,50.13,9.0
+2007-10-01,Solid fuels,51.34,5.4
+2007-11-01,Solid fuels,51.32,5.4
+2007-12-01,Solid fuels,51.3,5.3
+2008-01-01,Solid fuels,51.93,5.6
+2008-02-01,Solid fuels,51.91,5.6
+2008-03-01,Solid fuels,51.92,5.3
+2008-04-01,Solid fuels,51.99,5.3
+2008-05-01,Solid fuels,51.97,5.3
+2008-06-01,Solid fuels,52.01,5.3
+2008-07-01,Solid fuels,55.4,10.6
+2008-08-01,Solid fuels,55.4,10.6
+2008-09-01,Solid fuels,55.4,10.5
+2008-10-01,Solid fuels,58.78,14.5
+2008-11-01,Solid fuels,58.91,14.7
+2008-12-01,Solid fuels,58.98,15.0
+2009-01-01,Solid fuels,59.23,14.0
+2009-02-01,Solid fuels,59.2,14.0
+2009-03-01,Solid fuels,59.16,13.9
+2009-04-01,Solid fuels,59.12,13.6
+2009-05-01,Solid fuels,59.09,13.6
+2009-06-01,Solid fuels,59.07,13.6
+2009-07-01,Solid fuels,58.89,6.3
+2009-08-01,Solid fuels,58.9,6.3
+2009-09-01,Solid fuels,58.87,6.3
+2009-10-01,Solid fuels,57.74,-1.8
+2009-11-01,Solid fuels,57.7,-2.0
+2009-12-01,Solid fuels,57.73,-2.1
+2010-01-01,Solid fuels,57.23,-3.3
+2010-02-01,Solid fuels,57.24,-3.3
+2010-03-01,Solid fuels,57.18,-3.3
+2010-04-01,Solid fuels,57.24,-3.1
+2010-05-01,Solid fuels,57.22,-3.2
+2010-06-01,Solid fuels,57.22,-3.1
+2010-07-01,Solid fuels,57.03,-3.1
+2010-08-01,Solid fuels,57.04,-3.1
+2010-09-01,Solid fuels,57.04,-3.1
+2010-10-01,Solid fuels,57.6,-0.2
+2010-11-01,Solid fuels,57.61,-0.2
+2010-12-01,Solid fuels,57.59,-0.2
+2011-01-01,Solid fuels,57.56,0.6
+2011-02-01,Solid fuels,57.58,0.6
+2011-03-01,Solid fuels,57.68,0.8
+2011-04-01,Solid fuels,57.47,0.3
+2011-05-01,Solid fuels,57.49,0.6
+2011-06-01,Solid fuels,57.54,0.5
+2011-07-01,Solid fuels,57.61,0.9
+2011-08-01,Solid fuels,57.6,0.9
+2011-09-01,Solid fuels,57.59,0.9
+2011-10-01,Solid fuels,57.72,0.2
+2011-11-01,Solid fuels,57.69,0.2
+2011-12-01,Solid fuels,57.69,0.2
+2012-01-01,Solid fuels,57.78,0.3
+2012-02-01,Solid fuels,57.67,0.1
+2012-03-01,Solid fuels,57.71,0.1
+2012-04-01,Solid fuels,57.71,0.5
+2012-05-01,Solid fuels,57.7,0.3
+2012-06-01,Solid fuels,57.77,0.5
+2012-07-01,Solid fuels,57.88,0.6
+2012-08-01,Solid fuels,57.95,0.7
+2012-09-01,Solid fuels,57.98,0.7
+2012-10-01,Solid fuels,57.66,-0.1
+2012-11-01,Solid fuels,57.74,0.0
+2012-12-01,Solid fuels,57.73,0.0
+2013-01-01,Solid fuels,57.67,-0.2
+2013-02-01,Solid fuels,57.66,0.0
+2013-03-01,Solid fuels,57.68,-0.1
+2013-04-01,Solid fuels,57.64,-0.1
+2013-05-01,Solid fuels,60.27,4.4
+2013-06-01,Solid fuels,60.51,4.8
+2013-07-01,Solid fuels,60.58,4.6
+2013-08-01,Solid fuels,60.55,4.4
+2013-09-01,Solid fuels,60.66,4.6
+2013-10-01,Solid fuels,62.0,7.5
+2013-11-01,Solid fuels,62.01,7.5
+2013-12-01,Solid fuels,62.02,7.5
+2014-01-01,Solid fuels,62.01,7.6
+2014-02-01,Solid fuels,62.17,7.9
+2014-03-01,Solid fuels,62.19,7.9
+2014-04-01,Solid fuels,62.14,7.7
+2014-05-01,Solid fuels,64.25,6.6
+2014-06-01,Solid fuels,64.42,6.4
+2014-07-01,Solid fuels,64.31,6.1
+2014-08-01,Solid fuels,64.38,6.4
+2014-09-01,Solid fuels,64.7,6.6
+2014-10-01,Solid fuels,65.23,5.2
+2014-11-01,Solid fuels,65.14,5.0
+2014-12-01,Solid fuels,65.14,5.0
+2015-01-01,Solid fuels,65.64,5.8
+2015-02-01,Solid fuels,65.66,5.6
+2015-03-01,Solid fuels,65.67,5.6
+2015-04-01,Solid fuels,65.64,5.7
+2015-05-01,Solid fuels,65.66,2.1
+2015-06-01,Solid fuels,65.68,1.9
+2015-07-01,Solid fuels,65.74,2.2
+2015-08-01,Solid fuels,65.7,2.0
+2015-09-01,Solid fuels,65.75,1.6
+2015-10-01,Solid fuels,65.6,0.6
+2015-11-01,Solid fuels,65.65,0.8
+2015-12-01,Solid fuels,65.54,0.6
+2016-01-01,Solid fuels,65.55,-0.2
+2016-02-01,Solid fuels,65.61,-0.1
+2016-03-01,Solid fuels,65.62,-0.1
+2016-04-01,Solid fuels,65.35,-0.5
+2016-05-01,Solid fuels,65.45,-0.3
+2016-06-01,Solid fuels,65.45,-0.3
+2016-07-01,Solid fuels,65.45,-0.4
+2016-08-01,Solid fuels,65.45,-0.4
+2016-09-01,Solid fuels,65.34,-0.6
+2016-10-01,Solid fuels,65.28,-0.5
+2016-11-01,Solid fuels,65.16,-0.8
+2016-12-01,Solid fuels,65.34,-0.3
+2017-01-01,Solid fuels,65.14,-0.6
+2017-02-01,Solid fuels,65.16,-0.7
+2017-03-01,Solid fuels,65.16,-0.7
+2017-04-01,Solid fuels,65.19,-0.2
+2017-05-01,Solid fuels,65.22,-0.4
+2017-06-01,Solid fuels,65.18,-0.4
+2017-07-01,Solid fuels,65.25,-0.3
+2017-08-01,Solid fuels,65.25,-0.3
+2017-09-01,Solid fuels,65.32,0.0
+2017-10-01,Solid fuels,65.31,0.1
+2017-11-01,Solid fuels,65.23,0.1
+2017-12-01,Solid fuels,65.26,-0.1
+2018-01-01,Solid fuels,65.31,0.3
+2018-02-01,Solid fuels,65.41,0.4
+2018-03-01,Solid fuels,65.35,0.3
+2018-04-01,Solid fuels,65.43,0.4
+2018-05-01,Solid fuels,65.37,0.3
+2018-06-01,Solid fuels,65.39,0.3
+2018-07-01,Solid fuels,65.4,0.2
+2018-08-01,Solid fuels,65.32,0.1
+2018-09-01,Solid fuels,65.21,-0.2
+2018-10-01,Solid fuels,66.56,1.9
+2018-11-01,Solid fuels,66.62,2.2
+2018-12-01,Solid fuels,66.8,2.3
+2019-01-01,Solid fuels,66.65,2.0
+2019-02-01,Solid fuels,66.65,1.9
+2019-03-01,Solid fuels,66.66,2.0
+2019-04-01,Solid fuels,66.86,2.1
+2019-05-01,Solid fuels,66.91,2.3
+2019-06-01,Solid fuels,66.9,2.3
+2019-07-01,Solid fuels,66.9,2.3
+2019-08-01,Solid fuels,66.92,2.4
+2019-09-01,Solid fuels,66.94,2.7
+2019-10-01,Solid fuels,67.2,0.9
+2019-11-01,Solid fuels,67.17,0.8
+2019-12-01,Solid fuels,67.19,0.6
+2020-01-01,Solid fuels,67.26,0.9
+2020-02-01,Solid fuels,67.29,1.0
+2020-03-01,Solid fuels,67.3,1.0
+2020-04-01,Solid fuels,67.3,0.7
+2020-05-01,Solid fuels,67.53,1.0
+2020-06-01,Solid fuels,67.71,1.2
+2020-07-01,Solid fuels,67.86,1.5
+2020-08-01,Solid fuels,67.86,1.5
+2020-09-01,Solid fuels,67.95,1.5
+2020-10-01,Solid fuels,69.26,3.1
+2020-11-01,Solid fuels,69.19,3.0
+2020-12-01,Solid fuels,69.21,3.0
+2021-01-01,Solid fuels,69.3,3.0
+2021-02-01,Solid fuels,69.43,3.1
+2021-03-01,Solid fuels,69.49,3.2
+2021-04-01,Solid fuels,69.45,3.2
+2021-05-01,Solid fuels,70.25,4.0
+2021-06-01,Solid fuels,70.46,4.1
+2021-07-01,Solid fuels,70.6,4.0
+2021-08-01,Solid fuels,70.87,4.4
+2021-09-01,Solid fuels,71.17,4.7
+2021-10-01,Solid fuels,74.2,7.1
+2021-11-01,Solid fuels,74.45,7.6
+2021-12-01,Solid fuels,74.46,7.6
+2022-01-01,Solid fuels,75.09,8.4
+2022-02-01,Solid fuels,75.07,8.1
+2022-03-01,Solid fuels,83.78,20.6
+2022-04-01,Solid fuels,86.65,24.8
+2022-05-01,Solid fuels,88.38,25.8
+2022-06-01,Solid fuels,88.86,26.1
+2022-07-01,Solid fuels,93.12,31.9
+2022-08-01,Solid fuels,93.51,32.0
+2022-09-01,Solid fuels,94.31,32.5
+2022-10-01,Solid fuels,109.12,47.1
+2022-11-01,Solid fuels,109.37,46.9
+2022-12-01,Solid fuels,109.42,47.0
+2023-01-01,Solid fuels,108.73,44.8
+2023-02-01,Solid fuels,109.71,46.2
+2023-03-01,Solid fuels,110.8,32.2
+2023-04-01,Solid fuels,110.06,27.0
+2023-05-01,Solid fuels,110.48,25.0
+2023-06-01,Solid fuels,110.47,24.4
+2023-07-01,Solid fuels,111.02,19.3
+2023-08-01,Solid fuels,111.08,18.8
+2023-09-01,Solid fuels,111.7,18.5
+2023-10-01,Solid fuels,105.31,-3.5
+2023-11-01,Solid fuels,105.88,-3.2
+2023-12-01,Solid fuels,105.46,-3.7
+2024-01-01,Solid fuels,103.03,-5.3
+2024-02-01,Solid fuels,103.03,-6.1
+2024-03-01,Solid fuels,102.89,-7.1
+2024-04-01,Solid fuels,103.0,-6.4
+2024-05-01,Solid fuels,101.97,-7.7
+2024-06-01,Solid fuels,102.01,-7.7
+2024-07-01,Solid fuels,102.21,-7.9
+2024-08-01,Solid fuels,102.29,-7.9
+2024-09-01,Solid fuels,102.25,-8.5
+2024-10-01,Solid fuels,100.13,-4.9
+2024-11-01,Solid fuels,100.33,-5.3
+2024-12-01,Solid fuels,100.61,-4.6
+2025-01-01,Solid fuels,99.82,-3.1
+2025-02-01,Solid fuels,99.9,-3.0
+2025-03-01,Solid fuels,99.88,-2.9
+2025-04-01,Solid fuels,100.08,-2.9
+2025-05-01,Solid fuels,99.99,-1.9
+2025-06-01,Solid fuels,99.94,-2.1
+2025-07-01,Solid fuels,100.06,-2.1
+2025-08-01,Solid fuels,100.08,-2.2
+2025-09-01,Solid fuels,99.98,-2.2
+2025-10-01,Solid fuels,100.2,0.1
+2025-11-01,Solid fuels,99.94,-0.4
+2025-12-01,Solid fuels,100.13,-0.5
+2026-01-01,Solid fuels,100.01,0.2
+2026-02-01,Solid fuels,100.35,0.5
+2026-03-01,Solid fuels,100.07,0.2
+2026-04-01,Solid fuels,100.76,0.7
+2026-05-01,Solid fuels,100.77,0.8
+2026-06-01,Solid fuels,100.76,0.9
+2026-07-01,Solid fuels,101.05,1.0
+2026-08-01,Solid fuels,100.94,0.8
+2026-09-01,Solid fuels,100.87,0.9
