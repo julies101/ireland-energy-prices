@@ -96,6 +96,60 @@
         "y": {"field": "index", "type": "quantitative", "title": null,
               "axis": {"tickCount": 2, "grid": false}}
       }
+    },
+
+        {
+      "description": "CHART 3: growth of renewable electricity, 2020-2023. Uses its own data file (renewable_share.json, from the CSO's MEG01 table). Not linked to the timeline, because this data only covers 2020-2023. Bars: each month's share of electricity from renewables, split into wind (dark teal) and other renewables such as solar and hydro (light teal), stacked so the bar's total height is the full renewable share. Line: 12-month rolling average of the renewable share, which smooths out the seasonal ups and downs (windy winters, calm summers) to show the underlying trend.",
+      "title": {"text": "3. How much of Ireland's electricity comes from renewables?",
+                "subtitle": "Monthly share of electricity generated, 2020–2023. The line shows the average over the previous 12 months. CSO data ends in December 2023.",
+                "anchor": "start", "fontSize": 14},
+      "width": 700, "height": 220,
+      "data": {"url": "https://raw.githubusercontent.com/julies101/ireland-energy-prices/refs/heads/main/renewable_share.json"},
+      "layer": [
+        {
+          "transform": [
+            {"calculate": "datum.renewable_pct - datum.wind_pct", "as": "other_pct"},
+            {"fold": ["wind_pct", "other_pct"], "as": ["source_key", "share"]},
+            {"calculate": "datum.source_key === 'wind_pct' ? 'Wind' : 'Other renewables'", "as": "source"},
+            {"calculate": "datum.source_key === 'wind_pct' ? 1 : 2", "as": "stack_order"}
+          ],
+          "mark": {"type": "bar", "width": {"band": 0.85}},
+          "encoding": {
+            "x": {"field": "date", "type": "temporal", "timeUnit": "yearmonth", "title": null,
+                  "axis": {"format": "%Y", "tickCount": "year"}},
+            "y": {"field": "share", "type": "quantitative", "stack": "zero",
+                  "title": "Share of electricity generated (%)", "scale": {"domain": [0, 70]}},
+            "color": {"field": "source", "type": "nominal", "title": null,
+                      "scale": {"domain": ["Wind", "Other renewables"],
+                                "range": ["#1b7f79", "#9fd8d2"]},
+                      "legend": {"orient": "top", "labelFontSize": 11, "labelLimit": 300}},
+            "order": {"field": "stack_order", "type": "quantitative"},
+            "tooltip": [
+              {"field": "date", "type": "temporal", "format": "%b %Y", "title": "Month"},
+              {"field": "source", "type": "nominal", "title": "Source"},
+              {"field": "share", "type": "quantitative", "format": ".1f", "title": "Share of electricity (%)"},
+              {"field": "renewable_pct", "type": "quantitative", "format": ".1f", "title": "Total renewables (%)"}
+            ]
+          }
+        },
+        {
+          "transform": [
+            {"window": [{"op": "mean", "field": "renewable_pct", "as": "rolling_avg"}],
+             "sort": [{"field": "date"}], "frame": [-11, 0]},
+            {"filter": "datetime(datum.date) >= datetime(2020, 11, 1)"}
+          ],
+          "mark": {"type": "line", "color": "#333", "strokeWidth": 2, "strokeDash": [6, 3]},
+          "encoding": {
+            "x": {"field": "date", "type": "temporal", "timeUnit": "yearmonth"},
+            "y": {"field": "rolling_avg", "type": "quantitative"},
+            "tooltip": [
+              {"field": "date", "type": "temporal", "format": "%b %Y", "title": "Month"},
+              {"field": "rolling_avg", "type": "quantitative", "format": ".1f", "title": "12-month average renewables (%)"}
+            ]
+          }
+        }
+      ]
     }
+
   ]
 }
