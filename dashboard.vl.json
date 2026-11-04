@@ -1,155 +1,765 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "description": "Ireland's energy price shock dashboard. Data: CSO CPM23 (EU Harmonised Index of Consumer Prices), cleaned in CleaningData.ipynb and loaded from GitHub. Layout: charts stacked vertically (vconcat). A timeline at the bottom defines a selection called 'brush' that controls which period chart 1 shows. 'config' sets global styles: no border around charts, axis font sizes. 'resolve' gives each chart its own colour scale.",
+  "description": "Ireland's energy price shock dashboard. Data: CSO CPM23 (EU Harmonised Index of Consumer Prices) and CSO MEG01 (Metered Electricity Generation), cleaned in CleaningData.ipynb and loaded from GitHub. Layout: charts stacked vertically (vconcat). A timeline defines a selection called 'brush' that controls which period charts 1 and 2 show. Charts 3 and 4 cover 2020-2023 only and are not linked to the timeline. 'config' sets global styles: no border around charts, axis font sizes. 'resolve' gives each chart its own colour scale and legend.",
   "title": {
     "text": "Ireland's energy price shock",
-    "subtitle": "Drag across the timeline at the bottom to choose a period.",
-    "anchor": "start", "fontSize": 18, "subtitleFontSize": 14
+    "subtitle": "Drag across the timeline to choose a period for charts 1 and 2.",
+    "anchor": "start",
+    "fontSize": 18,
+    "subtitleFontSize": 12
   },
-  "data": {"url": "https://raw.githubusercontent.com/julies101/ireland-energy-prices/refs/heads/main/energy_prices.json"},
-  "config": {"view": {"stroke": null}, "axis": {"labelFontSize": 12, "titleFontSize": 14}},
-  "resolve": {"legend": {"color": "independent"}, "scale": {"color": "independent"}},
+  "data": {
+    "url": "https://raw.githubusercontent.com/julies101/ireland-energy-prices/refs/heads/main/energy_prices.json"
+  },
+  "config": {
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelFontSize": 11,
+      "titleFontSize": 12
+    },
+    "axisLeft": {
+      "titleAngle": 0,
+      "titleAlign": "left",
+      "titleBaseline": "bottom",
+      "titleY": -10,
+      "titleX": -40,
+      "titleFontWeight": "normal",
+      "titleColor": "#333"
+    },
+    "axisRight": {
+      "titleAngle": 0,
+      "titleAlign": "right",
+      "titleBaseline": "bottom",
+      "titleY": -10,
+      "titleX": 40,
+      "titleFontWeight": "normal"
+    }
+  },
+  "resolve": {
+    "legend": {
+      "color": "independent",
+      "strokeDash": "independent"
+    },
+    "scale": {
+      "color": "independent",
+      "strokeDash": "independent"
+    }
+  },
   "vconcat": [
     {
       "description": "CHART 1: household electricity price. Filter keeps only the Electricity rows. Line mark in red (#d1495b), the colour used for electricity throughout; clip stops the line drawing outside the chart when zoomed. x = date (temporal), its range is linked to the 'brush' selection so the chart zooms to the period chosen on the timeline; one year label per tick. y = price index (quantitative, 2025 = 100). Tooltip shows month, index (1 decimal place) and % change on a year earlier (with + or - sign).",
-      "title": {"text": "1. Household electricity price",
-                "subtitle": "Index: 100 = average 2025 price. 50 = half the 2025 price, 125 = 25% more.",
-                "anchor": "start", "fontSize": 14},
-      "width": 700, "height": 220,
-      "transform": [{"filter": "datum.series === 'Electricity'"}],
-      "mark": {"type": "line", "color": "#d1495b", "strokeWidth": 2.5, "clip": true},
+      "title": {
+        "text": "1. Household electricity prices doubled in 18 months and have not come back down",
+        "subtitle": "Index: 100 = average 2025 price. 50 = half the 2025 price, 125 = 25% more.",
+        "anchor": "start",
+        "fontSize": 14
+      },
+      "width": 700,
+      "height": 220,
+      "transform": [
+        {
+          "filter": "datum.series === 'Electricity'"
+        }
+      ],
+      "mark": {
+        "type": "line",
+        "color": "#d1495b",
+        "strokeWidth": 2.5,
+        "clip": true
+      },
       "encoding": {
-        "x": {"field": "date", "type": "temporal", "title": null,
-              "scale": {"domain": {"param": "brush"}},
-              "axis": {"format": "%Y", "tickCount": "year"}},
-        "y": {"field": "index", "type": "quantitative", "title": "Price index (2025 = 100)"},
+        "x": {
+          "field": "date",
+          "type": "temporal",
+          "title": null,
+          "scale": {
+            "domain": {
+              "param": "brush"
+            }
+          },
+          "axis": {
+            "format": "%Y",
+            "tickCount": "year"
+          }
+        },
+        "y": {
+          "field": "index",
+          "type": "quantitative",
+          "title": "Price index (2025 = 100)"
+        },
         "tooltip": [
-          {"field": "date", "type": "temporal", "format": "%b %Y", "title": "Month"},
-          {"field": "index", "type": "quantitative", "format": ".1f", "title": "Index"},
-          {"field": "yoy_pct", "type": "quantitative", "format": "+.1f", "title": "% change on a year earlier"}
+          {
+            "field": "date",
+            "type": "temporal",
+            "format": "%b %Y",
+            "title": "Month"
+          },
+          {
+            "field": "index",
+            "type": "quantitative",
+            "format": ".1f",
+            "title": "Index"
+          },
+          {
+            "field": "yoy_pct",
+            "type": "quantitative",
+            "format": "+.1f",
+            "title": "% change on a year earlier"
+          }
         ]
       }
     },
-
-        {
-      "description": "CHART 2: electricity vs other household costs. Removes the 'Energy' and 'All items' series, then keeps only the months inside the 'brush' selection. A window transform finds each series' first value in the selected period ('base'), and each month is divided by it and multiplied by 100 ('rebased'), so every line starts at 100. Layer 1: dashed grey reference line at 100 (no change). Layer 2: one coloured line per series; colours are fixed, with electricity in the same red as chart 1. The 'pick' selection is bound to the legend: clicking a legend item keeps that line fully visible and fades the others to 12% opacity.",
-      "title": {"text": "2. Electricity vs other household costs",
-                "subtitle": "% change since the start of the selected period. Click legend items to compare them; click again to reset.",
-                "anchor": "start", "fontSize": 14},
-      "width": 700, "height": 260,
+    {
+      "description": "CHART 2: electricity vs other household costs. Removes the 'Energy' and 'All items' series, then keeps only the months inside the 'brush' selection. A window transform finds each series' first value in the selected period ('base'), and each month's change from it is calculated ('change'), so every line starts at 0%. Layer 1: dashed grey reference line at 0% (no change). Layer 2: one coloured line per series; colours are fixed, with electricity in the same red as chart 1. The 'pick' selection is bound to the legend with toggle on, so each click adds or removes a series; unselected lines fade to 12% opacity. The chart opens with only Electricity and All items excl. energy highlighted. Oil-based fuels (home heating oil, petrol, diesel) are dashed, so the two fuel groups can be told apart without relying on colour (colour-blind safe).",
+      "title": {
+        "text": "2. Energy costs rose far faster than everyday household costs",
+        "subtitle": "% change since the start of the selected period. Dashed lines = oil-based fuels. Click legend items to add or remove them; double-click the chart to show all.",
+        "anchor": "start",
+        "fontSize": 14
+      },
+      "width": 700,
+      "height": 260,
       "transform": [
-        {"filter": "datum.series !== 'Energy' && datum.series !== 'All items'"},
-        {"filter": {"param": "brush"}},
-        {"window": [{"op": "first_value", "field": "index", "as": "base"}],
-         "sort": [{"field": "date"}], "groupby": ["series"]},
-        {"calculate": "datum.index / datum.base - 1", "as": "change"}
+        {
+          "filter": "datum.series !== 'Energy' && datum.series !== 'All items'"
+        },
+        {
+          "filter": {
+            "param": "brush"
+          }
+        },
+        {
+          "window": [
+            {
+              "op": "first_value",
+              "field": "index",
+              "as": "base"
+            }
+          ],
+          "sort": [
+            {
+              "field": "date"
+            }
+          ],
+          "groupby": [
+            "series"
+          ]
+        },
+        {
+          "calculate": "datum.index / datum.base - 1",
+          "as": "change"
+        }
       ],
       "layer": [
         {
-          "mark": {"type": "rule", "color": "#888", "strokeDash": [4, 4]},
-          "encoding": {"y": {"datum": 0}}
+          "mark": {
+            "type": "rule",
+            "color": "#888",
+            "strokeDash": [
+              4,
+              4
+            ]
+          },
+          "encoding": {
+            "y": {
+              "datum": 0
+            }
+          }
         },
         {
-          "params": [{"name": "pick", "select": {"type": "point", "fields": ["series"], "toggle": "true"}, "bind": "legend"}],
-          "mark": {"type": "line", "strokeWidth": 2},
-          "encoding": {
-            "x": {"field": "date", "type": "temporal", "title": null,
-                  "axis": {"format": "%Y", "tickCount": "year"}},
-            "y": {"field": "change", "type": "quantitative", "title": "Change since start of selected period",
-            "axis": {"format": "+.0%"}},
-            "color": {
-              "field": "series", "type": "nominal", "title": null,
-              "scale": {
-                "domain": ["Electricity", "Natural gas", "Home heating oil", "Solid fuels", "Petrol", "Diesel", "Food", "All items excl. energy"],
-                "range":  ["#d1495b", "#edae49", "#8d6a9f", "#7a5c3e", "#00798c", "#30638e", "#66a182", "#9e9e9e"]
+          "params": [
+            {
+              "name": "pick",
+              "select": {
+                "type": "point",
+                "fields": [
+                  "series"
+                ],
+                "toggle": "true"
               },
-              "legend": {"orient": "right", "labelFontSize": 11, "symbolStrokeWidth": 3}
+              "bind": "legend",
+              "value": [
+                {
+                  "series": "Electricity"
+                },
+                {
+                  "series": "All items excl. energy"
+                }
+              ]
+            }
+          ],
+          "mark": {
+            "type": "line",
+            "strokeWidth": 2
+          },
+          "encoding": {
+            "x": {
+              "field": "date",
+              "type": "temporal",
+              "title": null,
+              "axis": {
+                "format": "%Y",
+                "tickCount": "year"
+              }
             },
-            "opacity": {"condition": {"param": "pick", "value": 1}, "value": 0.12},
+            "y": {
+              "field": "change",
+              "type": "quantitative",
+              "title": "Change since start of selected period",
+              "axis": {
+                "format": "+.0%"
+              }
+            },
+            "color": {
+              "field": "series",
+              "type": "nominal",
+              "title": null,
+              "scale": {
+                "domain": [
+                  "Electricity",
+                  "Natural gas",
+                  "Home heating oil",
+                  "Solid fuels",
+                  "Petrol",
+                  "Diesel",
+                  "Food",
+                  "All items excl. energy"
+                ],
+                "range": [
+                  "#d1495b",
+                  "#edae49",
+                  "#3f007d",
+                  "#4a3220",
+                  "#a6761d",
+                  "#1f78b4",
+                  "#1b9e77",
+                  "#bdbdbd"
+                ]
+              },
+              "legend": {
+                "orient": "right",
+                "labelFontSize": 11,
+                "symbolStrokeWidth": 3,
+                "symbolSize": 250
+              }
+            },
+            "opacity": {
+              "condition": {
+                "param": "pick",
+                "value": 1
+              },
+              "value": 0.12
+            },
             "tooltip": [
-              {"field": "series", "type": "nominal", "title": "Series"},
-              {"field": "date", "type": "temporal", "format": "%b %Y", "title": "Month"},
-              {"field": "change", "type": "quantitative", "format": "+.0%", "title": "Change since start of period"},
-              {"field": "yoy_pct", "type": "quantitative", "format": "+.1f", "title": "% change on a year earlier"}
-            ]
+              {
+                "field": "series",
+                "type": "nominal",
+                "title": "Series"
+              },
+              {
+                "field": "date",
+                "type": "temporal",
+                "format": "%b %Y",
+                "title": "Month"
+              },
+              {
+                "field": "change",
+                "type": "quantitative",
+                "format": "+.0%",
+                "title": "Change since start of period"
+              },
+              {
+                "field": "yoy_pct",
+                "type": "quantitative",
+                "format": "+.1f",
+                "title": "% change on a year earlier"
+              }
+            ],
+            "strokeDash": {
+              "field": "series",
+              "type": "nominal",
+              "title": null,
+              "scale": {
+                "domain": [
+                  "Electricity",
+                  "Natural gas",
+                  "Home heating oil",
+                  "Solid fuels",
+                  "Petrol",
+                  "Diesel",
+                  "Food",
+                  "All items excl. energy"
+                ],
+                "range": [
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    6,
+                    3
+                  ],
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    6,
+                    3
+                  ],
+                  [
+                    6,
+                    3
+                  ],
+                  [
+                    1,
+                    0
+                  ],
+                  [
+                    1,
+                    0
+                  ]
+                ]
+              },
+              "legend": {
+                "orient": "right",
+                "labelFontSize": 11,
+                "symbolStrokeWidth": 3,
+                "symbolSize": 250
+              }
+            }
           }
         }
       ]
     },
-
     {
-      "description": "TIMELINE (overview + brush): full 1996-2026 electricity history as a pale red area (40% opacity) so it reads as background context. 'params' defines the 'brush' selection: click and drag left-right (x only) to pick a period; it starts on Jan 2019 to Dec 2024 so the dashboard opens on the crisis. Double-click resets. The x-axis is not linked to the brush, so this strip always shows the whole history, labelled every 5 years with no grid lines.",
-      "title": {"text": "Timeline: drag to select a period, double-click to reset",
-                "anchor": "start", "fontSize": 12, "fontWeight": "normal", "color": "#555"},
-      "width": 700, "height": 70,
-      "transform": [{"filter": "datum.series === 'Electricity'"}],
-      "mark": {"type": "area", "color": "#d1495b", "opacity": 0.4},
-      "params": [{
-        "name": "brush",
-        "select": {"type": "interval", "encodings": ["x"]},
-        "value": {"x": [{"year": 2019, "month": 1, "date": 1}, {"year": 2024, "month": 12, "date": 1}]}
-      }],
+      "description": "TIMELINE (overview + brush): full 1996-2026 electricity history as a pale red area (40% opacity) so it reads as background context. 'params' defines the 'brush' selection: click and drag left-right (x only) to pick a period; it starts on Jan 2019 to Dec 2024 so the dashboard opens on the crisis. Double-click resets. Controls charts 1 and 2 only. The x-axis is not linked to the brush, so this strip always shows the whole history, labelled every 5 years with no grid lines.",
+      "title": {
+        "text": "Timeline for charts 1 and 2: drag to select a period, double-click to reset",
+        "anchor": "start",
+        "fontSize": 12,
+        "fontWeight": "normal",
+        "color": "#555"
+      },
+      "width": 700,
+      "height": 70,
+      "transform": [
+        {
+          "filter": "datum.series === 'Electricity'"
+        }
+      ],
+      "mark": {
+        "type": "area",
+        "color": "#d1495b",
+        "opacity": 0.4
+      },
+      "params": [
+        {
+          "name": "brush",
+          "select": {
+            "type": "interval",
+            "encodings": [
+              "x"
+            ]
+          },
+          "value": {
+            "x": [
+              {
+                "year": 2019,
+                "month": 1,
+                "date": 1
+              },
+              {
+                "year": 2024,
+                "month": 12,
+                "date": 1
+              }
+            ]
+          }
+        }
+      ],
       "encoding": {
-        "x": {"field": "date", "type": "temporal", "title": null,
-              "axis": {"format": "%Y", "tickCount": {"interval": "year", "step": 5},
-                       "grid": false, "labelFontSize": 11}},
-        "y": {"field": "index", "type": "quantitative", "title": null,
-              "axis": {"tickCount": 2, "grid": false}}
+        "x": {
+          "field": "date",
+          "type": "temporal",
+          "title": null,
+          "axis": {
+            "format": "%Y",
+            "tickCount": {
+              "interval": "year",
+              "step": 5
+            },
+            "grid": false,
+            "labelFontSize": 11
+          }
+        },
+        "y": {
+          "field": "index",
+          "type": "quantitative",
+          "title": null,
+          "axis": {
+            "tickCount": 2,
+            "grid": false
+          }
+        }
       }
     },
-
-        {
+    {
       "description": "CHART 3: growth of renewable electricity, 2020-2023. Uses its own data file (renewable_share.json, from the CSO's MEG01 table). Not linked to the timeline, because this data only covers 2020-2023. Bars: each month's share of electricity from renewables, split into wind (dark teal) and other renewables such as solar and hydro (light teal), stacked so the bar's total height is the full renewable share. Line: 12-month rolling average of the renewable share, which smooths out the seasonal ups and downs (windy winters, calm summers) to show the underlying trend.",
-      "title": {"text": "3. How much of Ireland's electricity comes from renewables?",
-                "subtitle": "Monthly share of electricity generated, 2020–2023. The line shows the average over the previous 12 months. CSO data ends in December 2023.",
-                "anchor": "start", "fontSize": 14},
-      "width": 700, "height": 220,
-      "data": {"url": "https://raw.githubusercontent.com/julies101/ireland-energy-prices/refs/heads/main/renewable_share.json"},
+      "title": {
+        "text": "3. Renewables supply around 40% of Ireland's electricity, but output rises and falls with the wind",
+        "subtitle": "Monthly share of electricity generated, 2020–2023. The line shows the average over the previous 12 months. CSO data ends in December 2023.",
+        "anchor": "start",
+        "fontSize": 14
+      },
+      "width": 700,
+      "height": 220,
+      "data": {
+        "url": "https://raw.githubusercontent.com/julies101/ireland-energy-prices/refs/heads/main/renewable_share.json"
+      },
       "layer": [
         {
           "transform": [
-            {"calculate": "datum.renewable_pct - datum.wind_pct", "as": "other_pct"},
-            {"fold": ["wind_pct", "other_pct"], "as": ["source_key", "share"]},
-            {"calculate": "datum.source_key === 'wind_pct' ? 'Wind' : 'Other renewables'", "as": "source"},
-            {"calculate": "datum.source_key === 'wind_pct' ? 1 : 2", "as": "stack_order"}
+            {
+              "calculate": "datum.renewable_pct - datum.wind_pct",
+              "as": "other_pct"
+            },
+            {
+              "fold": [
+                "wind_pct",
+                "other_pct"
+              ],
+              "as": [
+                "source_key",
+                "share"
+              ]
+            },
+            {
+              "calculate": "datum.source_key === 'wind_pct' ? 'Wind' : 'Other renewables'",
+              "as": "source"
+            },
+            {
+              "calculate": "datum.source_key === 'wind_pct' ? 1 : 2",
+              "as": "stack_order"
+            }
           ],
-          "mark": {"type": "bar", "width": {"band": 0.85}},
+          "mark": {
+            "type": "bar",
+            "width": {
+              "band": 0.85
+            }
+          },
           "encoding": {
-            "x": {"field": "date", "type": "temporal", "timeUnit": "yearmonth", "title": null,
-                  "axis": {"format": "%Y", "tickCount": "year"}},
-            "y": {"field": "share", "type": "quantitative", "stack": "zero",
-                  "title": "Share of electricity generated (%)", "scale": {"domain": [0, 70]}},
-            "color": {"field": "source", "type": "nominal", "title": null,
-                      "scale": {"domain": ["Wind", "Other renewables"],
-                                "range": ["#1b7f79", "#9fd8d2"]},
-                      "legend": {"orient": "top", "labelFontSize": 11, "labelLimit": 300}},
-            "order": {"field": "stack_order", "type": "quantitative"},
+            "x": {
+              "field": "date",
+              "type": "temporal",
+              "timeUnit": "yearmonth",
+              "title": null,
+              "axis": {
+                "format": "%Y",
+                "tickCount": "year"
+              }
+            },
+            "y": {
+              "field": "share",
+              "type": "quantitative",
+              "stack": "zero",
+              "title": "Share of electricity generated (%)",
+              "scale": {
+                "domain": [
+                  0,
+                  70
+                ]
+              }
+            },
+            "color": {
+              "field": "source",
+              "type": "nominal",
+              "title": null,
+              "scale": {
+                "domain": [
+                  "Wind",
+                  "Other renewables"
+                ],
+                "range": [
+                  "#1b7f79",
+                  "#9fd8d2"
+                ]
+              },
+              "legend": {
+                "orient": "bottom",
+                "labelFontSize": 11,
+                "labelLimit": 300
+              }
+            },
+            "order": {
+              "field": "stack_order",
+              "type": "quantitative"
+            },
             "tooltip": [
-              {"field": "date", "type": "temporal", "format": "%b %Y", "title": "Month"},
-              {"field": "source", "type": "nominal", "title": "Source"},
-              {"field": "share", "type": "quantitative", "format": ".1f", "title": "Share of electricity (%)"},
-              {"field": "renewable_pct", "type": "quantitative", "format": ".1f", "title": "Total renewables (%)"}
+              {
+                "field": "date",
+                "type": "temporal",
+                "format": "%b %Y",
+                "title": "Month"
+              },
+              {
+                "field": "source",
+                "type": "nominal",
+                "title": "Source"
+              },
+              {
+                "field": "share",
+                "type": "quantitative",
+                "format": ".1f",
+                "title": "Share of electricity (%)"
+              },
+              {
+                "field": "renewable_pct",
+                "type": "quantitative",
+                "format": ".1f",
+                "title": "Total renewables (%)"
+              }
             ]
           }
         },
         {
           "transform": [
-            {"window": [{"op": "mean", "field": "renewable_pct", "as": "rolling_avg"}],
-             "sort": [{"field": "date"}], "frame": [-11, 0]},
-            {"filter": "datetime(datum.date) >= datetime(2020, 11, 1)"}
+            {
+              "window": [
+                {
+                  "op": "mean",
+                  "field": "renewable_pct",
+                  "as": "rolling_avg"
+                }
+              ],
+              "sort": [
+                {
+                  "field": "date"
+                }
+              ],
+              "frame": [
+                -11,
+                0
+              ]
+            },
+            {
+              "filter": "datetime(datum.date) >= datetime(2020, 11, 1)"
+            }
           ],
-          "mark": {"type": "line", "color": "#333", "strokeWidth": 2, "strokeDash": [6, 3]},
+          "mark": {
+            "type": "line",
+            "color": "#333",
+            "strokeWidth": 2,
+            "strokeDash": [
+              6,
+              3
+            ]
+          },
           "encoding": {
-            "x": {"field": "date", "type": "temporal", "timeUnit": "yearmonth"},
-            "y": {"field": "rolling_avg", "type": "quantitative"},
+            "x": {
+              "field": "date",
+              "type": "temporal",
+              "timeUnit": "yearmonth"
+            },
+            "y": {
+              "field": "rolling_avg",
+              "type": "quantitative"
+            },
             "tooltip": [
-              {"field": "date", "type": "temporal", "format": "%b %Y", "title": "Month"},
-              {"field": "rolling_avg", "type": "quantitative", "format": ".1f", "title": "12-month average renewables (%)"}
+              {
+                "field": "date",
+                "type": "temporal",
+                "format": "%b %Y",
+                "title": "Month"
+              },
+              {
+                "field": "rolling_avg",
+                "type": "quantitative",
+                "format": ".1f",
+                "title": "12-month average renewables (%)"
+              }
             ]
           }
         }
       ]
+    },
+    {
+      "description": "CHART 4: does more renewable electricity mean cheaper electricity? Covers Jan 2020 to Dec 2023 only (the period where both datasets overlap); not linked to the timeline. Layer 1 (bars): monthly renewable share of electricity from renewable_share.json, in pale teal, measured on the right-hand axis. Layer 2 (lines): household electricity and natural gas price indexes from energy_prices.json, filtered to 2020-2023, measured on the left-hand axis (2025 = 100). The two layers use different data files and different y-axes, so 'resolve' makes the y scales and colour legends independent. Axis titles are coloured to match the marks they describe.",
+      "title": {
+        "text": "4. Electricity prices followed gas prices, not renewable generation",
+        "subtitle": "Bars: share of electricity from renewables (right axis). Lines: household electricity and gas prices (left axis, 2025 = 100). 2020–2023.",
+        "anchor": "start",
+        "fontSize": 14
+      },
+      "width": 700,
+      "height": 240,
+      "layer": [
+        {
+          "data": {
+            "url": "https://raw.githubusercontent.com/julies101/ireland-energy-prices/refs/heads/main/renewable_share.json"
+          },
+          "mark": {
+            "type": "bar",
+            "width": {
+              "band": 0.85
+            },
+            "opacity": 0.8
+          },
+          "encoding": {
+            "x": {
+              "field": "date",
+              "type": "temporal",
+              "timeUnit": "yearmonth",
+              "title": null,
+              "axis": {
+                "format": "%Y",
+                "tickCount": "year"
+              }
+            },
+            "y": {
+              "field": "renewable_pct",
+              "type": "quantitative",
+              "scale": {
+                "domain": [
+                  0,
+                  70
+                ]
+              },
+              "title": "Renewable share of electricity (%)",
+              "axis": {
+                "orient": "right",
+                "titleColor": "#1b7f79",
+                "grid": false
+              }
+            },
+            "color": {
+              "datum": "Renewable share (right axis)",
+              "scale": {
+                "range": [
+                  "#9fd8d2"
+                ]
+              },
+              "legend": {
+                "orient": "bottom",
+                "title": null,
+                "labelFontSize": 11,
+                "labelLimit": 300
+              }
+            },
+            "tooltip": [
+              {
+                "field": "date",
+                "type": "temporal",
+                "format": "%b %Y",
+                "title": "Month"
+              },
+              {
+                "field": "renewable_pct",
+                "type": "quantitative",
+                "format": ".1f",
+                "title": "Renewable share (%)"
+              },
+              {
+                "field": "wind_pct",
+                "type": "quantitative",
+                "format": ".1f",
+                "title": "Wind share (%)"
+              }
+            ]
+          }
+        },
+        {
+          "data": {
+            "url": "https://raw.githubusercontent.com/julies101/ireland-energy-prices/refs/heads/main/energy_prices.json"
+          },
+          "transform": [
+            {
+              "filter": "datum.series === 'Electricity' || datum.series === 'Natural gas'"
+            },
+            {
+              "filter": "utcyear(toDate(datum.date)) >= 2020 && utcyear(toDate(datum.date)) <= 2023"
+            }
+          ],
+          "mark": {
+            "type": "line",
+            "strokeWidth": 2.5,
+            "interpolate": "step-after"
+          },
+          "encoding": {
+            "x": {
+              "field": "date",
+              "type": "temporal",
+              "timeUnit": "yearmonth"
+            },
+            "y": {
+              "field": "index",
+              "type": "quantitative",
+              "title": "Price index (2025 = 100)",
+              "axis": {
+                "orient": "left",
+                "titleColor": "#d1495b"
+              }
+            },
+            "color": {
+              "field": "series",
+              "type": "nominal",
+              "title": null,
+              "scale": {
+                "domain": [
+                  "Electricity",
+                  "Natural gas"
+                ],
+                "range": [
+                  "#d1495b",
+                  "#edae49"
+                ]
+              },
+              "legend": {
+                "orient": "bottom",
+                "labelFontSize": 11
+              }
+            },
+            "tooltip": [
+              {
+                "field": "series",
+                "type": "nominal",
+                "title": "Series"
+              },
+              {
+                "field": "date",
+                "type": "temporal",
+                "format": "%b %Y",
+                "title": "Month"
+              },
+              {
+                "field": "index",
+                "type": "quantitative",
+                "format": ".1f",
+                "title": "Price index (2025 = 100)"
+              },
+              {
+                "field": "yoy_pct",
+                "type": "quantitative",
+                "format": "+.1f",
+                "title": "% change on a year earlier"
+              }
+            ]
+          }
+        }
+      ],
+      "resolve": {
+        "scale": {
+          "y": "independent",
+          "color": "independent"
+        }
+      }
     }
-
   ]
 }
