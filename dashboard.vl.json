@@ -1,0 +1,54 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Ireland's energy price shock dashboard. Data: CSO CPM23 (EU Harmonised Index of Consumer Prices), cleaned in CleaningData.ipynb and loaded from GitHub. Layout: charts stacked vertically (vconcat). A timeline at the bottom defines a selection called 'brush' that controls which period chart 1 shows. 'config' sets global styles: no border around charts, axis font sizes. 'resolve' gives each chart its own colour scale.",
+  "title": {
+    "text": "Ireland's energy price shock",
+    "subtitle": "Drag across the timeline at the bottom to choose a period.",
+    "anchor": "start", "fontSize": 18, "subtitleFontSize": 14
+  },
+  "data": {"url": "https://raw.githubusercontent.com/julies101/ireland-energy-prices/refs/heads/main/energy_prices.json"},
+  "config": {"view": {"stroke": null}, "axis": {"labelFontSize": 12, "titleFontSize": 14}},
+  "resolve": {"legend": {"color": "independent"}, "scale": {"color": "independent"}},
+  "vconcat": [
+    {
+      "description": "CHART 1: household electricity price. Filter keeps only the Electricity rows. Line mark in red (#d1495b), the colour used for electricity throughout; clip stops the line drawing outside the chart when zoomed. x = date (temporal), its range is linked to the 'brush' selection so the chart zooms to the period chosen on the timeline; one year label per tick. y = price index (quantitative, 2025 = 100). Tooltip shows month, index (1 decimal place) and % change on a year earlier (with + or - sign).",
+      "title": {"text": "1. Household electricity price",
+                "subtitle": "Index: 100 = average 2025 price. 50 = half the 2025 price, 125 = 25% more.",
+                "anchor": "start", "fontSize": 14},
+      "width": 700, "height": 220,
+      "transform": [{"filter": "datum.series === 'Electricity'"}],
+      "mark": {"type": "line", "color": "#d1495b", "strokeWidth": 2.5, "clip": true},
+      "encoding": {
+        "x": {"field": "date", "type": "temporal", "title": null,
+              "scale": {"domain": {"param": "brush"}},
+              "axis": {"format": "%Y", "tickCount": "year"}},
+        "y": {"field": "index", "type": "quantitative", "title": "Price index (2025 = 100)"},
+        "tooltip": [
+          {"field": "date", "type": "temporal", "format": "%b %Y", "title": "Month"},
+          {"field": "index", "type": "quantitative", "format": ".1f", "title": "Index"},
+          {"field": "yoy_pct", "type": "quantitative", "format": "+.1f", "title": "% change on a year earlier"}
+        ]
+      }
+    },
+    {
+      "description": "TIMELINE (overview + brush): full 1996-2026 electricity history as a pale red area (40% opacity) so it reads as background context. 'params' defines the 'brush' selection: click and drag left-right (x only) to pick a period; it starts on Jan 2019 to Dec 2024 so the dashboard opens on the crisis. Double-click resets. The x-axis is not linked to the brush, so this strip always shows the whole history, labelled every 5 years with no grid lines.",
+      "title": {"text": "Timeline: drag to select a period, double-click to reset",
+                "anchor": "start", "fontSize": 12, "fontWeight": "normal", "color": "#555"},
+      "width": 700, "height": 70,
+      "transform": [{"filter": "datum.series === 'Electricity'"}],
+      "mark": {"type": "area", "color": "#d1495b", "opacity": 0.4},
+      "params": [{
+        "name": "brush",
+        "select": {"type": "interval", "encodings": ["x"]},
+        "value": {"x": [{"year": 2019, "month": 1, "date": 1}, {"year": 2024, "month": 12, "date": 1}]}
+      }],
+      "encoding": {
+        "x": {"field": "date", "type": "temporal", "title": null,
+              "axis": {"format": "%Y", "tickCount": {"interval": "year", "step": 5},
+                       "grid": false, "labelFontSize": 11}},
+        "y": {"field": "index", "type": "quantitative", "title": null,
+              "axis": {"tickCount": 2, "grid": false}}
+      }
+    }
+  ]
+}
