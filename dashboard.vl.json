@@ -30,6 +30,53 @@
         ]
       }
     },
+
+        {
+      "description": "CHART 2: electricity vs other household costs. Removes the 'Energy' and 'All items' series, then keeps only the months inside the 'brush' selection. A window transform finds each series' first value in the selected period ('base'), and each month is divided by it and multiplied by 100 ('rebased'), so every line starts at 100. Layer 1: dashed grey reference line at 100 (no change). Layer 2: one coloured line per series; colours are fixed, with electricity in the same red as chart 1. The 'pick' selection is bound to the legend: clicking a legend item keeps that line fully visible and fades the others to 12% opacity.",
+      "title": {"text": "2. Electricity vs other household costs",
+                "subtitle": "% change since the start of the selected period. Click legend items to compare them; click again to reset.",
+                "anchor": "start", "fontSize": 14},
+      "width": 700, "height": 260,
+      "transform": [
+        {"filter": "datum.series !== 'Energy' && datum.series !== 'All items'"},
+        {"filter": {"param": "brush"}},
+        {"window": [{"op": "first_value", "field": "index", "as": "base"}],
+         "sort": [{"field": "date"}], "groupby": ["series"]},
+        {"calculate": "datum.index / datum.base - 1", "as": "change"}
+      ],
+      "layer": [
+        {
+          "mark": {"type": "rule", "color": "#888", "strokeDash": [4, 4]},
+          "encoding": {"y": {"datum": 0}}
+        },
+        {
+          "params": [{"name": "pick", "select": {"type": "point", "fields": ["series"], "toggle": "true"}, "bind": "legend"}],
+          "mark": {"type": "line", "strokeWidth": 2},
+          "encoding": {
+            "x": {"field": "date", "type": "temporal", "title": null,
+                  "axis": {"format": "%Y", "tickCount": "year"}},
+            "y": {"field": "change", "type": "quantitative", "title": "Change since start of selected period",
+            "axis": {"format": "+.0%"}},
+            "color": {
+              "field": "series", "type": "nominal", "title": null,
+              "scale": {
+                "domain": ["Electricity", "Natural gas", "Home heating oil", "Solid fuels", "Petrol", "Diesel", "Food", "All items excl. energy"],
+                "range":  ["#d1495b", "#edae49", "#8d6a9f", "#7a5c3e", "#00798c", "#30638e", "#66a182", "#9e9e9e"]
+              },
+              "legend": {"orient": "right", "labelFontSize": 11, "symbolStrokeWidth": 3}
+            },
+            "opacity": {"condition": {"param": "pick", "value": 1}, "value": 0.12},
+            "tooltip": [
+              {"field": "series", "type": "nominal", "title": "Series"},
+              {"field": "date", "type": "temporal", "format": "%b %Y", "title": "Month"},
+              {"field": "change", "type": "quantitative", "format": "+.0%", "title": "Change since start of period"},
+              {"field": "yoy_pct", "type": "quantitative", "format": "+.1f", "title": "% change on a year earlier"}
+            ]
+          }
+        }
+      ]
+    },
+
     {
       "description": "TIMELINE (overview + brush): full 1996-2026 electricity history as a pale red area (40% opacity) so it reads as background context. 'params' defines the 'brush' selection: click and drag left-right (x only) to pick a period; it starts on Jan 2019 to Dec 2024 so the dashboard opens on the crisis. Double-click resets. The x-axis is not linked to the brush, so this strip always shows the whole history, labelled every 5 years with no grid lines.",
       "title": {"text": "Timeline: drag to select a period, double-click to reset",
