@@ -1,6 +1,5 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "description": "Ireland's energy price shock dashboard. Data: CSO CPM23 (EU Harmonised Index of Consumer Prices) and CSO MEG01 (Metered Electricity Generation), cleaned in CleaningData.ipynb and loaded from GitHub. Layout: short story text blocks and charts stacked vertically (vconcat), with 32px spacing so each section is clearly separated. A timeline defines a selection called 'brush' that controls which period charts 1 and 2 show. Charts 3 and 4 cover 2020-2023 only and are not linked to the timeline. 'config' sets global styles: no border around charts, axis font sizes. 'resolve' gives each chart its own colour scale and legend.",
   "title": {
     "text": "Ireland's energy price shock",
     "anchor": "start",
@@ -45,7 +44,6 @@
   },
   "vconcat": [
     {
-      "description": "STORY TEXT: a short first-person narrative linking the charts, drawn with a text mark (one line per data row) in dark blue so it reads separately from the chart titles and grey reading notes.",
       "width": 700,
       "height": 80,
       "data": {
@@ -65,7 +63,6 @@
       }
     },
     {
-      "description": "CHART 1: household electricity price. Filter keeps only the Electricity rows. Line mark in red (#d1495b), the colour used for electricity throughout; clip stops the line drawing outside the chart when zoomed. x = date (temporal), its range is linked to the 'brush' selection so the chart zooms to the period chosen on the timeline; one year label per tick. y = price index (quantitative, 2025 = 100). Tooltip shows month, index (1 decimal place) and % change on a year earlier (with + or - sign).",
       "title": {
         "text": "1. Household electricity prices doubled in 18 months and have not come back down",
         "subtitle": [
@@ -101,7 +98,6 @@
       }
     },
     {
-      "description": "STORY TEXT: a short first-person narrative linking the charts, drawn with a text mark (one line per data row) in dark blue so it reads separately from the chart titles and grey reading notes.",
       "width": 700,
       "height": 80,
       "data": {
@@ -121,12 +117,12 @@
       }
     },
     {
-      "description": "CHART 2: electricity vs other household costs. Removes the 'Energy' and 'All items' series, then keeps only the months inside the 'brush' selection. A window transform finds each series' first value in the selected period ('base'), and each month's change from it is calculated ('change'), so every line starts at 0%. Layer 1: dashed grey reference line at 0% (no change). Layer 2: one coloured line per series; colours are fixed, with electricity in the same red as chart 1. The 'pick' selection is bound to the legend with toggle on, so each click adds or removes a series; unselected lines fade to 12% opacity. The chart opens with only Electricity and All items excl. energy highlighted. Oil-based fuels (home heating oil, petrol, diesel) are dashed, so the two fuel groups can be told apart without relying on colour (colour-blind safe).",
       "title": {
         "text": "2. Energy costs rose far faster than everyday household costs",
         "subtitle": [
-          "How to read: % change since the start of the selected period. Dashed lines = oil-based fuels. Click legend items to",
-          "add or remove them; double-click the chart to show all."
+          "How to read: % change since the start of the selected period. Dashed lines = oil-based fuels. It opens on electricity",
+          "vs all items excl. energy to show how sharply the two differ. Click legend items to add or remove lines; double-click",
+          "the chart to show all."
         ],
         "anchor": "start",
         "fontSize": 15,
@@ -200,7 +196,6 @@
       ]
     },
     {
-      "description": "TIMELINE (overview + brush): full 1996-2026 electricity history as a pale red area (40% opacity) so it reads as background context. 'params' defines the 'brush' selection: click and drag left-right (x only) to pick a period; it starts on Jan 2019 to Dec 2024 so the dashboard opens on the crisis. Double-click clears the selection, so charts 1 and 2 show the full 1996-2026 history. Controls charts 1 and 2 only. The x-axis is not linked to the brush, so this strip always shows the whole history, labelled every 5 years with no grid lines.",
       "title": {
         "text": "Timeline for charts 1 and 2: opens on 2019–2024. Drag to choose any period from 1996 to 2026; double-click to show it all.",
         "anchor": "start",
@@ -231,7 +226,6 @@
       }
     },
     {
-      "description": "STORY TEXT: a short first-person narrative linking the charts, drawn with a text mark (one line per data row) in dark blue so it reads separately from the chart titles and grey reading notes.",
       "width": 700,
       "height": 60,
       "data": {
@@ -250,7 +244,6 @@
       }
     },
     {
-      "description": "CHART 3: growth of renewable electricity, 2020-2023. Uses its own data file (renewable_share.json, from the CSO's MEG01 table). Not linked to the timeline, because this data only covers 2020-2023. Bars: each month's share of electricity from renewables, split into wind (dark teal) and other renewables such as solar and hydro (light teal), stacked so the bar's total height is the full renewable share. Line: 12-month rolling average of the renewable share, which smooths out the seasonal ups and downs (windy winters, calm summers) to show the underlying trend.",
       "title": {
         "text": "3. Renewables supply around 40% of Ireland's electricity, but output rises and falls with the wind",
         "subtitle": [
@@ -332,7 +325,6 @@
       ]
     },
     {
-      "description": "STORY TEXT: a short first-person narrative linking the charts, drawn with a text mark (one line per data row) in dark blue so it reads separately from the chart titles and grey reading notes.",
       "width": 700,
       "height": 60,
       "data": {
@@ -351,7 +343,6 @@
       }
     },
     {
-      "description": "CHART 4: does more renewable electricity mean cheaper electricity? Covers Jan 2020 to Dec 2023 only (the period where both datasets overlap); not linked to the timeline. Layer 1 (bars): monthly renewable share of electricity from renewable_share.json, in pale teal, measured on the right-hand axis. Layer 2 (lines): household electricity and natural gas price indexes from energy_prices.json, filtered to 2020-2023, measured on the left-hand axis (2025 = 100). The two layers use different data files and different y-axes, so 'resolve' makes the y scales and colour legends independent. The right-hand axis (title, labels, ticks and line) is coloured teal to match the renewable bars; the left-hand price axis is neutral grey because it is shared by the red electricity and orange gas lines.",
       "title": {
         "text": "4. Electricity prices followed gas prices, not renewable generation",
         "subtitle": [
@@ -444,7 +435,6 @@
       "resolve": {"scale": {"y": "independent", "color": "independent"}}
     },
     {
-      "description": "CONCLUSION: a short text summary drawn with a text mark. Each line is one data row, so the text wraps where intended.",
       "title": {"text": "What this means", "anchor": "start", "fontSize": 16, "offset": 8},
       "width": 700,
       "height": 100,
